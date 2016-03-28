@@ -40,9 +40,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "noemen",
+                "prefLabel": [
+                    "noemen"
+                ],
                 "sentence": "73",
-                "size": 1,
+                "size": "1",
                 "time": "19330101"
             },
             {
@@ -78,9 +80,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "worden",
+                "prefLabel": [
+                    "worden"
+                ],
                 "sentence": "65",
-                "size": 1,
+                "size": "1",
                 "time": "18940101"
             },
             {
@@ -116,9 +120,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "schrijven",
+                "prefLabel": [
+                    "schrijven"
+                ],
                 "sentence": "86",
-                "size": 1,
+                "size": "1",
                 "time": "18990101"
             },
             {
@@ -154,9 +160,11 @@
                         "/Users/antskez/BNtest/naf_sample/00008350_02.xml.gz"
                     ]
                 },
-                "prefLabel": "overlijden",
+                "prefLabel": [
+                    "overlijden"
+                ],
                 "sentence": "16",
-                "size": 1,
+                "size": "1",
                 "time": "19070101"
             },
             {
@@ -192,9 +200,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "door_maken",
+                "prefLabel": [
+                    "door_maken"
+                ],
                 "sentence": "18",
-                "size": 1,
+                "size": "1",
                 "time": "18670101"
             },
             {
@@ -230,9 +240,11 @@
                         "/Users/antskez/BNtest/naf_sample/00008350_02.xml.gz"
                     ]
                 },
-                "prefLabel": "hebben",
+                "prefLabel": [
+                    "hebben"
+                ],
                 "sentence": "14",
-                "size": 1,
+                "size": "1",
                 "time": "18580101"
             },
             {
@@ -268,9 +280,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "overlijden",
+                "prefLabel": [
+                    "overlijden"
+                ],
                 "sentence": "54",
-                "size": 1,
+                "size": "1",
                 "time": "18760101"
             },
             {
@@ -306,9 +320,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "kiezen",
+                "prefLabel": [
+                    "kiezen"
+                ],
                 "sentence": "59",
-                "size": 1,
+                "size": "1",
                 "time": "19030101"
             },
             {
@@ -344,9 +360,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "behalen",
+                "prefLabel": [
+                    "behalen"
+                ],
                 "sentence": "28",
-                "size": 1,
+                "size": "1",
                 "time": "18780101"
             },
             {
@@ -382,9 +400,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "terug_komen",
+                "prefLabel": [
+                    "terug_komen"
+                ],
                 "sentence": "36",
-                "size": 1,
+                "size": "1",
                 "time": "18790101"
             },
             {
@@ -420,9 +440,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "pleiten",
+                "prefLabel": [
+                    "pleiten"
+                ],
                 "sentence": "21",
-                "size": 1,
+                "size": "1",
                 "time": "18680101"
             },
             {
@@ -458,9 +480,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "verhuizen",
+                "prefLabel": [
+                    "verhuizen"
+                ],
                 "sentence": "69",
-                "size": 1,
+                "size": "1",
                 "time": "19030101"
             },
             {
@@ -496,9 +520,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "verdedigen",
+                "prefLabel": [
+                    "verdedigen"
+                ],
                 "sentence": "29",
-                "size": 1,
+                "size": "1",
                 "time": "18790101"
             },
             {
@@ -537,9 +563,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "aan_gaan",
+                "prefLabel": [
+                    "aan_gaan"
+                ],
                 "sentence": "43",
-                "size": 1,
+                "size": "1",
                 "time": "18840101"
             },
             {
@@ -575,9 +603,11 @@
                         "/Users/antskez/BNtest/naf_sample/00008350_02.xml.gz"
                     ]
                 },
-                "prefLabel": "horen",
+                "prefLabel": [
+                    "horen"
+                ],
                 "sentence": "11",
-                "size": 1,
+                "size": "1",
                 "time": "18480101"
             },
             {
@@ -613,9 +643,11 @@
                         "/Users/antskez/BNtest/naf_sample/00008350_02.xml.gz"
                     ]
                 },
-                "prefLabel": "op_treden",
+                "prefLabel": [
+                    "op_treden"
+                ],
                 "sentence": "9",
-                "size": 1,
+                "size": "1",
                 "time": "18580101"
             },
             {
@@ -651,9 +683,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "op_richten",
+                "prefLabel": [
+                    "op_richten"
+                ],
                 "sentence": "24",
-                "size": 1,
+                "size": "1",
                 "time": "18690101"
             },
             {
@@ -689,9 +723,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "trouwen",
+                "prefLabel": [
+                    "trouwen"
+                ],
                 "sentence": "5",
-                "size": 1,
+                "size": "1",
                 "time": "18920101"
             },
             {
@@ -727,9 +763,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "voldoen",
+                "prefLabel": [
+                    "voldoen"
+                ],
                 "sentence": "46",
-                "size": 1,
+                "size": "1",
                 "time": "18940101"
             },
             {
@@ -765,9 +803,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "zien",
+                "prefLabel": [
+                    "zien"
+                ],
                 "sentence": "15",
-                "size": 1,
+                "size": "1",
                 "time": "18670101"
             },
             {
@@ -803,9 +843,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "blijven",
+                "prefLabel": [
+                    "blijven"
+                ],
                 "sentence": "59",
-                "size": 1,
+                "size": "1",
                 "time": "19190101"
             },
             {
@@ -841,9 +883,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "brengen",
+                "prefLabel": [
+                    "brengen"
+                ],
                 "sentence": "53",
-                "size": 1,
+                "size": "1",
                 "time": "18940101"
             },
             {
@@ -879,9 +923,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "richten",
+                "prefLabel": [
+                    "richten"
+                ],
                 "sentence": "64",
-                "size": 1,
+                "size": "1",
                 "time": "18940101"
             },
             {
@@ -917,9 +963,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "verhinderen",
+                "prefLabel": [
+                    "verhinderen"
+                ],
                 "sentence": "54",
-                "size": 1,
+                "size": "1",
                 "time": "18940101"
             },
             {
@@ -955,9 +1003,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "veranderen",
+                "prefLabel": [
+                    "veranderen"
+                ],
                 "sentence": "58",
-                "size": 1,
+                "size": "1",
                 "time": "18990101"
             },
             {
@@ -993,9 +1043,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "worden",
+                "prefLabel": [
+                    "worden"
+                ],
                 "sentence": "28",
-                "size": 1,
+                "size": "1",
                 "time": "18780101"
             },
             {
@@ -1031,9 +1083,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "beginnen",
+                "prefLabel": [
+                    "beginnen"
+                ],
                 "sentence": "72",
-                "size": 1,
+                "size": "1",
                 "time": "19060101"
             },
             {
@@ -1069,9 +1123,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "af_leggen",
+                "prefLabel": [
+                    "af_leggen"
+                ],
                 "sentence": "27",
-                "size": 1,
+                "size": "1",
                 "time": "18770101"
             },
             {
@@ -1107,9 +1163,11 @@
                         "/Users/antskez/BNtest/naf_sample/00073062_06.xml.gz"
                     ]
                 },
-                "prefLabel": "vestigen",
+                "prefLabel": [
+                    "vestigen"
+                ],
                 "sentence": "63",
-                "size": 1,
+                "size": "1",
                 "time": "18900101"
             },
             {
@@ -1145,9 +1203,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "slagen",
+                "prefLabel": [
+                    "slagen"
+                ],
                 "sentence": "16",
-                "size": 1,
+                "size": "1",
                 "time": "18700101"
             },
             {
@@ -1183,9 +1243,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "geven",
+                "prefLabel": [
+                    "geven"
+                ],
                 "sentence": "12",
-                "size": 1,
+                "size": "1",
                 "time": "18480101"
             },
             {
@@ -1221,9 +1283,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "wijzen",
+                "prefLabel": [
+                    "wijzen"
+                ],
                 "sentence": "40",
-                "size": 1,
+                "size": "1",
                 "time": "18850101"
             },
             {
@@ -1259,9 +1323,11 @@
                         "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
                     ]
                 },
-                "prefLabel": "af_stappen",
+                "prefLabel": [
+                    "af_stappen"
+                ],
                 "sentence": "67",
-                "size": 1,
+                "size": "1",
                 "time": "18830101"
             }
         ],
