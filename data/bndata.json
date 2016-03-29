@@ -1,10 +1,10 @@
 {
  "timeline": {
   "actor_cnt": [
-   2
+   3
   ],
   "event_cnt": [
-   15
+   23
   ],
   "events": [
    {
@@ -52,132 +52,6 @@
    {
     "actors": {
      "Arg0": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "zien1918",
-    "group": "100:zien",
-    "groupName": "zien",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#zien1918",
-    "labels": [
-     "zien"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2033",
-       "2036"
-      ],
-      "sentence": [
-       "21"
-      ],
-      "terms": [
-       "t_413"
-      ],
-      "tokens": [
-       "w414"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "zien"
-    ],
-    "sentence": "21",
-    "size": "1",
-    "time": "19180101"
-   },
-   {
-    "actors": {
-     "Arg1-PPT": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "birth1905",
-    "group": "100:birth",
-    "groupName": "birth",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1905",
-    "labels": [
-     "birth"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/mini_set/60738635_02.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "birth"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "19050101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "mogen1908",
-    "group": "100:mogen",
-    "groupName": "mogen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#mogen1908",
-    "labels": [
-     "mogen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "940",
-       "945"
-      ],
-      "sentence": [
-       "9"
-      ],
-      "terms": [
-       "t_179"
-      ],
-      "tokens": [
-       "w180"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "mogen"
-    ],
-    "sentence": "9",
-    "size": "1",
-    "time": "19080101"
-   },
-   {
-    "actors": {
-     "Arg0": [
       "Setske_de_Haan"
      ]
     },
@@ -216,6 +90,49 @@
     "sentence": "43",
     "size": "1",
     "time": "19460101"
+   },
+   {
+    "actors": {
+     "#": [
+      "Setske_de_Haan",
+      "Setske_de_Haan"
+     ]
+    },
+    "climax": 1,
+    "event": "worden1901",
+    "group": "100:worden",
+    "groupName": "worden",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#worden1901",
+    "labels": [
+     "worden"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "1153",
+       "1157"
+      ],
+      "sentence": [
+       "11"
+      ],
+      "terms": [
+       "t_218"
+      ],
+      "tokens": [
+       "w219"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "worden"
+    ],
+    "sentence": "11",
+    "size": "1",
+    "time": "19010101"
    },
    {
     "actors": {
@@ -262,44 +179,131 @@
    {
     "actors": {
      "Arg0": [
-      "Setske_de_Haan"
+      "Geertruida_van_Vladeracken"
      ]
     },
     "climax": 1,
-    "event": "verschijnen1919",
-    "group": "100:verschijnen",
-    "groupName": "verschijnen",
+    "event": "maken1921",
+    "group": "100:maken",
+    "groupName": "maken",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verschijnen1919",
+    "instance": "bn:dvn_1900-1949#maken1921",
     "labels": [
-     "verschijnen"
+     "maken"
     ],
     "mentions": [
      {
       "char": [
-       "2994",
-       "3003"
+       "2489",
+       "2495"
       ],
       "sentence": [
-       "26"
+       "23"
       ],
       "terms": [
-       "t_542"
+       "t_444"
       ],
       "tokens": [
-       "w543"
+       "w445"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "verschijnen"
+     "maken"
     ],
-    "sentence": "26",
+    "sentence": "23",
     "size": "1",
-    "time": "19190101"
+    "time": "19210101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Geertruida_van_Vladeracken"
+     ],
+     "Arg2": [
+      "Geertruida_van_Vladeracken"
+     ]
+    },
+    "climax": 1,
+    "event": "hertrouwen1915",
+    "group": "100:hertrouwen",
+    "groupName": "hertrouwen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#hertrouwen1915",
+    "labels": [
+     "hertrouwen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "1294",
+       "1304"
+      ],
+      "sentence": [
+       "15"
+      ],
+      "terms": [
+       "t_236"
+      ],
+      "tokens": [
+       "w237"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "hertrouwen"
+    ],
+    "sentence": "15",
+    "size": "1",
+    "time": "19150101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Johanna_Helena_van_Uden"
+     ]
+    },
+    "climax": 1,
+    "event": "zien1918",
+    "group": "100:zien",
+    "groupName": "zien",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#zien1918",
+    "labels": [
+     "zien"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2033",
+       "2036"
+      ],
+      "sentence": [
+       "21"
+      ],
+      "terms": [
+       "t_413"
+      ],
+      "tokens": [
+       "w414"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "zien"
+    ],
+    "sentence": "21",
+    "size": "1",
+    "time": "19180101"
    },
    {
     "actors": {
@@ -342,6 +346,48 @@
     "sentence": "5",
     "size": "1",
     "time": "19160101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Setske_de_Haan"
+     ]
+    },
+    "climax": 1,
+    "event": "death1948",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1948",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/mini_set/25638658_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19480101"
    },
    {
     "actors": {
@@ -394,6 +440,48 @@
    {
     "actors": {
      "Arg1-PPT": [
+      "Geertruida_van_Vladeracken"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1880",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1880",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/mini_set/16384097_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18800101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
       "Setske_de_Haan"
      ]
     },
@@ -432,6 +520,342 @@
     "sentence": "metadata",
     "size": "1",
     "time": "18890101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Johanna_Helena_van_Uden"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1905",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1905",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/mini_set/60738635_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19050101"
+   },
+   {
+    "actors": {
+     "A1": [
+      "Geertruida_van_Vladeracken"
+     ]
+    },
+    "climax": 1,
+    "event": "aan_kondigen1918",
+    "group": "100:aan_kondigen",
+    "groupName": "aan_kondigen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#aan_kondigen1918",
+    "labels": [
+     "aan_kondigen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "1539",
+       "1551"
+      ],
+      "sentence": [
+       "17"
+      ],
+      "terms": [
+       "t_280"
+      ],
+      "tokens": [
+       "w281"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "aan_kondigen"
+    ],
+    "sentence": "17",
+    "size": "1",
+    "time": "19180101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Geertruida_van_Vladeracken"
+     ]
+    },
+    "climax": 1,
+    "event": "death1947",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1947",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/mini_set/16384097_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19470101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Johanna_Helena_van_Uden"
+     ]
+    },
+    "climax": 1,
+    "event": "death1949",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1949",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/mini_set/60738635_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19490101"
+   },
+   {
+    "actors": {
+     "A0": [
+      "Setske_de_Haan"
+     ]
+    },
+    "climax": 1,
+    "event": "sterven1948",
+    "group": "100:sterven",
+    "groupName": "sterven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#sterven1948",
+    "labels": [
+     "sterven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "4843",
+       "4849"
+      ],
+      "sentence": [
+       "46"
+      ],
+      "terms": [
+       "t_889"
+      ],
+      "tokens": [
+       "w890"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "sterven"
+    ],
+    "sentence": "46",
+    "size": "1",
+    "time": "19480101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Setske_de_Haan"
+     ]
+    },
+    "climax": 1,
+    "event": "verschijnen1919",
+    "group": "100:verschijnen",
+    "groupName": "verschijnen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#verschijnen1919",
+    "labels": [
+     "verschijnen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2994",
+       "3003"
+      ],
+      "sentence": [
+       "26"
+      ],
+      "terms": [
+       "t_542"
+      ],
+      "tokens": [
+       "w543"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "verschijnen"
+    ],
+    "sentence": "26",
+    "size": "1",
+    "time": "19190101"
+   },
+   {
+    "actors": {
+     "Arg1": [
+      "Setske_de_Haan"
+     ]
+    },
+    "climax": 1,
+    "event": "mogen1908",
+    "group": "100:mogen",
+    "groupName": "mogen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#mogen1908",
+    "labels": [
+     "mogen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "940",
+       "945"
+      ],
+      "sentence": [
+       "9"
+      ],
+      "terms": [
+       "t_179"
+      ],
+      "tokens": [
+       "w180"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "mogen"
+    ],
+    "sentence": "9",
+    "size": "1",
+    "time": "19080101"
+   },
+   {
+    "actors": {
+     "A1": [
+      "Geertruida_van_Vladeracken"
+     ]
+    },
+    "climax": 1,
+    "event": "trouwen1901",
+    "group": "100:trouwen",
+    "groupName": "trouwen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#trouwen1901",
+    "labels": [
+     "trouwen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "1137",
+       "1144"
+      ],
+      "sentence": [
+       "13"
+      ],
+      "terms": [
+       "t_208"
+      ],
+      "tokens": [
+       "w209"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "trouwen"
+    ],
+    "sentence": "13",
+    "size": "1",
+    "time": "19010101"
    },
    {
     "actors": {
@@ -478,48 +902,6 @@
    {
     "actors": {
      "A0": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1948",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1948",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4843",
-       "4849"
-      ],
-      "sentence": [
-       "46"
-      ],
-      "terms": [
-       "t_889"
-      ],
-      "tokens": [
-       "w890"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "46",
-    "size": "1",
-    "time": "19480101"
-   },
-   {
-    "actors": {
-     "A0": [
       "Johanna_Helena_van_Uden"
      ]
     },
@@ -561,94 +943,56 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "death1949",
-    "group": "100:death",
-    "groupName": "death",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#death1949",
-    "labels": [
-     "death"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/mini_set/60738635_02.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "death"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "19490101"
-   },
-   {
-    "actors": {
-     "Arg1-PPT": [
+     "#": [
       "Setske_de_Haan"
      ]
     },
     "climax": 1,
-    "event": "death1948",
-    "group": "100:death",
-    "groupName": "death",
+    "event": "terug_keren1901",
+    "group": "100:terug_keren",
+    "groupName": "terug_keren",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#death1948",
+    "instance": "bn:dvn_1900-1949#terug_keren1901",
     "labels": [
-     "death"
+     "terug_keren"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "1106",
+       "1112"
       ],
       "sentence": [
-       "-1"
+       "11"
       ],
       "terms": [
-       "t-1"
+       "t_210"
       ],
       "tokens": [
-       "w-1"
+       "w211"
       ],
       "uri": [
-       "/Users/antskez/BNtest/mini_set/25638658_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "death"
+     "terug_keren"
     ],
-    "sentence": "metadata",
+    "sentence": "11",
     "size": "1",
-    "time": "19480101"
+    "time": "19010101"
    }
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   15
+   23
   ],
   "sources": [
+   {
+    "text": "VLADERACKEN, Geertruida van (geb. Haarlem\n18-4-1880 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Naarden 4-1-1947), voordrachtkunstenares en componiste.\nDochter van Gerard Pieter van Vladeracken (1830-1886) en jonkvrouw Jacoba\nElisabeth van Foreest (1842-1909). Geertruida van Vladeracken trouwde (1) op\n30-5-1901 in Haarlem met Nicolaas Cornelis Vogel (1874-1915), violist en\nvioolleraar (2) op 26-2-1916 in Londen (Engeland) met Jan Christiaan Poortenaar (1886-1958), graficus,\nkunstenaar en uitgever. Beide huwelijken bleven kinderloos.\nGeertruida\nvan Vladeracken studeerde piano aan het Amsterdams Conservatorium in de jaren\ndat Dani\u00c3\u0083\u00c2\u00abl de Lange daar directeur was; ook volgde ze zanglessen bij Cornelia\nvan Zanten. Al snel stond de opleiding haar niet aan \u00c3\u00a2\u00c2\u0080\u00c2\u0093 te klassiek \u00c3\u00a2\u00c2\u0080\u00c2\u0093 en zocht\nze haar heil bij andere leraren. Indien nodig reisde ze hiervoor zelfs in \u00c3\u0083\u00c2\u00a9\u00c3\u0083\u00c2\u00a9n\ndag heen en weer naar Keulen. Als vertolkster van het lied ging haar voorkeur\nuit naar Schubert en Brahms. \u00c3\u00a2\u00c2\u0080\u00c2\u0098Haar klare, heldere sopraan, zo zuiver als glas\u00c3\u00a2\u00c2\u0080\u00c2\u0099\n(De Lange) bezorgde haar succes. Van Vladeracken zong haar eerste\nliederenavonden op een tournee in Scandinavi\u00c3\u0083\u00c2\u00ab in Stockholm, Oslo en G\u00c3\u0083\u00c2\u00b6teborg. \nIn\n1901 trouwde Geertruida van Vladeracken met de violist Nicolaas Cornelis Vogel.\nOver haar huwelijksjaren met Vogel is niets bekend. Een jaar na diens dood\n(1915) hertrouwde ze met de graficus Jan Christiaan Poortenaar, met wie ze naar\nLonden verhuisde. Ze legde zich toe op de vertolking van oude volksliedjes. In\nhet programmaboekje van haar optreden bij de katholieke kunstkring De Violier\n(1918) werd ze aangekondigd als een \u00c3\u00a2\u00c2\u0080\u00c2\u0098begaafde vrouw, bekwaam zangeres en\nintelligent componiste, gekleed in haar eenvoudig en karakteristiek gewaad\u00c3\u00a2\u00c2\u0080\u00c2\u0099 die\noude liedjes als \u00c3\u00a2\u00c2\u0080\u00c2\u0098Hoe leit dit kindeken\u00c3\u00a2\u00c2\u0080\u00c2\u0099 en \u00c3\u00a2\u00c2\u0080\u00c2\u0098Jesus\u00c3\u00a2\u00c2\u0080\u00c2\u0099 dood\u00c3\u00a2\u00c2\u0080\u00c2\u0099 vertolkte \u00c3\u00a2\u00c2\u0080\u00c2\u0098met innig\ngevoel en sober gebaar\u00c3\u00a2\u00c2\u0080\u00c2\u0099. De liederen die Van Vladeracken zong, vond zij in\nbekende bundels (zelden meer gebruikt) \u00c3\u0083\u00c2\u00a9n in oude\ndrukken die ze zelf opzocht in bibliotheken. \nSamen\nmet Poortenaar maakte ze diverse tournees. Toen ze tijdens haar concertreizen door\nEngeland en Schotland in aanraking kwam met traditionele Engelse en Schotse\nliederen, besloot ze begeleidingen voor strijkkwartet bij de oude melodie\u00c3\u0083\u00c2\u00abn uit\ntoneelstukken van Shakespeare te componeren. Ook maakte ze nieuwe muziek op\noude Schotse ridderballades en liederen van fee\u00c3\u0083\u00c2\u00abn. Ze cre\u00c3\u0083\u00c2\u00aberde daarmee een voor\ndie tijd nieuw liederenrepertoire dat bevreemding wekte, maar sommigen \u00c3\u00a2\u00c2\u0080\u00c2\u0093 onder\nwie de dichter Adriaan Roland Holst \u00c3\u00a2\u00c2\u0080\u00c2\u0093 ook sterk aansprak en inspireerde. \nIn\n1921 maakte Van Vladeracken een tournee door Nederland en tussen 1922 en 1924\nmaakte ze met haar man een rondreis door het toenmalige Nederlands-Indi\u00c3\u0083\u00c2\u00ab. Hier\ntraden ze samen op: zij als voordrachtkunstenares, haar man als haar begeleider\nop de piano. In 1926 werden haar Songs of a Child, six Melodies uitgegeven\ndoor muziekuitgeverij Alsbach. De bekende kinderboekenillustratrice Rie Cramer\nmaakte er tekeningen bij en de liedjes waren voorzien van een Nederlandse\nvertaling. De kinderliedjes waren niet braaf en moraliserend maar juist speels,\nwant ze moesten aansluiten bij de belevingswereld van kinderen. \nNa haar reizen vestigde Van Vladeracken zich met\nPoortenaar in Naarden aan de Meentweg. Tijdens de Tweede Wereldoorlog\nliet\u00c3\u0082\u00c2\u00a0 ze zich niet in het openbaar horen,\nmaar trad alleen in besloten kring op. Na de Bevrijding componeerde ze het lied\n\u00c3\u00a2\u00c2\u0080\u00c2\u0098Vrij!\u00c3\u00a2\u00c2\u0080\u00c2\u0099; de \u00c3\u0082\u00c2\u00a0tekst, die onder meer zegt\ndat men een geuzenvolk er nooit onder krijgt, had ze zelf geschreven. In 1946 publiceerde\nze Muziek. Veroverd paradijs uit: een soort terugblik op haar loopbaan.\nHierin geeft ze niet zozeer een anekdotische levensbeschrijving, maar meer een\nindruk van wat muziek voor haar heeft betekend. In datzelfde jaar bracht ze ook\nFacetten van het Belcanto uit, dat later bekend werd onder de titel Beter\nzingen! Met dit boekje beoogde ze een aantal losse adviezen te geven die ze\nin de praktijk had geleerd. Geertruida van Vladeracken overleed op 4 januari\n1947.\nNaslagwerken\nJacobs;\nWaller.\nArchivalia\nAletta\nE-Quality, Amsterdam: archief Stichting vrouw en muziek.Centraal\nBureau voor Genealogie, Den Haag: collectie Veenhuijzen, Van Vladeracken;\nVogel.Nederlands\nMuziekarchief. Collectie Van Vladeracken.Universiteit\nLeiden. Brief van Geertruida van Vladeracken aan De Gids, 9-11-1938.\nPublicaties\nVoor\neen complete lijst van publicaties zie: www.nederlandsmuziekinstituut.nl\nLiteratuur\n\u00c3\u00a2\u00c2\u0080\u00c2\u0098Geertruida\nvan Vladeracken\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Leidsch Dagblad, 18-8-1921.Dirk\nM. Huizinga, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Geertruida van Vladeracken\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Torenreeks 33-34, 1947.R.\nW. P. de Vries, Jan Poortenaar en zijn werk (Naarden 1947).Nederland\u00c3\u00a2\u00c2\u0080\u00c2\u0099s\nPatriciaat 8 (1917); 23 (1939); 41 (1955).Alit\nM.L.R. Djajasoebrata, Kunstreis in de tropen (Rotterdam 1969).\nIllustratie\nPortretfoto door onbekende fotograaf, ongedateerd (Nederlands Muziek Instituut, Den Haag).\nAuteur:\nVera Weterings",
+    "uri": "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+   },
    {
     "text": "HAAN, Setske de, vooral bekend als Cissy van Marxveldt (geb. Schoterland, Friesland 24-11-1889 \u00e2\u0080\u0093 gest. Bussum 31-10-1948), schrijfster van jeugdboeken. Dochter van Ynze de Haan (1860-1926), hoofdonderwijzer, later leraar geschiedenis, en Froukje de Groot (1863-1935). Setske de Haan trouwde op 3-2-1916 in Amsterdam met Leon Beek (1893-1944), bedrijfsleider. Uit dit huwelijk werden 2 zoons geboren.Al op de lagere school schreef Setske de Haan, enig kind van een vooruitstrevende hoofdonderwijzer in het Friese dorp Oranjewoud, schriften vol met verzinsels, \u00e2\u0080\u0098gestolen uit alle boeken, die ik [...] verslonden had\u00e2\u0080\u0099 (\u00e2\u0080\u0098Wat voorbijging\u00e2\u0080\u0099, 18). Op haar vijftiende, toen ze op de driejarige HBS in het naburige Heerenveen naar eigen zeggen \u00e2\u0080\u0098tamelijk de beest schopte\u00e2\u0080\u0099, verkocht ze aan een plaatselijke krant een romantische novelle die als feuilleton werd gepubliceerd. Door een blindedarmontsteking kwam ze niet toe aan haar eindexamen, maar ze mocht in 1908 naar het buitenland. Als au pair bij een tamelijk streng doktersgezin in het Britse Coventry kreeg ze de roepnaam Cissy. Na een jaar kostschool in Bath keerde Setske de Haan terug naar Oranjewoud en werd ze leerling-verslaggeefster bij de Drachtster Courant. Ze vond het werk weinig uitdagend en vertrok omstreeks 1910 naar Amsterdam, leerde stenografie en typen en werd secretaresse op het Duitse handelskantoor Wolff. Tijdens de mobilisatie correspondeerde ze met de reserveofficier Leo Beek, die ze in haar Amsterdamse kosthuis had leren kennen. Hij vond haar brieven zo levendig en onderhoudend dat hij haar aanspoorde weer voor tijdschriften te schrijven. Vanaf 1915 verschenen haar verhalen in het weekblad Panorama onder namen als \u00e2\u0080\u0098Betty Bierema\u00e2\u0080\u0099, \u00e2\u0080\u0098Ans Woud\u00e2\u0080\u0099 en \u00e2\u0080\u0098Cissy van Marxveldt\u00e2\u0080\u0099. Leonoor Wagenaar suggereert dat \u00e2\u0080\u0098Van Marxveldt\u00e2\u0080\u0099 verwijst naar de \u00e2\u0080\u0098rode gemeente\u00e2\u0080\u0099 Oranjewoud, maar dat is twijfelachtig. Het adelsdorp Oranjewoud (het \u00e2\u0080\u0098Friese Haagje\u00e2\u0080\u0099) was en is geen gemeente en was allesbehalve rood. De naam Bierema lijkt ge\u00c3\u00afnspireerd op de plaatselijke aristocratische familie Bieruma Oosting.SuccessenIn 1916 trouwde De Haan met Beek, die toen in Laren was gelegerd. Bij de uitgever van Panorama verscheen in 1917 haar eerste meisjesroman, die zich afspeelt in een tennismilieu. Een jaar later volgde Het hoogfatsoen van Herr Feuer, gebaseerd op haar ervaringen bij het handelskantoor. Geen van beide boeken werd een succes, maar haar tennisroman leverde een opdracht op voor een vervolgverhaal in een nieuw jongerentijdschrift. Ze koos voor een reeks brieven van een HBS-leerlinge aan haar hartsvriendin. Toen het blad na drie nummers werd opgeheven, bleef ze over deze \u00e2\u0080\u0098Joop ter Heul\u00e2\u0080\u0099 schijven. Ze gaf haar de afkomst die ze zelf graag had willen hebben: een gegoed milieu in een groot huis met veel personeel, de modernste transportmiddelen, een hang naar de tennisbaan en een eindeloze rij potenti\u00c3\u00able verloofdes, over wie honderduit kon worden geroddeld en met wie giechelig kon worden geflirt. De HBS-tijd van Joop ter Heul verscheen in 1919 en was onmiddellijk een bestseller. In drie vervolgromans veranderde de springerige bakvis Joop ter Heul langzaam maar zeker in een serieuze verloofde en vervolgens een aangepaste huisvrouw met een enigszins vaderlijke echtgenoot. In 1927 liet ze in Een zomerzotheid nog eenmaal een groep HBS-bakvissen glori\u00c3\u00abren. Ook dit boek werd een succes. Hoewel De Haan altijd heeft ontkend dat Joop ter Heul een zelfportret was, gaf ze toe \u00e2\u0080\u0098dat de heldin eigenschappen vertoont, die ik in ruime mate zelf bezit\u00e2\u0080\u0099 (Van Gelder). Ze deelde met haar heldin onder meer een frisse tegenzin tegen het huishouden. Door het succes van haar boeken kon ze zich het huispersoneel veroorloven waar ze van gedroomd had. In de jaren 1930 zou ze zo\u00e2\u0080\u0099n vijftigduizend gulden per jaar royalties hebben verdiend. In die tijd kreeg ze gezondheidsproblemen. Ze was na een beroerte in 1929, die achteraf veroorzaakt bleek door een hersentumor, halfzijdig verlamd en typte sindsdien linkshandig. De economische depressie maakte ook de toon van haar boeken ernstiger. De verkoop van deze nieuwe romans bleef achter bij die van de Joop ter Heul-reeks.De Haan en haar man, die inmiddels bedrijfsleider bij het warenhuis De Bijenkorf was, zijn vaak verhuisd. Net zoals het gezin van Joop ter Heul leefden ze liefst met de seizoenen: \u00e2\u0080\u0099s zomers in Bloemendaal of Wijk aan Zee, \u00e2\u0080\u0099s winters in Amsterdam, Hilversum of Bussum. Haar man overleefde de oorlog niet. In 1944 werd hij als verzetsman opgepakt en in de duinen bij Overveen gefusilleerd. \u00e2\u0080\u0098Nadat ik bericht over zijn dood ontving, heb ik niets meer gepresteerd\u00e2\u0080\u0099, zei ze later in een interview (Wagenaar). Na de bevrijding droeg ze niettemin Ook zij maakte het mee (1946) aan hem op. Deze sobere roman over een meisje dat in het verzet werkte, vond weinig aftrek. Ook met haar gezondheid ging het bergafwaarts. In 1948 stierf Setske de Haan, beter bekend als Cissy van Marxveldt, op 58-jarige leeftijd. ReputatieDe Haans boeken uit de jaren 1920 hebben de schrijfster met glans overleefd. Joop ter Heul en Een zomerzotheid worden nog steeds herdrukt en zijn omstreeks 1970 door de KRO voor televisie verfilmd met Trudy Labij in de titelrol. Natuurlijk kwam er in de jaren 1970 kritiek op het rolbevestigende patroon van haar meest gelezen romanreeks. Pattynama heeft er echter in 1996 op gewezen dat ze de \u00e2\u0080\u0098Bildung\u00e2\u0080\u0099 en genderontwikkeling van Joop ter Heul voor haar tijd juist tamelijk genuanceerd heeft beschreven, met veel oog voor de spanning tussen haar spontane levenshouding en de burgerlijke moraal \u00e2\u0080\u0093 waarbij ze zich ten slotte bijna onvermijdelijk neerlegt. Als tijdsbeeld van het leven van de \u00e2\u0080\u0098jeunesse dor\u00c3\u00a9e\u00e2\u0080\u0099 in het interbellum, van nabij beschreven door een relatieve buitenstaander die ook over de grenzen heeft gekeken, blijft haar werk van belang. In 2007 is een in 1975 door een Nederlands-Amerikaanse astronoom ontdekte planeto\u00c3\u00afde (nummer 10667) \u00e2\u0080\u0098Van Marxveldt\u00e2\u0080\u0099 genoemd.NaslagwerkenBWN; International Movie Database; Lexicon Jeugdliteratuur.ArchivaliaLetterkundig Museum, Den Haag: persdocumentatie betreffende Cissy van Marxveldt.Publicaties\u00e2\u0080\u0098Wat voorbijging\u00e2\u0080\u0099, in: C. van Marxveldt en E. Belinfante-Belinfante, Confetti (Amersfoort 1930) 17-30. Voor overige titels zie: Lexicon van de jeugdliteratuur.LiteratuurL. van Ginneken, \u00e2\u0080\u0098Een zomerzotheid, verhalen die onthouden worden\u00e2\u0080\u0099, Algemeen Handelsblad, 2-4-1970.T.W.R. de Haan, \u00e2\u0080\u0098Leven en werk van Cissy van Marxveldt\u00e2\u0080\u0099, in: C. van Marxveldt, Mijn dorp in Friesland (Den Haag 1970) 5-31 [in 1989 herdrukt als: Cissy van Marxveldt (1889-1948). Biografie].E. Reitsma, \u00e2\u0080\u0098Joop ter Heul, van rebelse meid tot opofferende moeder\u00e2\u0080\u0099, Vrij Nederland, 9-8-1975.C. Dresselhuys, \u00e2\u0080\u0098Cissy van Marxveldt: schrijven met \u00c3\u00a9\u00c3\u00a9n hand\u00e2\u0080\u0099, Opzij. Feministisch Maandblad 8 (1980) nr. 7/8, 5-9.H. van Gelder, \u00e2\u0080\u0098Jopopinoloukico\u00e2\u0080\u0099, in: Idem, \u00e2\u0080\u0099t Is \u00e2\u0080\u0099n bijzonder kind, dat is ie. Kinderboekenschrijvers van toen (Bussum 1980) 50-61.L. Wagenaar, \u00e2\u0080\u0098Cissy van Marxveldt gaat nooit verloren\u00e2\u0080\u0099, Het Parool, 22-7-1989.R. Mulder-Radetzky en B. de Vries, Geschiedenis van Oranjewoud (Alphen a/d Rijn 1989).J. van Marxveldt, De zoon van Joop ter Heul (Helmond 1991).P. Pattynama, \u00e2\u0080\u0098Ontheemde vondelingen. Vrouwelijke adolescentie en \u00e2\u0080\u009cBildung\u00e2\u0080\u009d\u00e2\u0080\u0099, in: M. Bosch red., Denken over sekse in cultuur en wetenschap. Lezingen over gender- en vrouwenstudies (Amsterdam 1996) 22-44.IllustratiePortretfoto. Bron: collectie Aletta, instituut voor vrouwengeschiedenis, Amsterdam.Auteur: Henk van Gelder",
     "uri": "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
@@ -659,7 +1003,7 @@
    }
   ],
   "story_cnt": [
-   2
+   3
   ],
   "text": "Biographical lines",
   "type": "default"
