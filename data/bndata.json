@@ -4,9 +4,93 @@
    3
   ],
   "event_cnt": [
-   33
+   39
   ],
   "events": [
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Aletta_Henri\u00ebtte_Jacobs"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1854",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1854",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/sample/70692657_08.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18540101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Christina_Elizabeth_Perk"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1833",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1833",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/sample/00073062_06.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18330101"
+   },
    {
     "actors": {
      "Arg1": [
@@ -93,45 +177,45 @@
    },
    {
     "actors": {
-     "Arg1": [
-      "Aletta_Henri\u00ebtte_Jacobs"
+     "Arg1-PPT": [
+      "Christina_Petronella_Achenbach"
      ]
     },
     "climax": 1,
-    "event": "schrijven1899",
-    "group": "100:schrijven",
-    "groupName": "schrijven",
+    "event": "birth1816",
+    "group": "100:birth",
+    "groupName": "birth",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#schrijven1899",
+    "instance": "bn:dvn_1900-1949#birth1816",
     "labels": [
-     "schrijven"
+     "birth"
     ],
     "mentions": [
      {
       "char": [
-       "13343",
-       "13350"
+       "0",
+       "0"
       ],
       "sentence": [
-       "86"
+       "-1"
       ],
       "terms": [
-       "t_2274"
+       "t-1"
       ],
       "tokens": [
-       "w2275"
+       "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
+       "/Users/antskez/BNtest/sample/00008350_02.xml#metadata"
       ]
      }
     ],
     "prefLabel": [
-     "schrijven"
+     "birth"
     ],
-    "sentence": "86",
+    "sentence": "metadata",
     "size": "1",
-    "time": "18990101"
+    "time": "18160101"
    },
    {
     "actors": {
@@ -556,47 +640,44 @@
    {
     "actors": {
      "A0": [
-      "Aletta_Henri\u00ebtte_Jacobs"
-     ],
-     "A1": [
-      "Aletta_Henri\u00ebtte_Jacobs"
+      "Christina_Petronella_Achenbach"
      ]
     },
     "climax": 1,
-    "event": "aan_gaan1884",
-    "group": "100:aan_gaan",
-    "groupName": "aan_gaan",
+    "event": "op_treden1858",
+    "group": "100:op_treden",
+    "groupName": "op_treden",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#aan_gaan1884",
+    "instance": "bn:dvn_1900-1949#op_treden1858",
     "labels": [
-     "aan_gaan"
+     "op_treden"
     ],
     "mentions": [
      {
       "char": [
-       "5980",
-       "5984"
+       "797",
+       "801"
       ],
       "sentence": [
-       "43"
+       "9"
       ],
       "terms": [
-       "t_1052"
+       "t_137"
       ],
       "tokens": [
-       "w1053"
+       "w138"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
+       "/Users/antskez/BNtest/naf_sample/00008350_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "aan_gaan"
+     "op_treden"
     ],
-    "sentence": "43",
+    "sentence": "9",
     "size": "1",
-    "time": "18840101"
+    "time": "18580101"
    },
    {
     "actors": {
@@ -643,44 +724,47 @@
    {
     "actors": {
      "A0": [
-      "Christina_Petronella_Achenbach"
+      "Aletta_Henri\u00ebtte_Jacobs"
+     ],
+     "A1": [
+      "Aletta_Henri\u00ebtte_Jacobs"
      ]
     },
     "climax": 1,
-    "event": "op_treden1858",
-    "group": "100:op_treden",
-    "groupName": "op_treden",
+    "event": "aan_gaan1884",
+    "group": "100:aan_gaan",
+    "groupName": "aan_gaan",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#op_treden1858",
+    "instance": "bn:dvn_1900-1949#aan_gaan1884",
     "labels": [
-     "op_treden"
+     "aan_gaan"
     ],
     "mentions": [
      {
       "char": [
-       "797",
-       "801"
+       "5980",
+       "5984"
       ],
       "sentence": [
-       "9"
+       "43"
       ],
       "terms": [
-       "t_137"
+       "t_1052"
       ],
       "tokens": [
-       "w138"
+       "w1053"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_sample/00008350_02.xml.gz"
+       "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "op_treden"
+     "aan_gaan"
     ],
-    "sentence": "9",
+    "sentence": "43",
     "size": "1",
-    "time": "18580101"
+    "time": "18840101"
    },
    {
     "actors": {
@@ -852,6 +936,48 @@
    },
    {
     "actors": {
+     "Arg1": [
+      "Aletta_Henri\u00ebtte_Jacobs"
+     ]
+    },
+    "climax": 1,
+    "event": "schrijven1899",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#schrijven1899",
+    "labels": [
+     "schrijven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "13343",
+       "13350"
+      ],
+      "sentence": [
+       "86"
+      ],
+      "terms": [
+       "t_2274"
+      ],
+      "tokens": [
+       "w2275"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_sample/70692657_08.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "schrijven"
+    ],
+    "sentence": "86",
+    "size": "1",
+    "time": "18990101"
+   },
+   {
+    "actors": {
      "#": [
       "Aletta_Henri\u00ebtte_Jacobs"
      ]
@@ -1020,6 +1146,48 @@
    },
    {
     "actors": {
+     "Arg1-PPT": [
+      "Aletta_Henri\u00ebtte_Jacobs"
+     ]
+    },
+    "climax": 1,
+    "event": "death1929",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1929",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/sample/70692657_08.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19290101"
+   },
+   {
+    "actors": {
      "Arg1": [
       "Aletta_Henri\u00ebtte_Jacobs"
      ]
@@ -1059,6 +1227,90 @@
     "sentence": "58",
     "size": "1",
     "time": "18990101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Christina_Petronella_Achenbach"
+     ]
+    },
+    "climax": 1,
+    "event": "death1907",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1907",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/sample/00008350_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19070101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Christina_Elizabeth_Perk"
+     ]
+    },
+    "climax": 1,
+    "event": "death1906",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1906",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/sample/00073062_06.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19060101"
    },
    {
     "actors": {
@@ -1399,7 +1651,7 @@
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   33
+   39
   ],
   "sources": [
    {
