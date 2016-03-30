@@ -1,10 +1,10 @@
 {
  "timeline": {
   "actor_cnt": [
-   28
+   24
   ],
   "event_cnt": [
-   327
+   269
   ],
   "events": [
    {
@@ -93,45 +93,45 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Frederika_Sophia_Cohen"
+     "Arg2": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
      ]
     },
     "climax": 1,
-    "event": "onder_duiken1929",
-    "group": "100:onder_duiken",
-    "groupName": "onder_duiken",
+    "event": "gaan1905",
+    "group": "100:gaan",
+    "groupName": "gaan",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#onder_duiken1929",
+    "instance": "bn:dvn_1900-1949#gaan1905",
     "labels": [
-     "onder_duiken"
+     "gaan"
     ],
     "mentions": [
      {
       "char": [
-       "4030",
-       "4034"
+       "2059",
+       "2063"
       ],
       "sentence": [
-       "36"
+       "24"
       ],
       "terms": [
-       "t_699"
+       "t_376"
       ],
       "tokens": [
-       "w700"
+       "w377"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "onder_duiken"
+     "gaan"
     ],
-    "sentence": "36",
+    "sentence": "24",
     "size": "1",
-    "time": "19290101"
+    "time": "19050101"
    },
    {
     "actors": {
@@ -219,90 +219,45 @@
    },
    {
     "actors": {
-     "#": [
-      "Setske_de_Haan"
-     ],
-     "A0": [
-      "Setske_de_Haan"
+     "A1": [
+      "Anna_Sophie_Polak"
      ]
     },
     "climax": 1,
-    "event": "toe_geven1935",
-    "group": "100:toe_geven",
-    "groupName": "toe_geven",
+    "event": "ontslaan1936",
+    "group": "100:ontslaan",
+    "groupName": "ontslaan",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#toe_geven1935",
+    "instance": "bn:dvn_1900-1949#ontslaan1936",
     "labels": [
-     "toe_geven"
+     "ontslaan"
     ],
     "mentions": [
      {
       "char": [
-       "3431",
-       "3434"
+       "6255",
+       "6264"
       ],
       "sentence": [
-       "30"
+       "51"
       ],
       "terms": [
-       "t_614"
+       "t_1088"
       ],
       "tokens": [
-       "w615"
+       "w1089"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "toe_geven"
+     "ontslaan"
     ],
-    "sentence": "30",
+    "sentence": "51",
     "size": "1",
-    "time": "19350101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Cornelia_Hubertina_Doff"
-     ]
-    },
-    "climax": 1,
-    "event": "gaan1901",
-    "group": "100:gaan",
-    "groupName": "gaan",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#gaan1901",
-    "labels": [
-     "gaan"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1039",
-       "1043"
-      ],
-      "sentence": [
-       "12"
-      ],
-      "terms": [
-       "t_204"
-      ],
-      "tokens": [
-       "w205"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/20511412_04.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "gaan"
-    ],
-    "sentence": "12",
-    "size": "1",
-    "time": "19010101"
+    "time": "19360101"
    },
    {
     "actors": {
@@ -600,45 +555,45 @@
    },
    {
     "actors": {
-     "A1": [
-      "Stephanie_H\u00e9l\u00e8ne_Swarth"
+     "Arg0": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
      ]
     },
     "climax": 1,
-    "event": "op_nemen1885",
-    "group": "100:op_nemen",
-    "groupName": "op_nemen",
+    "event": "wonen1900",
+    "group": "100:wonen",
+    "groupName": "wonen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#op_nemen1885",
+    "instance": "bn:dvn_1900-1949#wonen1900",
     "labels": [
-     "op_nemen"
+     "wonen"
     ],
     "mentions": [
      {
       "char": [
-       "2106",
-       "2109"
+       "3679",
+       "3685"
       ],
       "sentence": [
-       "22"
+       "31"
       ],
       "terms": [
-       "t_396"
+       "t_633"
       ],
       "tokens": [
-       "w397"
+       "w634"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "op_nemen"
+     "wonen"
     ],
-    "sentence": "22",
+    "sentence": "31",
     "size": "1",
-    "time": "18850101"
+    "time": "19000101"
    },
    {
     "actors": {
@@ -684,48 +639,6 @@
    },
    {
     "actors": {
-     "A1": [
-      "Anna_Sophie_Polak"
-     ]
-    },
-    "climax": 1,
-    "event": "ontslaan1936",
-    "group": "100:ontslaan",
-    "groupName": "ontslaan",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#ontslaan1936",
-    "labels": [
-     "ontslaan"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "6255",
-       "6264"
-      ],
-      "sentence": [
-       "51"
-      ],
-      "terms": [
-       "t_1088"
-      ],
-      "tokens": [
-       "w1089"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "ontslaan"
-    ],
-    "sentence": "51",
-    "size": "1",
-    "time": "19360101"
-   },
-   {
-    "actors": {
      "Arg0": [
       "Elisabeth_Carolina_van_Dorp"
      ]
@@ -768,51 +681,45 @@
    },
    {
     "actors": {
-     "A0": [
-      "Johanna_Helena_van_Uden"
-     ],
-     "A1": [
-      "Johanna_Helena_van_Uden"
-     ],
-     "AM-DIS": [
-      "Johanna_Helena_van_Uden"
+     "Arg1": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
      ]
     },
     "climax": 1,
-    "event": "trouwen1930",
-    "group": "100:trouwen",
-    "groupName": "trouwen",
+    "event": "betrokken1944",
+    "group": "100:betrokken",
+    "groupName": "betrokken",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trouwen1930",
+    "instance": "bn:dvn_1900-1949#betrokken1944",
     "labels": [
-     "trouwen"
+     "betrokken"
     ],
     "mentions": [
      {
       "char": [
-       "283",
-       "290"
+       "4067",
+       "4076"
       ],
       "sentence": [
-       "5"
+       "35"
       ],
       "terms": [
-       "t_59"
+       "t_703"
       ],
       "tokens": [
-       "w60"
+       "w704"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "trouwen"
+     "betrokken"
     ],
-    "sentence": "5",
+    "sentence": "35",
     "size": "1",
-    "time": "19300101"
+    "time": "19440101"
    },
    {
     "actors": {
@@ -984,51 +891,6 @@
    },
    {
     "actors": {
-     "A0": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ],
-     "A2": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ]
-    },
-    "climax": 1,
-    "event": "trouwen1931",
-    "group": "100:trouwen",
-    "groupName": "trouwen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trouwen1931",
-    "labels": [
-     "trouwen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1160",
-       "1167"
-      ],
-      "sentence": [
-       "10"
-      ],
-      "terms": [
-       "t_225"
-      ],
-      "tokens": [
-       "w226"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "trouwen"
-    ],
-    "sentence": "10",
-    "size": "1",
-    "time": "19310101"
-   },
-   {
-    "actors": {
      "#": [
       "Annelies_Marie_Frank"
      ]
@@ -1068,48 +930,6 @@
     "sentence": "25",
     "size": "1",
     "time": "19440101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Elisabeth_Margaretha_Rogge"
-     ]
-    },
-    "climax": 1,
-    "event": "redigeren1939",
-    "group": "100:redigeren",
-    "groupName": "redigeren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#redigeren1939",
-    "labels": [
-     "redigeren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2729",
-       "2738"
-      ],
-      "sentence": [
-       "25"
-      ],
-      "terms": [
-       "t_451"
-      ],
-      "tokens": [
-       "w452"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "redigeren"
-    ],
-    "sentence": "25",
-    "size": "1",
-    "time": "19390101"
    },
    {
     "actors": {
@@ -1155,48 +975,6 @@
    },
    {
     "actors": {
-     "A0": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "trouwen1916",
-    "group": "100:trouwen",
-    "groupName": "trouwen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trouwen1916",
-    "labels": [
-     "trouwen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "283",
-       "290"
-      ],
-      "sentence": [
-       "5"
-      ],
-      "terms": [
-       "t_55"
-      ],
-      "tokens": [
-       "w56"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "trouwen"
-    ],
-    "sentence": "5",
-    "size": "1",
-    "time": "19160101"
-   },
-   {
-    "actors": {
      "A1": [
       "Rosa_Manus"
      ]
@@ -1236,48 +1014,6 @@
     "sentence": "46",
     "size": "1",
     "time": "19410101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "werken1906",
-    "group": "100:werken",
-    "groupName": "werken",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#werken1906",
-    "labels": [
-     "werken"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2012",
-       "2018"
-      ],
-      "sentence": [
-       "23"
-      ],
-      "terms": [
-       "t_361"
-      ],
-      "tokens": [
-       "w362"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "werken"
-    ],
-    "sentence": "23",
-    "size": "1",
-    "time": "19060101"
    },
    {
     "actors": {
@@ -1534,44 +1270,44 @@
    {
     "actors": {
      "A0": [
-      "Elisabeth_Carolina_van_Dorp"
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
      ]
     },
     "climax": 1,
-    "event": "verdedigen1916",
-    "group": "100:verdedigen",
-    "groupName": "verdedigen",
+    "event": "vervolgen1888",
+    "group": "100:vervolgen",
+    "groupName": "vervolgen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verdedigen1916",
+    "instance": "bn:dvn_1900-1949#vervolgen1888",
     "labels": [
-     "verdedigen"
+     "vervolgen"
     ],
     "mentions": [
      {
       "char": [
-       "2106",
-       "2116"
+       "959",
+       "968"
       ],
       "sentence": [
-       "20"
+       "13"
       ],
       "terms": [
-       "t_380"
+       "t_180"
       ],
       "tokens": [
-       "w381"
+       "w181"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "verdedigen"
+     "vervolgen"
     ],
-    "sentence": "20",
+    "sentence": "13",
     "size": "1",
-    "time": "19160101"
+    "time": "18880101"
    },
    {
     "actors": {
@@ -1791,6 +1527,48 @@
    },
    {
     "actors": {
+     "#": [
+      "Helena_Theodora_Rietberg"
+     ]
+    },
+    "climax": 1,
+    "event": "worden1930",
+    "group": "100:worden",
+    "groupName": "worden",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#worden1930",
+    "labels": [
+     "worden"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "6108",
+       "6112"
+      ],
+      "sentence": [
+       "50"
+      ],
+      "terms": [
+       "t_1020"
+      ],
+      "tokens": [
+       "w1021"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/70112573_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "worden"
+    ],
+    "sentence": "50",
+    "size": "1",
+    "time": "19300101"
+   },
+   {
+    "actors": {
      "Arg0": [
       "Jannetje_Johanna_Schaft"
      ]
@@ -1862,7 +1640,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/20566910_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/20566910_02.xml#metadata"
       ]
      }
     ],
@@ -1875,45 +1653,45 @@
    },
    {
     "actors": {
-     "A1": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     "A0": [
+      "Elisabeth_Margaretha_Rogge"
      ]
     },
     "climax": 1,
-    "event": "betrekken1934",
-    "group": "100:betrekken",
-    "groupName": "betrekken",
+    "event": "in_zetten1915",
+    "group": "100:in_zetten",
+    "groupName": "in_zetten",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#betrekken1934",
+    "instance": "bn:dvn_1900-1949#in_zetten1915",
     "labels": [
-     "betrekken"
+     "in_zetten"
     ],
     "mentions": [
      {
       "char": [
-       "5034",
-       "5040"
+       "4300",
+       "4305"
       ],
       "sentence": [
-       "51"
+       "36"
       ],
       "terms": [
-       "t_883"
+       "t_722"
       ],
       "tokens": [
-       "w884"
+       "w723"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "betrekken"
+     "in_zetten"
     ],
-    "sentence": "51",
+    "sentence": "36",
     "size": "1",
-    "time": "19340101"
+    "time": "19150101"
    },
    {
     "actors": {
@@ -2097,7 +1875,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/30084010_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/30084010_02.xml#metadata"
       ]
      }
     ],
@@ -2139,7 +1917,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/83573201_03.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/83573201_03.xml#metadata"
       ]
      }
     ],
@@ -2181,7 +1959,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/39059622_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/39059622_02.xml#metadata"
       ]
      }
     ],
@@ -2495,48 +2273,6 @@
    {
     "actors": {
      "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "gaan1940",
-    "group": "100:gaan",
-    "groupName": "gaan",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#gaan1940",
-    "labels": [
-     "gaan"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5344",
-       "5348"
-      ],
-      "sentence": [
-       "52"
-      ],
-      "terms": [
-       "t_936"
-      ],
-      "tokens": [
-       "w937"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "gaan"
-    ],
-    "sentence": "52",
-    "size": "1",
-    "time": "19400101"
-   },
-   {
-    "actors": {
-     "Arg0": [
       "Emilie_Josephine_Belinfante"
      ]
     },
@@ -2830,90 +2566,45 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Marie_Jeanette_Baale"
+     "A0": [
+      "Johanna_Wilhelmina_Antoinette_Naber"
      ]
     },
     "climax": 1,
-    "event": "solliciteren1923",
-    "group": "100:solliciteren",
-    "groupName": "solliciteren",
+    "event": "zetten1938",
+    "group": "100:zetten",
+    "groupName": "zetten",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#solliciteren1923",
+    "instance": "bn:dvn_1900-1949#zetten1938",
     "labels": [
-     "solliciteren"
+     "zetten"
     ],
     "mentions": [
      {
       "char": [
-       "3872",
-       "3885"
+       "8606",
+       "8611"
       ],
       "sentence": [
-       "40"
+       "74"
       ],
       "terms": [
-       "t_688"
+       "t_1455"
       ],
       "tokens": [
-       "w689"
+       "w1456"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/06656337_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "solliciteren"
+     "zetten"
     ],
-    "sentence": "40",
+    "sentence": "74",
     "size": "1",
-    "time": "19230101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Geertruida_van_Vladeracken"
-     ],
-     "Arg2": [
-      "Geertruida_van_Vladeracken"
-     ]
-    },
-    "climax": 1,
-    "event": "hertrouwen1915",
-    "group": "100:hertrouwen",
-    "groupName": "hertrouwen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#hertrouwen1915",
-    "labels": [
-     "hertrouwen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1294",
-       "1304"
-      ],
-      "sentence": [
-       "15"
-      ],
-      "terms": [
-       "t_236"
-      ],
-      "tokens": [
-       "w237"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "hertrouwen"
-    ],
-    "sentence": "15",
-    "size": "1",
-    "time": "19150101"
+    "time": "19380101"
    },
    {
     "actors": {
@@ -2959,87 +2650,45 @@
    },
    {
     "actors": {
-     "A0": [
-      "Johanna_Wilhelmina_Antoinette_Naber"
-     ]
-    },
-    "climax": 1,
-    "event": "zetten1938",
-    "group": "100:zetten",
-    "groupName": "zetten",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#zetten1938",
-    "labels": [
-     "zetten"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "8606",
-       "8611"
-      ],
-      "sentence": [
-       "74"
-      ],
-      "terms": [
-       "t_1455"
-      ],
-      "tokens": [
-       "w1456"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/06656337_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "zetten"
-    ],
-    "sentence": "74",
-    "size": "1",
-    "time": "19380101"
-   },
-   {
-    "actors": {
      "A1": [
-      "Marie_Jeanette_Baale"
+      "Stephanie_H\u00e9l\u00e8ne_Swarth"
      ]
     },
     "climax": 1,
-    "event": "nemen1902",
-    "group": "100:nemen",
-    "groupName": "nemen",
+    "event": "op_nemen1885",
+    "group": "100:op_nemen",
+    "groupName": "op_nemen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#nemen1902",
+    "instance": "bn:dvn_1900-1949#op_nemen1885",
     "labels": [
-     "nemen"
+     "op_nemen"
     ],
     "mentions": [
      {
       "char": [
-       "1040",
-       "1043"
+       "2106",
+       "2109"
       ],
       "sentence": [
-       "13"
+       "22"
       ],
       "terms": [
-       "t_187"
+       "t_396"
       ],
       "tokens": [
-       "w188"
+       "w397"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "nemen"
+     "op_nemen"
     ],
-    "sentence": "13",
+    "sentence": "22",
     "size": "1",
-    "time": "19020101"
+    "time": "18850101"
    },
    {
     "actors": {
@@ -3172,45 +2821,48 @@
    },
    {
     "actors": {
+     "Arg0": [
+      "Alida_de_Jong"
+     ],
      "Arg1": [
-      "Rosa_Manus"
+      "Alida_de_Jong"
      ]
     },
     "climax": 1,
-    "event": "benoemen1936",
-    "group": "100:benoemen",
-    "groupName": "benoemen",
+    "event": "bepleiten1926",
+    "group": "100:bepleiten",
+    "groupName": "bepleiten",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#benoemen1936",
+    "instance": "bn:dvn_1900-1949#bepleiten1926",
     "labels": [
-     "benoemen"
+     "bepleiten"
     ],
     "mentions": [
      {
       "char": [
-       "6511",
-       "6518"
+       "4761",
+       "4770"
       ],
       "sentence": [
-       "37"
+       "41"
       ],
       "terms": [
-       "t_1088"
+       "t_847"
       ],
       "tokens": [
-       "w1089"
+       "w848"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/46544846_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/47512603_05.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "benoemen"
+     "bepleiten"
     ],
-    "sentence": "37",
+    "sentence": "41",
     "size": "1",
-    "time": "19360101"
+    "time": "19260101"
    },
    {
     "actors": {
@@ -3257,44 +2909,47 @@
    {
     "actors": {
      "A0": [
-      "Stephanie_H\u00e9l\u00e8ne_Swarth"
+      "Anna_Sophie_Polak"
+     ],
+     "A1": [
+      "Anna_Sophie_Polak"
      ]
     },
     "climax": 1,
-    "event": "sterven1941",
-    "group": "100:sterven",
-    "groupName": "sterven",
+    "event": "vinden1943",
+    "group": "100:vinden",
+    "groupName": "vinden",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1941",
+    "instance": "bn:dvn_1900-1949#vinden1943",
     "labels": [
-     "sterven"
+     "vinden"
     ],
     "mentions": [
      {
       "char": [
-       "3490",
-       "3496"
+       "1988",
+       "1992"
       ],
       "sentence": [
-       "38"
+       "19"
       ],
       "terms": [
-       "t_667"
+       "t_353"
       ],
       "tokens": [
-       "w668"
+       "w354"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "sterven"
+     "vinden"
     ],
-    "sentence": "38",
+    "sentence": "19",
     "size": "1",
-    "time": "19410101"
+    "time": "19430101"
    },
    {
     "actors": {
@@ -3550,48 +3205,6 @@
     "sentence": "35",
     "size": "1",
     "time": "19080101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1948",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1948",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4843",
-       "4849"
-      ],
-      "sentence": [
-       "46"
-      ],
-      "terms": [
-       "t_889"
-      ],
-      "tokens": [
-       "w890"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "46",
-    "size": "1",
-    "time": "19480101"
    },
    {
     "actors": {
@@ -3853,90 +3466,6 @@
    },
    {
     "actors": {
-     "Arg1": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "verhoren1920",
-    "group": "100:verhoren",
-    "groupName": "verhoren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verhoren1920",
-    "labels": [
-     "verhoren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2441",
-       "2449"
-      ],
-      "sentence": [
-       "25"
-      ],
-      "terms": [
-       "t_491"
-      ],
-      "tokens": [
-       "w492"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "verhoren"
-    ],
-    "sentence": "25",
-    "size": "1",
-    "time": "19200101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Emilie_Josephine_Belinfante"
-     ]
-    },
-    "climax": 1,
-    "event": "hospiteerde1927",
-    "group": "100:hospiteerde",
-    "groupName": "hospiteerde",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#hospiteerde1927",
-    "labels": [
-     "hospiteerde"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "590",
-       "601"
-      ],
-      "sentence": [
-       "9"
-      ],
-      "terms": [
-       "t_105"
-      ],
-      "tokens": [
-       "w106"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "hospiteerde"
-    ],
-    "sentence": "9",
-    "size": "1",
-    "time": "19270101"
-   },
-   {
-    "actors": {
      "Arg1-PPT": [
       "Geertruida_R\u00f6melingh"
      ]
@@ -3966,7 +3495,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/48660300_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
       ]
      }
     ],
@@ -4008,7 +3537,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/56709942_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/56709942_02.xml#metadata"
       ]
      }
     ],
@@ -4018,51 +3547,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19180101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Alida_de_Jong"
-     ],
-     "Arg1": [
-      "Alida_de_Jong"
-     ]
-    },
-    "climax": 1,
-    "event": "bepleiten1926",
-    "group": "100:bepleiten",
-    "groupName": "bepleiten",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#bepleiten1926",
-    "labels": [
-     "bepleiten"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4761",
-       "4770"
-      ],
-      "sentence": [
-       "41"
-      ],
-      "terms": [
-       "t_847"
-      ],
-      "tokens": [
-       "w848"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/47512603_05.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "bepleiten"
-    ],
-    "sentence": "41",
-    "size": "1",
-    "time": "19260101"
    },
    {
     "actors": {
@@ -4137,7 +3621,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/51861341_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/51861341_02.xml#metadata"
       ]
      }
     ],
@@ -4147,48 +3631,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19140101"
-   },
-   {
-    "actors": {
-     "Arg2": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
-     ]
-    },
-    "climax": 1,
-    "event": "gaan1916",
-    "group": "100:gaan",
-    "groupName": "gaan",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#gaan1916",
-    "labels": [
-     "gaan"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2059",
-       "2063"
-      ],
-      "sentence": [
-       "24"
-      ],
-      "terms": [
-       "t_376"
-      ],
-      "tokens": [
-       "w377"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "gaan"
-    ],
-    "sentence": "24",
-    "size": "1",
-    "time": "19160101"
    },
    {
     "actors": {
@@ -4225,7 +3667,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/20511412_04.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/20511412_04.xml#metadata"
       ]
      },
      {
@@ -4243,7 +3685,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/45236379_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/45236379_02.xml#metadata"
       ]
      },
      {
@@ -4261,7 +3703,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/84058368_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/84058368_02.xml#metadata"
       ]
      }
     ],
@@ -4305,7 +3747,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/06656337_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/06656337_02.xml#metadata"
       ]
      },
      {
@@ -4323,7 +3765,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/08600534_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/08600534_02.xml#metadata"
       ]
      }
     ],
@@ -4337,44 +3779,44 @@
    {
     "actors": {
      "Arg0": [
-      "Geertruida_van_Vladeracken"
+      "Frederika_Sophia_Cohen"
      ]
     },
     "climax": 1,
-    "event": "maken1921",
-    "group": "100:maken",
-    "groupName": "maken",
+    "event": "onder_duiken1913",
+    "group": "100:onder_duiken",
+    "groupName": "onder_duiken",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#maken1921",
+    "instance": "bn:dvn_1900-1949#onder_duiken1913",
     "labels": [
-     "maken"
+     "onder_duiken"
     ],
     "mentions": [
      {
       "char": [
-       "2489",
-       "2495"
+       "4030",
+       "4034"
       ],
       "sentence": [
-       "23"
+       "36"
       ],
       "terms": [
-       "t_444"
+       "t_699"
       ],
       "tokens": [
-       "w445"
+       "w700"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "maken"
+     "onder_duiken"
     ],
-    "sentence": "23",
+    "sentence": "36",
     "size": "1",
-    "time": "19210101"
+    "time": "19130101"
    },
    {
     "actors": {
@@ -4407,7 +3849,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/70226875_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/70226875_02.xml#metadata"
       ]
      }
     ],
@@ -4417,48 +3859,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19030101"
-   },
-   {
-    "actors": {
-     "#": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "terug_keren1889",
-    "group": "100:terug_keren",
-    "groupName": "terug_keren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#terug_keren1889",
-    "labels": [
-     "terug_keren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1106",
-       "1112"
-      ],
-      "sentence": [
-       "11"
-      ],
-      "terms": [
-       "t_210"
-      ],
-      "tokens": [
-       "w211"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "terug_keren"
-    ],
-    "sentence": "11",
-    "size": "1",
-    "time": "18890101"
    },
    {
     "actors": {
@@ -4596,89 +3996,44 @@
    {
     "actors": {
      "Arg1": [
-      "Johanna_Helena_van_Uden"
+      "Elisabeth_Margaretha_Rogge"
      ]
     },
     "climax": 1,
-    "event": "weg_lopen1935",
-    "group": "100:weg_lopen",
-    "groupName": "weg_lopen",
+    "event": "bundelen1944",
+    "group": "100:bundelen",
+    "groupName": "bundelen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#weg_lopen1935",
+    "instance": "bn:dvn_1900-1949#bundelen1944",
     "labels": [
-     "weg_lopen"
+     "bundelen"
     ],
     "mentions": [
      {
       "char": [
-       "3122",
-       "3126"
+       "3474",
+       "3482"
       ],
       "sentence": [
-       "33"
+       "29"
       ],
       "terms": [
-       "t_623"
+       "t_587"
       ],
       "tokens": [
-       "w624"
+       "w588"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "weg_lopen"
+     "bundelen"
     ],
-    "sentence": "33",
+    "sentence": "29",
     "size": "1",
-    "time": "19350101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Frederika_Sophia_Cohen"
-     ],
-     "Arg4": [
-      "Frederika_Sophia_Cohen"
-     ]
-    },
-    "climax": 1,
-    "event": "kunnen1918",
-    "group": "100:kunnen",
-    "groupName": "kunnen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#kunnen1918",
-    "labels": [
-     "kunnen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1507",
-       "1510"
-      ],
-      "sentence": [
-       "18"
-      ],
-      "terms": [
-       "t_277"
-      ],
-      "tokens": [
-       "w278"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "kunnen"
-    ],
-    "sentence": "18",
-    "size": "1",
-    "time": "19180101"
+    "time": "19440101"
    },
    {
     "actors": {
@@ -4721,90 +4076,6 @@
     "sentence": "16",
     "size": "1",
     "time": "19040101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ]
-    },
-    "climax": 1,
-    "event": "wonen1900",
-    "group": "100:wonen",
-    "groupName": "wonen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#wonen1900",
-    "labels": [
-     "wonen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3679",
-       "3685"
-      ],
-      "sentence": [
-       "31"
-      ],
-      "terms": [
-       "t_633"
-      ],
-      "tokens": [
-       "w634"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "wonen"
-    ],
-    "sentence": "31",
-    "size": "1",
-    "time": "19000101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "zien1918",
-    "group": "100:zien",
-    "groupName": "zien",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#zien1918",
-    "labels": [
-     "zien"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2033",
-       "2036"
-      ],
-      "sentence": [
-       "21"
-      ],
-      "terms": [
-       "t_413"
-      ],
-      "tokens": [
-       "w414"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "zien"
-    ],
-    "sentence": "21",
-    "size": "1",
-    "time": "19180101"
    },
    {
     "actors": {
@@ -4855,18 +4126,40 @@
     "actors": {
      "Arg0": [
       "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ],
+     "Arg2": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
      ]
     },
-    "climax": 1,
+    "climax": 2,
     "event": "verhuizen1902",
     "group": "100:verhuizen",
     "groupName": "verhuizen",
     "groupScore": "100",
     "instance": "bn:dvn_1900-1949#verhuizen1902",
     "labels": [
+     "verhuizen",
      "verhuizen"
     ],
     "mentions": [
+     {
+      "char": [
+       "966",
+       "975"
+      ],
+      "sentence": [
+       "8"
+      ],
+      "terms": [
+       "t_188"
+      ],
+      "tokens": [
+       "w189"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
+      ]
+     },
      {
       "char": [
        "2190",
@@ -4889,7 +4182,7 @@
     "prefLabel": [
      "verhuizen"
     ],
-    "sentence": "26",
+    "sentence": "8",
     "size": "1",
     "time": "19020101"
    },
@@ -4979,90 +4272,6 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "samen_wonen1942",
-    "group": "100:samen_wonen",
-    "groupName": "samen_wonen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#samen_wonen1942",
-    "labels": [
-     "samen_wonen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5648",
-       "5659"
-      ],
-      "sentence": [
-       "54"
-      ],
-      "terms": [
-       "t_989"
-      ],
-      "tokens": [
-       "w990"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "samen_wonen"
-    ],
-    "sentence": "54",
-    "size": "1",
-    "time": "19420101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Catharina_van_Rennes"
-     ]
-    },
-    "climax": 1,
-    "event": "bezoeken1908",
-    "group": "100:bezoeken",
-    "groupName": "bezoeken",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#bezoeken1908",
-    "labels": [
-     "bezoeken"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "927",
-       "934"
-      ],
-      "sentence": [
-       "11"
-      ],
-      "terms": [
-       "t_163"
-      ],
-      "tokens": [
-       "w164"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/45236379_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "bezoeken"
-    ],
-    "sentence": "11",
-    "size": "1",
-    "time": "19080101"
-   },
-   {
-    "actors": {
      "Arg1": [
       "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
      ]
@@ -5102,51 +4311,6 @@
     "sentence": "29",
     "size": "1",
     "time": "18980101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Alida_de_Jong"
-     ],
-     "Arg2": [
-      "Alida_de_Jong"
-     ]
-    },
-    "climax": 1,
-    "event": "trekken1908",
-    "group": "100:trekken",
-    "groupName": "trekken",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trekken1908",
-    "labels": [
-     "trekken"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "837",
-       "846"
-      ],
-      "sentence": [
-       "12"
-      ],
-      "terms": [
-       "t_162"
-      ],
-      "tokens": [
-       "w163"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/47512603_05.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "trekken"
-    ],
-    "sentence": "12",
-    "size": "1",
-    "time": "19080101"
    },
    {
     "actors": {
@@ -5235,89 +4399,44 @@
    {
     "actors": {
      "A0": [
-      "Geertruida_van_Vladeracken"
-     ],
-     "A1": [
-      "Geertruida_van_Vladeracken"
+      "Stephanie_H\u00e9l\u00e8ne_Swarth"
      ]
     },
     "climax": 1,
-    "event": "besluiten1884",
-    "group": "100:besluiten",
-    "groupName": "besluiten",
+    "event": "sterven1941",
+    "group": "100:sterven",
+    "groupName": "sterven",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#besluiten1884",
+    "instance": "bn:dvn_1900-1949#sterven1941",
     "labels": [
-     "besluiten"
+     "sterven"
     ],
     "mentions": [
      {
       "char": [
-       "2102",
-       "2109"
+       "3490",
+       "3496"
       ],
       "sentence": [
-       "20"
+       "38"
       ],
       "terms": [
-       "t_382"
+       "t_667"
       ],
       "tokens": [
-       "w383"
+       "w668"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "besluiten"
+     "sterven"
     ],
-    "sentence": "20",
+    "sentence": "38",
     "size": "1",
-    "time": "18840101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Susanna_Groeneweg"
-     ]
-    },
-    "climax": 1,
-    "event": "behouden1936",
-    "group": "100:behouden",
-    "groupName": "behouden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#behouden1936",
-    "labels": [
-     "behouden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3667",
-       "3674"
-      ],
-      "sentence": [
-       "29"
-      ],
-      "terms": [
-       "t_682"
-      ],
-      "tokens": [
-       "w683"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/66465738_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "behouden"
-    ],
-    "sentence": "29",
-    "size": "1",
-    "time": "19360101"
+    "time": "19410101"
    },
    {
     "actors": {
@@ -5360,48 +4479,6 @@
     "sentence": "29",
     "size": "1",
     "time": "19010101"
-   },
-   {
-    "actors": {
-     "AM-LOC": [
-      "Alida_de_Jong"
-     ]
-    },
-    "climax": 1,
-    "event": "ontslaan1908",
-    "group": "100:ontslaan",
-    "groupName": "ontslaan",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#ontslaan1908",
-    "labels": [
-     "ontslaan"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "903",
-       "912"
-      ],
-      "sentence": [
-       "12"
-      ],
-      "terms": [
-       "t_173"
-      ],
-      "tokens": [
-       "w174"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/47512603_05.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "ontslaan"
-    ],
-    "sentence": "12",
-    "size": "1",
-    "time": "19080101"
    },
    {
     "actors": {
@@ -5876,93 +4953,6 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "birth1905",
-    "group": "100:birth",
-    "groupName": "birth",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1905",
-    "labels": [
-     "birth"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/60738635_02.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "birth"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "19050101"
-   },
-   {
-    "actors": {
-     "#": [
-      "Johanna_Helena_van_Uden"
-     ],
-     "Arg0": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "zeggen1945",
-    "group": "100:zeggen",
-    "groupName": "zeggen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#zeggen1945",
-    "labels": [
-     "zeggen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4507",
-       "4513"
-      ],
-      "sentence": [
-       "47"
-      ],
-      "terms": [
-       "t_879"
-      ],
-      "tokens": [
-       "w880"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "zeggen"
-    ],
-    "sentence": "47",
-    "size": "1",
-    "time": "19450101"
-   },
-   {
-    "actors": {
      "#": [
       "Esm\u00e9e_Adrienne_Eeghen"
      ]
@@ -6093,48 +5083,6 @@
    {
     "actors": {
      "#": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "zijn1935",
-    "group": "100:zijn",
-    "groupName": "zijn",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#zijn1935",
-    "labels": [
-     "zijn"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4718",
-       "4721"
-      ],
-      "sentence": [
-       "47"
-      ],
-      "terms": [
-       "t_828"
-      ],
-      "tokens": [
-       "w829"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "zijn"
-    ],
-    "sentence": "47",
-    "size": "1",
-    "time": "19350101"
-   },
-   {
-    "actors": {
-     "#": [
       "Elisabeth_Carolina_van_Dorp",
       "Elisabeth_Carolina_van_Dorp"
      ]
@@ -6258,7 +5206,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/13719860_03.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/13719860_03.xml#metadata"
       ]
      },
      {
@@ -6276,7 +5224,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/20566910_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/20566910_02.xml#metadata"
       ]
      },
      {
@@ -6294,7 +5242,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/39059622_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/39059622_02.xml#metadata"
       ]
      },
      {
@@ -6312,7 +5260,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/40700228_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/40700228_02.xml#metadata"
       ]
      },
      {
@@ -6330,7 +5278,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/59484302_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/59484302_02.xml#metadata"
       ]
      },
      {
@@ -6348,7 +5296,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/84058368_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/84058368_02.xml#metadata"
       ]
      }
     ],
@@ -6400,7 +5348,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/48660300_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
       ]
      },
      {
@@ -6418,7 +5366,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/56709942_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/56709942_02.xml#metadata"
       ]
      },
      {
@@ -6436,7 +5384,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/70112573_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/70112573_02.xml#metadata"
       ]
      },
      {
@@ -6454,7 +5402,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/76240048_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/76240048_02.xml#metadata"
       ]
      },
      {
@@ -6472,7 +5420,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/83573201_03.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/83573201_03.xml#metadata"
       ]
      },
      {
@@ -6490,7 +5438,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/99789685_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/99789685_02.xml#metadata"
       ]
      }
     ],
@@ -6500,68 +5448,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19440101"
-   },
-   {
-    "actors": {
-     "Arg1-PPT": [
-      "Geertruida_van_Vladeracken",
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 2,
-    "event": "death1947",
-    "group": "100:death",
-    "groupName": "death",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#death1947",
-    "labels": [
-     "death",
-     "death"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/16384097_02.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/84300507_03.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "death"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "19470101"
    },
    {
     "actors": {
@@ -6596,7 +5482,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/06656337_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/06656337_02.xml#metadata"
       ]
      },
      {
@@ -6614,7 +5500,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/08600534_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/08600534_02.xml#metadata"
       ]
      }
     ],
@@ -6658,7 +5544,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/45236379_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/45236379_02.xml#metadata"
       ]
      },
      {
@@ -6676,7 +5562,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/66465738_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/66465738_02.xml#metadata"
       ]
      }
     ],
@@ -6726,7 +5612,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/30084010_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/30084010_02.xml#metadata"
       ]
      },
      {
@@ -6744,7 +5630,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/33536988_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/33536988_02.xml#metadata"
       ]
      },
      {
@@ -6762,7 +5648,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/47512603_05.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/47512603_05.xml#metadata"
       ]
      },
      {
@@ -6780,7 +5666,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/51861341_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/51861341_02.xml#metadata"
       ]
      },
      {
@@ -6798,7 +5684,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/70226875_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/70226875_02.xml#metadata"
       ]
      }
     ],
@@ -6844,7 +5730,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/16954586_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/16954586_02.xml#metadata"
       ]
      },
      {
@@ -6862,7 +5748,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/20511412_04.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/20511412_04.xml#metadata"
       ]
      },
      {
@@ -6880,7 +5766,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/46544846_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/46544846_02.xml#metadata"
       ]
      }
     ],
@@ -6935,129 +5821,45 @@
    },
    {
     "actors": {
-     "A1": [
-      "Geertruida_van_Vladeracken"
+     "Arg0": [
+      "Elisabeth_Carolina_van_Dorp"
      ]
     },
     "climax": 1,
-    "event": "aan_kondigen1918",
-    "group": "100:aan_kondigen",
-    "groupName": "aan_kondigen",
+    "event": "promoveren1903",
+    "group": "100:promoveren",
+    "groupName": "promoveren",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#aan_kondigen1918",
+    "instance": "bn:dvn_1900-1949#promoveren1903",
     "labels": [
-     "aan_kondigen"
+     "promoveren"
     ],
     "mentions": [
      {
       "char": [
-       "1539",
-       "1551"
+       "1695",
+       "1706"
       ],
       "sentence": [
-       "17"
+       "18"
       ],
       "terms": [
-       "t_280"
+       "t_313"
       ],
       "tokens": [
-       "w281"
+       "w314"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "aan_kondigen"
+     "promoveren"
     ],
-    "sentence": "17",
+    "sentence": "18",
     "size": "1",
-    "time": "19180101"
-   },
-   {
-    "actors": {
-     "Arg1-PPT": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "death1949",
-    "group": "100:death",
-    "groupName": "death",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#death1949",
-    "labels": [
-     "death"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/60738635_02.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "death"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "19490101"
-   },
-   {
-    "actors": {
-     "Arg1-PPT": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "death1948",
-    "group": "100:death",
-    "groupName": "death",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#death1948",
-    "labels": [
-     "death"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/25638658_02.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "death"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "19480101"
+    "time": "19030101"
    },
    {
     "actors": {
@@ -7399,89 +6201,44 @@
    {
     "actors": {
      "Arg0": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+      "Elisabeth_Margaretha_Rogge"
      ]
     },
     "climax": 1,
-    "event": "verbreken1917",
-    "group": "100:verbreken",
-    "groupName": "verbreken",
+    "event": "redigeren1939",
+    "group": "100:redigeren",
+    "groupName": "redigeren",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verbreken1917",
+    "instance": "bn:dvn_1900-1949#redigeren1939",
     "labels": [
-     "verbreken"
+     "redigeren"
     ],
     "mentions": [
      {
       "char": [
-       "2089",
-       "2096"
+       "2729",
+       "2738"
       ],
       "sentence": [
        "25"
       ],
       "terms": [
-       "t_383"
+       "t_451"
       ],
       "tokens": [
-       "w384"
+       "w452"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "verbreken"
+     "redigeren"
     ],
     "sentence": "25",
     "size": "1",
-    "time": "19170101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Johanna_Helena_van_Uden"
-     ],
-     "ArgM-EXT": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "vertellen1912",
-    "group": "100:vertellen",
-    "groupName": "vertellen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#vertellen1912",
-    "labels": [
-     "vertellen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3231",
-       "3238"
-      ],
-      "sentence": [
-       "33"
-      ],
-      "terms": [
-       "t_645"
-      ],
-      "tokens": [
-       "w646"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "vertellen"
-    ],
-    "sentence": "33",
-    "size": "1",
-    "time": "19120101"
+    "time": "19390101"
    },
    {
     "actors": {
@@ -7852,87 +6609,45 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Setske_de_Haan"
+     "Arg1": [
+      "Rosa_Manus"
      ]
     },
     "climax": 1,
-    "event": "zijn1944",
-    "group": "100:zijn",
-    "groupName": "zijn",
+    "event": "benoemen1936",
+    "group": "100:benoemen",
+    "groupName": "benoemen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#zijn1944",
+    "instance": "bn:dvn_1900-1949#benoemen1936",
     "labels": [
-     "zijn"
+     "benoemen"
     ],
     "mentions": [
      {
       "char": [
-       "3840",
-       "3843"
+       "6511",
+       "6518"
       ],
       "sentence": [
-       "35"
+       "37"
       ],
       "terms": [
-       "t_693"
+       "t_1088"
       ],
       "tokens": [
-       "w694"
+       "w1089"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/46544846_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "zijn"
+     "benoemen"
     ],
-    "sentence": "35",
+    "sentence": "37",
     "size": "1",
-    "time": "19440101"
-   },
-   {
-    "actors": {
-     "A1": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "vertrekken1910",
-    "group": "100:vertrekken",
-    "groupName": "vertrekken",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#vertrekken1910",
-    "labels": [
-     "vertrekken"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1250",
-       "1257"
-      ],
-      "sentence": [
-       "12"
-      ],
-      "terms": [
-       "t_233"
-      ],
-      "tokens": [
-       "w234"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "vertrekken"
-    ],
-    "sentence": "12",
-    "size": "1",
-    "time": "19100101"
+    "time": "19360101"
    },
    {
     "actors": {
@@ -8281,45 +6996,48 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Setske_de_Haan"
+     "A0": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     ],
+     "A2": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
      ]
     },
     "climax": 1,
-    "event": "op_maken1946",
-    "group": "100:op_maken",
-    "groupName": "op_maken",
+    "event": "trouwen1883",
+    "group": "100:trouwen",
+    "groupName": "trouwen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#op_maken1946",
+    "instance": "bn:dvn_1900-1949#trouwen1883",
     "labels": [
-     "op_maken"
+     "trouwen"
     ],
     "mentions": [
      {
       "char": [
-       "4674",
-       "4680"
+       "1160",
+       "1167"
       ],
       "sentence": [
-       "43"
+       "10"
       ],
       "terms": [
-       "t_853"
+       "t_225"
       ],
       "tokens": [
-       "w854"
+       "w226"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "op_maken"
+     "trouwen"
     ],
-    "sentence": "43",
+    "sentence": "10",
     "size": "1",
-    "time": "19460101"
+    "time": "18830101"
    },
    {
     "actors": {
@@ -8408,132 +7126,6 @@
    {
     "actors": {
      "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "rond_komen1912",
-    "group": "100:rond_komen",
-    "groupName": "rond_komen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#rond_komen1912",
-    "labels": [
-     "rond_komen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2138",
-       "2147"
-      ],
-      "sentence": [
-       "24"
-      ],
-      "terms": [
-       "t_382"
-      ],
-      "tokens": [
-       "w383"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "rond_komen"
-    ],
-    "sentence": "24",
-    "size": "1",
-    "time": "19120101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "blijven1944",
-    "group": "100:blijven",
-    "groupName": "blijven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#blijven1944",
-    "labels": [
-     "blijven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2617",
-       "2622"
-      ],
-      "sentence": [
-       "24"
-      ],
-      "terms": [
-       "t_471"
-      ],
-      "tokens": [
-       "w472"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "blijven"
-    ],
-    "sentence": "24",
-    "size": "1",
-    "time": "19440101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "overlijden1947",
-    "group": "100:overlijden",
-    "groupName": "overlijden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#overlijden1947",
-    "labels": [
-     "overlijden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5766",
-       "5774"
-      ],
-      "sentence": [
-       "56"
-      ],
-      "terms": [
-       "t_1008"
-      ],
-      "tokens": [
-       "w1009"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "overlijden"
-    ],
-    "sentence": "56",
-    "size": "1",
-    "time": "19470101"
-   },
-   {
-    "actors": {
-     "Arg0": [
       "Elisabeth_Carolina_van_Dorp"
      ]
     },
@@ -8617,45 +7209,45 @@
    },
    {
     "actors": {
-     "Arg1": [
-      "Frederika_Sophia_Cohen"
+     "Arg0": [
+      "Emilie_Josephine_Belinfante"
      ]
     },
     "climax": 1,
-    "event": "werken1928",
-    "group": "100:werken",
-    "groupName": "werken",
+    "event": "hospiteerde1927",
+    "group": "100:hospiteerde",
+    "groupName": "hospiteerde",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#werken1928",
+    "instance": "bn:dvn_1900-1949#hospiteerde1927",
     "labels": [
-     "werken"
+     "hospiteerde"
     ],
     "mentions": [
      {
       "char": [
-       "929",
-       "935"
+       "590",
+       "601"
       ],
       "sentence": [
-       "13"
+       "9"
       ],
       "terms": [
-       "t_177"
+       "t_105"
       ],
       "tokens": [
-       "w178"
+       "w106"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "werken"
+     "hospiteerde"
     ],
-    "sentence": "13",
+    "sentence": "9",
     "size": "1",
-    "time": "19280101"
+    "time": "19270101"
    },
    {
     "actors": {
@@ -9167,90 +7759,6 @@
    },
    {
     "actors": {
-     "A1": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "op_nemen1947",
-    "group": "100:op_nemen",
-    "groupName": "op_nemen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#op_nemen1947",
-    "labels": [
-     "op_nemen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5725",
-       "5734"
-      ],
-      "sentence": [
-       "55"
-      ],
-      "terms": [
-       "t_1001"
-      ],
-      "tokens": [
-       "w1002"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "op_nemen"
-    ],
-    "sentence": "55",
-    "size": "1",
-    "time": "19470101"
-   },
-   {
-    "actors": {
-     "A1": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "verklaren1943",
-    "group": "100:verklaren",
-    "groupName": "verklaren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verklaren1943",
-    "labels": [
-     "verklaren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1649",
-       "1658"
-      ],
-      "sentence": [
-       "18"
-      ],
-      "terms": [
-       "t_335"
-      ],
-      "tokens": [
-       "w336"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "verklaren"
-    ],
-    "sentence": "18",
-    "size": "1",
-    "time": "19430101"
-   },
-   {
-    "actors": {
      "#": [
       "Elisabeth_Margaretha_Rogge"
      ]
@@ -9322,7 +7830,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/13719860_03.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/13719860_03.xml#metadata"
       ]
      }
     ],
@@ -9374,48 +7882,6 @@
     "sentence": "38",
     "size": "1",
     "time": "19180101"
-   },
-   {
-    "actors": {
-     "A1": [
-      "Elisabeth_Margaretha_Rogge"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1945",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1945",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4572",
-       "4578"
-      ],
-      "sentence": [
-       "40"
-      ],
-      "terms": [
-       "t_771"
-      ],
-      "tokens": [
-       "w772"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "40",
-    "size": "1",
-    "time": "19450101"
    },
    {
     "actors": {
@@ -9532,7 +7998,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/40700228_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/40700228_02.xml#metadata"
       ]
      }
     ],
@@ -9574,7 +8040,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/16954586_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/16954586_02.xml#metadata"
       ]
      }
     ],
@@ -9584,51 +8050,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19150101"
-   },
-   {
-    "actors": {
-     "#": [
-      "Marie_Jeanette_Baale"
-     ],
-     "A0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "studeren1893",
-    "group": "100:studeren",
-    "groupName": "studeren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#studeren1893",
-    "labels": [
-     "studeren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "557",
-       "565"
-      ],
-      "sentence": [
-       "8"
-      ],
-      "terms": [
-       "t_98"
-      ],
-      "tokens": [
-       "w99"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "studeren"
-    ],
-    "sentence": "8",
-    "size": "1",
-    "time": "18930101"
    },
    {
     "actors": {
@@ -9674,49 +8095,6 @@
    },
    {
     "actors": {
-     "#": [
-      "Setske_de_Haan",
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "worden1889",
-    "group": "100:worden",
-    "groupName": "worden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#worden1889",
-    "labels": [
-     "worden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1153",
-       "1157"
-      ],
-      "sentence": [
-       "11"
-      ],
-      "terms": [
-       "t_218"
-      ],
-      "tokens": [
-       "w219"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "worden"
-    ],
-    "sentence": "11",
-    "size": "1",
-    "time": "18890101"
-   },
-   {
-    "actors": {
      "A0": [
       "Elisabeth_Carolina_van_Dorp"
      ],
@@ -9759,48 +8137,6 @@
     "sentence": "29",
     "size": "1",
     "time": "19160101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "halen1896",
-    "group": "100:halen",
-    "groupName": "halen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#halen1896",
-    "labels": [
-     "halen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "671",
-       "677"
-      ],
-      "sentence": [
-       "9"
-      ],
-      "terms": [
-       "t_119"
-      ],
-      "tokens": [
-       "w120"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "halen"
-    ],
-    "sentence": "9",
-    "size": "1",
-    "time": "18960101"
    },
    {
     "actors": {
@@ -10058,48 +8394,6 @@
    {
     "actors": {
      "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "op_groeien1930",
-    "group": "100:op_groeien",
-    "groupName": "op_groeien",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#op_groeien1930",
-    "labels": [
-     "op_groeien"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "309",
-       "316"
-      ],
-      "sentence": [
-       "6"
-      ],
-      "terms": [
-       "t_57"
-      ],
-      "tokens": [
-       "w58"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "op_groeien"
-    ],
-    "sentence": "6",
-    "size": "1",
-    "time": "19300101"
-   },
-   {
-    "actors": {
-     "Arg0": [
       "Johanna_Petronella_Catharina_Antoinetta__Koster"
      ]
     },
@@ -10183,216 +8477,45 @@
    },
    {
     "actors": {
-     "A1": [
-      "Marie_Jeanette_Baale"
+     "A0": [
+      "Elisabeth_Carolina_van_Dorp"
      ]
     },
     "climax": 1,
-    "event": "stichten1904",
-    "group": "100:stichten",
-    "groupName": "stichten",
+    "event": "verdedigen1943",
+    "group": "100:verdedigen",
+    "groupName": "verdedigen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#stichten1904",
+    "instance": "bn:dvn_1900-1949#verdedigen1943",
     "labels": [
-     "stichten"
+     "verdedigen"
     ],
     "mentions": [
      {
       "char": [
-       "5478",
-       "5486"
+       "2106",
+       "2116"
       ],
       "sentence": [
-       "53"
+       "20"
       ],
       "terms": [
-       "t_957"
+       "t_380"
       ],
       "tokens": [
-       "w958"
+       "w381"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "stichten"
+     "verdedigen"
     ],
-    "sentence": "53",
+    "sentence": "20",
     "size": "1",
-    "time": "19040101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Marie_Jeanette_Baale"
-     ],
-     "ArgM-LOC": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "les_geven1912",
-    "group": "100:les_geven",
-    "groupName": "les_geven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#les_geven1912",
-    "labels": [
-     "les_geven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2690",
-       "2693"
-      ],
-      "sentence": [
-       "30"
-      ],
-      "terms": [
-       "t_480"
-      ],
-      "tokens": [
-       "w481"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "les_geven"
-    ],
-    "sentence": "30",
-    "size": "1",
-    "time": "19120101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
-     ]
-    },
-    "climax": 1,
-    "event": "kopen1942",
-    "group": "100:kopen",
-    "groupName": "kopen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#kopen1942",
-    "labels": [
-     "kopen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4531",
-       "4536"
-      ],
-      "sentence": [
-       "46"
-      ],
-      "terms": [
-       "t_794"
-      ],
-      "tokens": [
-       "w795"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "kopen"
-    ],
-    "sentence": "46",
-    "size": "1",
-    "time": "19420101"
-   },
-   {
-    "actors": {
-     "Arg2": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ]
-    },
-    "climax": 1,
-    "event": "verhuizen1930",
-    "group": "100:verhuizen",
-    "groupName": "verhuizen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verhuizen1930",
-    "labels": [
-     "verhuizen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "966",
-       "975"
-      ],
-      "sentence": [
-       "8"
-      ],
-      "terms": [
-       "t_188"
-      ],
-      "tokens": [
-       "w189"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "verhuizen"
-    ],
-    "sentence": "8",
-    "size": "1",
-    "time": "19300101"
-   },
-   {
-    "actors": {
-     "#": [
-      "Helena_Theodora_Rietberg"
-     ]
-    },
-    "climax": 1,
-    "event": "worden1930",
-    "group": "100:worden",
-    "groupName": "worden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#worden1930",
-    "labels": [
-     "worden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "6108",
-       "6112"
-      ],
-      "sentence": [
-       "50"
-      ],
-      "terms": [
-       "t_1020"
-      ],
-      "tokens": [
-       "w1021"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/70112573_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "worden"
-    ],
-    "sentence": "50",
-    "size": "1",
-    "time": "19300101"
+    "time": "19430101"
    },
    {
     "actors": {
@@ -10657,45 +8780,45 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     "Arg0": [
+      "Frederika_Sophia_Cohen"
      ]
     },
     "climax": 1,
-    "event": "birth1866",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "werken1941",
+    "group": "100:werken",
+    "groupName": "werken",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1866",
+    "instance": "bn:dvn_1900-1949#werken1941",
     "labels": [
-     "birth"
+     "werken"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "2064",
+       "2070"
       ],
       "sentence": [
-       "-1"
+       "22"
       ],
       "terms": [
-       "t-1"
+       "t_370"
       ],
       "tokens": [
-       "w-1"
+       "w371"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/76240048_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "werken"
     ],
-    "sentence": "metadata",
+    "sentence": "22",
     "size": "1",
-    "time": "18660101"
+    "time": "19410101"
    },
    {
     "actors": {
@@ -10783,45 +8906,45 @@
    },
    {
     "actors": {
-     "A1": [
-      "Marie_Jeanette_Baale"
+     "Arg1-PPT": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
      ]
     },
     "climax": 1,
-    "event": "aan_nemen1878",
-    "group": "100:aan_nemen",
-    "groupName": "aan_nemen",
+    "event": "birth1866",
+    "group": "100:birth",
+    "groupName": "birth",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#aan_nemen1878",
+    "instance": "bn:dvn_1900-1949#birth1866",
     "labels": [
-     "aan_nemen"
+     "birth"
     ],
     "mentions": [
      {
       "char": [
-       "1908",
-       "1918"
+       "0",
+       "0"
       ],
       "sentence": [
-       "21"
+       "-1"
       ],
       "terms": [
-       "t_343"
+       "t-1"
       ],
       "tokens": [
-       "w344"
+       "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
+       "/Users/antskez/BNtest/died_during_war/76240048_02.xml#metadata"
       ]
      }
     ],
     "prefLabel": [
-     "aan_nemen"
+     "birth"
     ],
-    "sentence": "21",
+    "sentence": "metadata",
     "size": "1",
-    "time": "18780101"
+    "time": "18660101"
    },
    {
     "actors": {
@@ -10896,7 +9019,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/33536988_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/33536988_02.xml#metadata"
       ]
      }
     ],
@@ -10911,18 +9034,16 @@
     "actors": {
      "Arg1-PPT": [
       "Susanna_Groeneweg",
-      "Marie_Jeanette_Baale",
       "Emilie_Josephine_Belinfante"
      ]
     },
-    "climax": 3,
+    "climax": 2,
     "event": "birth1875",
     "group": "100:birth",
     "groupName": "birth",
     "groupScore": "100",
     "instance": "bn:dvn_1900-1949#birth1875",
     "labels": [
-     "birth",
      "birth",
      "birth"
     ],
@@ -10942,7 +9063,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/66465738_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/66465738_02.xml#metadata"
       ]
      },
      {
@@ -10960,25 +9081,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/84300507_03.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/99789685_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/99789685_02.xml#metadata"
       ]
      }
     ],
@@ -10991,67 +9094,45 @@
    },
    {
     "actors": {
-     "#": [
-      "Marie_Jeanette_Baale"
-     ],
      "Arg0": [
-      "Elisabeth_Carolina_van_Dorp"
+      "Anna_Sophie_Polak"
      ]
     },
-    "climax": 2,
-    "event": "promoveren1903",
-    "group": "100:promoveren",
-    "groupName": "promoveren",
+    "climax": 1,
+    "event": "wonen1917",
+    "group": "100:wonen",
+    "groupName": "wonen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#promoveren1903",
+    "instance": "bn:dvn_1900-1949#wonen1917",
     "labels": [
-     "promoveren",
-     "promoveren"
+     "wonen"
     ],
     "mentions": [
      {
       "char": [
-       "1695",
-       "1706"
+       "6745",
+       "6752"
       ],
       "sentence": [
-       "18"
+       "57"
       ],
       "terms": [
-       "t_313"
+       "t_1177"
       ],
       "tokens": [
-       "w314"
+       "w1178"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
-      ]
-     },
-     {
-      "char": [
-       "1161",
-       "1172"
-      ],
-      "sentence": [
-       "14"
-      ],
-      "terms": [
-       "t_208"
-      ],
-      "tokens": [
-       "w209"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "promoveren"
+     "wonen"
     ],
-    "sentence": "18",
+    "sentence": "57",
     "size": "1",
-    "time": "19030101"
+    "time": "19170101"
    },
    {
     "actors": {
@@ -11097,45 +9178,45 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Johanna_Helena_van_Uden"
+     "A1": [
+      "Elisabeth_Margaretha_Rogge"
      ]
     },
     "climax": 1,
-    "event": "sturen1943",
-    "group": "100:sturen",
-    "groupName": "sturen",
+    "event": "sterven1945",
+    "group": "100:sterven",
+    "groupName": "sterven",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sturen1943",
+    "instance": "bn:dvn_1900-1949#sterven1945",
     "labels": [
-     "sturen"
+     "sterven"
     ],
     "mentions": [
      {
       "char": [
-       "2074",
-       "2081"
+       "4572",
+       "4578"
       ],
       "sentence": [
-       "22"
+       "40"
       ],
       "terms": [
-       "t_422"
+       "t_771"
       ],
       "tokens": [
-       "w423"
+       "w772"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "sturen"
+     "sterven"
     ],
-    "sentence": "22",
+    "sentence": "40",
     "size": "1",
-    "time": "19430101"
+    "time": "19450101"
    },
    {
     "actors": {
@@ -11168,7 +9249,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/59484302_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/59484302_02.xml#metadata"
       ]
      }
     ],
@@ -11178,51 +9259,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "18720101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Anna_Sophie_Polak"
-     ],
-     "A1": [
-      "Anna_Sophie_Polak"
-     ]
-    },
-    "climax": 1,
-    "event": "vinden1943",
-    "group": "100:vinden",
-    "groupName": "vinden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#vinden1943",
-    "labels": [
-     "vinden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1988",
-       "1992"
-      ],
-      "sentence": [
-       "19"
-      ],
-      "terms": [
-       "t_353"
-      ],
-      "tokens": [
-       "w354"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "vinden"
-    ],
-    "sentence": "19",
-    "size": "1",
-    "time": "19430101"
    },
    {
     "actors": {
@@ -11265,48 +9301,6 @@
     "sentence": "52",
     "size": "1",
     "time": "19200101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "antwoorden1944",
-    "group": "100:antwoorden",
-    "groupName": "antwoorden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#antwoorden1944",
-    "labels": [
-     "antwoorden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2888",
-       "2898"
-      ],
-      "sentence": [
-       "31"
-      ],
-      "terms": [
-       "t_519"
-      ],
-      "tokens": [
-       "w520"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "antwoorden"
-    ],
-    "sentence": "31",
-    "size": "1",
-    "time": "19440101"
    },
    {
     "actors": {
@@ -11520,48 +9514,6 @@
    },
    {
     "actors": {
-     "A0": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "terug_keren1928",
-    "group": "100:terug_keren",
-    "groupName": "terug_keren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#terug_keren1928",
-    "labels": [
-     "terug_keren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "829",
-       "835"
-      ],
-      "sentence": [
-       "9"
-      ],
-      "terms": [
-       "t_172"
-      ],
-      "tokens": [
-       "w173"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "terug_keren"
-    ],
-    "sentence": "9",
-    "size": "1",
-    "time": "19280101"
-   },
-   {
-    "actors": {
      "Arg1-PPT": [
       "Helena_Theodora_Rietberg"
      ]
@@ -11591,7 +9543,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/70112573_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/70112573_02.xml#metadata"
       ]
      }
     ],
@@ -11601,48 +9553,6 @@
     "sentence": "metadata",
     "size": "1",
     "time": "18930101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
-     ]
-    },
-    "climax": 1,
-    "event": "vervolgen1888",
-    "group": "100:vervolgen",
-    "groupName": "vervolgen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#vervolgen1888",
-    "labels": [
-     "vervolgen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "959",
-       "968"
-      ],
-      "sentence": [
-       "13"
-      ],
-      "terms": [
-       "t_180"
-      ],
-      "tokens": [
-       "w181"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "vervolgen"
-    ],
-    "sentence": "13",
-    "size": "1",
-    "time": "18880101"
    },
    {
     "actors": {
@@ -11685,6 +9595,48 @@
     "sentence": "52",
     "size": "1",
     "time": "19430101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ]
+    },
+    "climax": 1,
+    "event": "verbreken1908",
+    "group": "100:verbreken",
+    "groupName": "verbreken",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#verbreken1908",
+    "labels": [
+     "verbreken"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2089",
+       "2096"
+      ],
+      "sentence": [
+       "25"
+      ],
+      "terms": [
+       "t_383"
+      ],
+      "tokens": [
+       "w384"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "verbreken"
+    ],
+    "sentence": "25",
+    "size": "1",
+    "time": "19080101"
    },
    {
     "actors": {
@@ -11815,87 +9767,45 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Esm\u00e9e_Adrienne_Eeghen"
+     "A0": [
+      "Susanna_Groeneweg"
      ]
     },
     "climax": 1,
-    "event": "hebben1927",
-    "group": "100:hebben",
-    "groupName": "hebben",
+    "event": "behouden1936",
+    "group": "100:behouden",
+    "groupName": "behouden",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#hebben1927",
+    "instance": "bn:dvn_1900-1949#behouden1936",
     "labels": [
-     "hebben"
+     "behouden"
     ],
     "mentions": [
      {
       "char": [
-       "627",
-       "630"
-      ],
-      "sentence": [
-       "9"
-      ],
-      "terms": [
-       "t_117"
-      ],
-      "tokens": [
-       "w118"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/56709942_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "hebben"
-    ],
-    "sentence": "9",
-    "size": "1",
-    "time": "19270101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "benaderen1914",
-    "group": "100:benaderen",
-    "groupName": "benaderen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#benaderen1914",
-    "labels": [
-     "benaderen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2533",
-       "2542"
+       "3667",
+       "3674"
       ],
       "sentence": [
        "29"
       ],
       "terms": [
-       "t_454"
+       "t_682"
       ],
       "tokens": [
-       "w455"
+       "w683"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/66465738_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "benaderen"
+     "behouden"
     ],
     "sentence": "29",
     "size": "1",
-    "time": "19140101"
+    "time": "19360101"
    },
    {
     "actors": {
@@ -12073,48 +9983,6 @@
    },
    {
     "actors": {
-     "Arg1": [
-      "Elisabeth_Margaretha_Rogge"
-     ]
-    },
-    "climax": 1,
-    "event": "bundelen1944",
-    "group": "100:bundelen",
-    "groupName": "bundelen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#bundelen1944",
-    "labels": [
-     "bundelen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3474",
-       "3482"
-      ],
-      "sentence": [
-       "29"
-      ],
-      "terms": [
-       "t_587"
-      ],
-      "tokens": [
-       "w588"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "bundelen"
-    ],
-    "sentence": "29",
-    "size": "1",
-    "time": "19440101"
-   },
-   {
-    "actors": {
      "Arg1-PPT": [
       "Rosa_Manus"
      ]
@@ -12144,7 +10012,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/46544846_02.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/46544846_02.xml#metadata"
       ]
      }
     ],
@@ -12157,45 +10025,45 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Geertruida_van_Vladeracken"
+     "A1": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
      ]
     },
     "climax": 1,
-    "event": "birth1880",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "betrekken1934",
+    "group": "100:betrekken",
+    "groupName": "betrekken",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1880",
+    "instance": "bn:dvn_1900-1949#betrekken1934",
     "labels": [
-     "birth"
+     "betrekken"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "5034",
+       "5040"
       ],
       "sentence": [
-       "-1"
+       "51"
       ],
       "terms": [
-       "t-1"
+       "t_883"
       ],
       "tokens": [
-       "w-1"
+       "w884"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/16384097_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "betrekken"
     ],
-    "sentence": "metadata",
+    "sentence": "51",
     "size": "1",
-    "time": "18800101"
+    "time": "19340101"
    },
    {
     "actors": {
@@ -12312,7 +10180,7 @@
        "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/build_up_set/47512603_05.xml#metadata"
+       "/Users/antskez/BNtest/died_during_war/47512603_05.xml#metadata"
       ]
      }
     ],
@@ -12406,48 +10274,6 @@
     "sentence": "50",
     "size": "1",
     "time": "19440101"
-   },
-   {
-    "actors": {
-     "Arg1-PPT": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "birth1889",
-    "group": "100:birth",
-    "groupName": "birth",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1889",
-    "labels": [
-     "birth"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/build_up_set/25638658_02.xml#metadata"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "birth"
-    ],
-    "sentence": "metadata",
-    "size": "1",
-    "time": "18890101"
    },
    {
     "actors": {
@@ -12815,48 +10641,6 @@
    },
    {
     "actors": {
-     "A1": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "ondervinden1930",
-    "group": "100:ondervinden",
-    "groupName": "ondervinden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#ondervinden1930",
-    "labels": [
-     "ondervinden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3828",
-       "3837"
-      ],
-      "sentence": [
-       "39"
-      ],
-      "terms": [
-       "t_678"
-      ],
-      "tokens": [
-       "w679"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "ondervinden"
-    ],
-    "sentence": "39",
-    "size": "1",
-    "time": "19300101"
-   },
-   {
-    "actors": {
      "#": [
       "Elisabeth_Margaretha_Rogge"
      ]
@@ -12938,48 +10722,6 @@
     "sentence": "51",
     "size": "1",
     "time": "19390101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ]
-    },
-    "climax": 1,
-    "event": "betrokken1944",
-    "group": "100:betrokken",
-    "groupName": "betrokken",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#betrokken1944",
-    "labels": [
-     "betrokken"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4067",
-       "4076"
-      ],
-      "sentence": [
-       "35"
-      ],
-      "terms": [
-       "t_703"
-      ],
-      "tokens": [
-       "w704"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "betrokken"
-    ],
-    "sentence": "35",
-    "size": "1",
-    "time": "19440101"
    },
    {
     "actors": {
@@ -13109,48 +10851,6 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Frederika_Sophia_Cohen"
-     ]
-    },
-    "climax": 1,
-    "event": "ontwerpen1916",
-    "group": "100:ontwerpen",
-    "groupName": "ontwerpen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#ontwerpen1916",
-    "labels": [
-     "ontwerpen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2075",
-       "2083"
-      ],
-      "sentence": [
-       "23"
-      ],
-      "terms": [
-       "t_373"
-      ],
-      "tokens": [
-       "w374"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "ontwerpen"
-    ],
-    "sentence": "23",
-    "size": "1",
-    "time": "19160101"
-   },
-   {
-    "actors": {
      "#": [
       "Elisabeth_Carolina_van_Dorp"
      ]
@@ -13190,48 +10890,6 @@
     "sentence": "22",
     "size": "1",
     "time": "19030101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Elisabeth_Margaretha_Rogge"
-     ]
-    },
-    "climax": 1,
-    "event": "in_zetten1915",
-    "group": "100:in_zetten",
-    "groupName": "in_zetten",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#in_zetten1915",
-    "labels": [
-     "in_zetten"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4300",
-       "4305"
-      ],
-      "sentence": [
-       "36"
-      ],
-      "terms": [
-       "t_722"
-      ],
-      "tokens": [
-       "w723"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "in_zetten"
-    ],
-    "sentence": "36",
-    "size": "1",
-    "time": "19150101"
    },
    {
     "actors": {
@@ -13277,48 +10935,6 @@
     "sentence": "40",
     "size": "1",
     "time": "19060101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1949",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1949",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4116",
-       "4122"
-      ],
-      "sentence": [
-       "42"
-      ],
-      "terms": [
-       "t_806"
-      ],
-      "tokens": [
-       "w807"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "42",
-    "size": "1",
-    "time": "19490101"
    },
    {
     "actors": {
@@ -13620,90 +11236,6 @@
    {
     "actors": {
      "#": [
-      "Marie_Jeanette_Baale"
-     ]
-    },
-    "climax": 1,
-    "event": "terug_keren1907",
-    "group": "100:terug_keren",
-    "groupName": "terug_keren",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#terug_keren1907",
-    "labels": [
-     "terug_keren"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2188",
-       "2194"
-      ],
-      "sentence": [
-       "25"
-      ],
-      "terms": [
-       "t_392"
-      ],
-      "tokens": [
-       "w393"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "terug_keren"
-    ],
-    "sentence": "25",
-    "size": "1",
-    "time": "19070101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Esther_Hillesum"
-     ]
-    },
-    "climax": 1,
-    "event": "schrijven1942",
-    "group": "100:schrijven",
-    "groupName": "schrijven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#schrijven1942",
-    "labels": [
-     "schrijven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5182",
-       "5189"
-      ],
-      "sentence": [
-       "43"
-      ],
-      "terms": [
-       "t_935"
-      ],
-      "tokens": [
-       "w936"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/51861341_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "schrijven"
-    ],
-    "sentence": "43",
-    "size": "1",
-    "time": "19420101"
-   },
-   {
-    "actors": {
-     "#": [
       "Alida_de_Jong",
       "Alida_de_Jong"
      ]
@@ -13872,48 +11404,6 @@
    },
    {
     "actors": {
-     "Arg0": [
-      "Setske_de_Haan"
-     ]
-    },
-    "climax": 1,
-    "event": "verschijnen1919",
-    "group": "100:verschijnen",
-    "groupName": "verschijnen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#verschijnen1919",
-    "labels": [
-     "verschijnen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "2994",
-       "3003"
-      ],
-      "sentence": [
-       "26"
-      ],
-      "terms": [
-       "t_542"
-      ],
-      "tokens": [
-       "w543"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "verschijnen"
-    ],
-    "sentence": "26",
-    "size": "1",
-    "time": "19190101"
-   },
-   {
-    "actors": {
      "Arg1": [
       "Alida_de_Jong"
      ],
@@ -14043,45 +11533,45 @@
    },
    {
     "actors": {
-     "Arg1": [
-      "Setske_de_Haan"
+     "Arg0": [
+      "Esm\u00e9e_Adrienne_Eeghen"
      ]
     },
     "climax": 1,
-    "event": "mogen1908",
-    "group": "100:mogen",
-    "groupName": "mogen",
+    "event": "hebben1927",
+    "group": "100:hebben",
+    "groupName": "hebben",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#mogen1908",
+    "instance": "bn:dvn_1900-1949#hebben1927",
     "labels": [
-     "mogen"
+     "hebben"
     ],
     "mentions": [
      {
       "char": [
-       "940",
-       "945"
+       "627",
+       "630"
       ],
       "sentence": [
        "9"
       ],
       "terms": [
-       "t_179"
+       "t_117"
       ],
       "tokens": [
-       "w180"
+       "w118"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/56709942_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "mogen"
+     "hebben"
     ],
     "sentence": "9",
     "size": "1",
-    "time": "19080101"
+    "time": "19270101"
    },
    {
     "actors": {
@@ -14169,45 +11659,45 @@
    },
    {
     "actors": {
-     "A1": [
-      "Geertruida_van_Vladeracken"
+     "A0": [
+      "Esther_Hillesum"
      ]
     },
     "climax": 1,
-    "event": "trouwen1901",
-    "group": "100:trouwen",
-    "groupName": "trouwen",
+    "event": "schrijven1942",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trouwen1901",
+    "instance": "bn:dvn_1900-1949#schrijven1942",
     "labels": [
-     "trouwen"
+     "schrijven"
     ],
     "mentions": [
      {
       "char": [
-       "1137",
-       "1144"
+       "5182",
+       "5189"
       ],
       "sentence": [
-       "13"
+       "43"
       ],
       "terms": [
-       "t_208"
+       "t_935"
       ],
       "tokens": [
-       "w209"
+       "w936"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
+       "/Users/antskez/BNtest/naf_build_set/51861341_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "trouwen"
+     "schrijven"
     ],
-    "sentence": "13",
+    "sentence": "43",
     "size": "1",
-    "time": "19010101"
+    "time": "19420101"
    },
    {
     "actors": {
@@ -14473,7 +11963,7 @@
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   327
+   269
   ],
   "sources": [
    {
@@ -14489,10 +11979,6 @@
     "uri": "/Users/antskez/BNtest/naf_build_set/13719860_03.xml.gz"
    },
    {
-    "text": "VLADERACKEN, Geertruida van (geb. Haarlem\n18-4-1880 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Naarden 4-1-1947), voordrachtkunstenares en componiste.\nDochter van Gerard Pieter van Vladeracken (1830-1886) en jonkvrouw Jacoba\nElisabeth van Foreest (1842-1909). Geertruida van Vladeracken trouwde (1) op\n30-5-1901 in Haarlem met Nicolaas Cornelis Vogel (1874-1915), violist en\nvioolleraar (2) op 26-2-1916 in Londen (Engeland) met Jan Christiaan Poortenaar (1886-1958), graficus,\nkunstenaar en uitgever. Beide huwelijken bleven kinderloos.\nGeertruida\nvan Vladeracken studeerde piano aan het Amsterdams Conservatorium in de jaren\ndat Dani\u00c3\u0083\u00c2\u00abl de Lange daar directeur was; ook volgde ze zanglessen bij Cornelia\nvan Zanten. Al snel stond de opleiding haar niet aan \u00c3\u00a2\u00c2\u0080\u00c2\u0093 te klassiek \u00c3\u00a2\u00c2\u0080\u00c2\u0093 en zocht\nze haar heil bij andere leraren. Indien nodig reisde ze hiervoor zelfs in \u00c3\u0083\u00c2\u00a9\u00c3\u0083\u00c2\u00a9n\ndag heen en weer naar Keulen. Als vertolkster van het lied ging haar voorkeur\nuit naar Schubert en Brahms. \u00c3\u00a2\u00c2\u0080\u00c2\u0098Haar klare, heldere sopraan, zo zuiver als glas\u00c3\u00a2\u00c2\u0080\u00c2\u0099\n(De Lange) bezorgde haar succes. Van Vladeracken zong haar eerste\nliederenavonden op een tournee in Scandinavi\u00c3\u0083\u00c2\u00ab in Stockholm, Oslo en G\u00c3\u0083\u00c2\u00b6teborg. \nIn\n1901 trouwde Geertruida van Vladeracken met de violist Nicolaas Cornelis Vogel.\nOver haar huwelijksjaren met Vogel is niets bekend. Een jaar na diens dood\n(1915) hertrouwde ze met de graficus Jan Christiaan Poortenaar, met wie ze naar\nLonden verhuisde. Ze legde zich toe op de vertolking van oude volksliedjes. In\nhet programmaboekje van haar optreden bij de katholieke kunstkring De Violier\n(1918) werd ze aangekondigd als een \u00c3\u00a2\u00c2\u0080\u00c2\u0098begaafde vrouw, bekwaam zangeres en\nintelligent componiste, gekleed in haar eenvoudig en karakteristiek gewaad\u00c3\u00a2\u00c2\u0080\u00c2\u0099 die\noude liedjes als \u00c3\u00a2\u00c2\u0080\u00c2\u0098Hoe leit dit kindeken\u00c3\u00a2\u00c2\u0080\u00c2\u0099 en \u00c3\u00a2\u00c2\u0080\u00c2\u0098Jesus\u00c3\u00a2\u00c2\u0080\u00c2\u0099 dood\u00c3\u00a2\u00c2\u0080\u00c2\u0099 vertolkte \u00c3\u00a2\u00c2\u0080\u00c2\u0098met innig\ngevoel en sober gebaar\u00c3\u00a2\u00c2\u0080\u00c2\u0099. De liederen die Van Vladeracken zong, vond zij in\nbekende bundels (zelden meer gebruikt) \u00c3\u0083\u00c2\u00a9n in oude\ndrukken die ze zelf opzocht in bibliotheken. \nSamen\nmet Poortenaar maakte ze diverse tournees. Toen ze tijdens haar concertreizen door\nEngeland en Schotland in aanraking kwam met traditionele Engelse en Schotse\nliederen, besloot ze begeleidingen voor strijkkwartet bij de oude melodie\u00c3\u0083\u00c2\u00abn uit\ntoneelstukken van Shakespeare te componeren. Ook maakte ze nieuwe muziek op\noude Schotse ridderballades en liederen van fee\u00c3\u0083\u00c2\u00abn. Ze cre\u00c3\u0083\u00c2\u00aberde daarmee een voor\ndie tijd nieuw liederenrepertoire dat bevreemding wekte, maar sommigen \u00c3\u00a2\u00c2\u0080\u00c2\u0093 onder\nwie de dichter Adriaan Roland Holst \u00c3\u00a2\u00c2\u0080\u00c2\u0093 ook sterk aansprak en inspireerde. \nIn\n1921 maakte Van Vladeracken een tournee door Nederland en tussen 1922 en 1924\nmaakte ze met haar man een rondreis door het toenmalige Nederlands-Indi\u00c3\u0083\u00c2\u00ab. Hier\ntraden ze samen op: zij als voordrachtkunstenares, haar man als haar begeleider\nop de piano. In 1926 werden haar Songs of a Child, six Melodies uitgegeven\ndoor muziekuitgeverij Alsbach. De bekende kinderboekenillustratrice Rie Cramer\nmaakte er tekeningen bij en de liedjes waren voorzien van een Nederlandse\nvertaling. De kinderliedjes waren niet braaf en moraliserend maar juist speels,\nwant ze moesten aansluiten bij de belevingswereld van kinderen. \nNa haar reizen vestigde Van Vladeracken zich met\nPoortenaar in Naarden aan de Meentweg. Tijdens de Tweede Wereldoorlog\nliet\u00c3\u0082\u00c2\u00a0 ze zich niet in het openbaar horen,\nmaar trad alleen in besloten kring op. Na de Bevrijding componeerde ze het lied\n\u00c3\u00a2\u00c2\u0080\u00c2\u0098Vrij!\u00c3\u00a2\u00c2\u0080\u00c2\u0099; de \u00c3\u0082\u00c2\u00a0tekst, die onder meer zegt\ndat men een geuzenvolk er nooit onder krijgt, had ze zelf geschreven. In 1946 publiceerde\nze Muziek. Veroverd paradijs uit: een soort terugblik op haar loopbaan.\nHierin geeft ze niet zozeer een anekdotische levensbeschrijving, maar meer een\nindruk van wat muziek voor haar heeft betekend. In datzelfde jaar bracht ze ook\nFacetten van het Belcanto uit, dat later bekend werd onder de titel Beter\nzingen! Met dit boekje beoogde ze een aantal losse adviezen te geven die ze\nin de praktijk had geleerd. Geertruida van Vladeracken overleed op 4 januari\n1947.\nNaslagwerken\nJacobs;\nWaller.\nArchivalia\nAletta\nE-Quality, Amsterdam: archief Stichting vrouw en muziek.Centraal\nBureau voor Genealogie, Den Haag: collectie Veenhuijzen, Van Vladeracken;\nVogel.Nederlands\nMuziekarchief. Collectie Van Vladeracken.Universiteit\nLeiden. Brief van Geertruida van Vladeracken aan De Gids, 9-11-1938.\nPublicaties\nVoor\neen complete lijst van publicaties zie: www.nederlandsmuziekinstituut.nl\nLiteratuur\n\u00c3\u00a2\u00c2\u0080\u00c2\u0098Geertruida\nvan Vladeracken\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Leidsch Dagblad, 18-8-1921.Dirk\nM. Huizinga, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Geertruida van Vladeracken\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Torenreeks 33-34, 1947.R.\nW. P. de Vries, Jan Poortenaar en zijn werk (Naarden 1947).Nederland\u00c3\u00a2\u00c2\u0080\u00c2\u0099s\nPatriciaat 8 (1917); 23 (1939); 41 (1955).Alit\nM.L.R. Djajasoebrata, Kunstreis in de tropen (Rotterdam 1969).\nIllustratie\nPortretfoto door onbekende fotograaf, ongedateerd (Nederlands Muziek Instituut, Den Haag).\nAuteur:\nVera Weterings",
-    "uri": "/Users/antskez/BNtest/naf_build_set/16384097_02.xml.gz"
-   },
-   {
     "text": "VRIES, Clara de (geb. Schoonhoven 31-12-1915 \u00e2\u0080\u0093 gest. Auschwitz, Polen 22-10-1942), jazztrompettiste en bandleider. Dochter van Arend de Vries (1882-1942), textielhandelaar en amateurtrompettist, en Betje Bollegraaf (1878-1942). Clara de Vries trouwde op 20-5-1936 in Rotterdam met Willy Schobbe (1915-2009), trompettist. Dit huwelijk bleef kinderloos.Clara de Vries werd op oudejaarsdag 1915 geboren als vierde kind in een bijzonder muzikale familie. Haar vader Arend was amateurtrompettist, gaf muzieklessen en had de leiding over het harmoniecorps van Rhoon. Clara moet van jongs af aan omringd zijn geweest door trompetklanken, want ook haar oudste broer, de tien jaar oudere Louis, speelde trompet. Jazz was in die tijd de nieuwste rage, net overgewaaid uit de Verenigde Staten, waar de eerste opnamen van jazzmuziek in 1917 verschenen waren. Louis had op jonge leeftijd al zoveel succes met zijn trompet dat hij internationaal bekend stond als \u00e2\u0080\u0098the Dutch Armstrong\u00e2\u0080\u0099 \u00e2\u0080\u0093 een verwijzing naar Louis Armstrong, een van de meest succesvolle Amerikaanse jazzmusici en h\u00c3\u00a9t rolmodel voor iedere trompettist. Zijn succes was waarschijnlijk nog veel groter geworden als hij niet in 1935 bij een auto-ongeluk om het leven was gekomen. Voordien had de kleine Clara van haar grote broer trompetles gehad, en blijkbaar maakte zij snelle vorderingen, want al op zestienjarige leeftijd werd ze ge\u00c3\u00abngageerd door de Rus Leo Selinsky, die met zijn damesorkest Blue Jazz Ladies door Europa reisde. Dames-jazzorkestNa een tournee met Selinsky sloot Clara zich aan bij de Schirmann Jazz Girls, waarmee ze in Spanje, Zwitserland en Duitsland optrad. Alexander Schirmann, de leider van de band, moet zijn handen vol gehad hebben aan de jeugdige jazzgirls; het verhaal gaat dat Clara en haar hartsvriendin Annie van \u00e2\u0080\u0099t Zelfde zo\u00e2\u0080\u0099n heimwee hadden dat ze vanuit Zwitserland stiekem de nachttrein terug naar Nederland namen. Hij reisde hen in allerijl achterna en haalde hen over om mee terug te gaan. Damesorkesten waren in die tijd een niet ongebruikelijk fenomeen, maar een dames-jazzorkest was een echte noviteit, zeker in Europa. Veruit de meeste damesorkesten legden zich toe op een repertoire van Weense walsen, foxtrots en tango\u00e2\u0080\u0099s. In de Verenigde Staten waren al wel enkele succesvolle dames-jazzorkesten. E\u00c3\u00a9n daarvan, Babe Egan and her Hollywood Redheads, was in 1929 zelfs een jaar lang op tournee in Europa. Of Clara deze band ook gehoord heeft is niet bekend, maar haar vriendin Annie van \u00e2\u0080\u0099t Zelfde was zo onder de indruk van het optreden van de Redheads in Rotterdam dat ze besloot om saxofoon te gaan spelen. Door jazzliefhebbers werden de damesorkesten niet echt serieus genomen. Het belangrijkste Nederlandse jazztijdschrift, De Jazzwereld, schreef in februari 1934 over het orkest van Schirmann: \u00e2\u0080\u0098Een damesorkest; Wiener M\u00c3\u00a4del en wat al niet meer [\u00e2\u0080\u00a6]. De ervaring heeft ons geleerd tegenover dit soort orkesten een enigzins sceptische houding aan te nemen. Gewoonlijk is de lieftalligheid der dames van meer gewicht dan de muzikale prestaties\u00e2\u0080\u0099. Diezelfde avond raakte de scribent echter danig onder de indruk van Clara, \u00e2\u0080\u0098die ons een hot-solo geeft, waarvan we allen verstomd staan. Volkomen zuiver en virtuoos van improvisatie, geeft dit meisje een staaltje van haar kunnen op een manier die ons aller bewondering afdwingt\u00e2\u0080\u0099.Kort daarna besloot Clara de Vries dat de tijd rijp was om voor zichzelf te beginnen. Op 1 augustus 1935 debuteerde zij in Den Haag met haar eigen orkest, Clara de Vries and her Jazz-ladies. Het initiatief werd met enthousiasme begroet, en de concerten welwillend gerecenseerd, zij het niet zonder enige neerbuigendheid: \u00e2\u0080\u0098Het debuut van Clara de Vries en haar eigen band is alleszins gunstig geweest. Niet alleen is het uiterlijk prettig om te aanschouwen, maar er wordt tevens goed gemusiceerd\u00e2\u0080\u0099. Enkele maanden later nam Clara plaats in de succesvolle band de \u00e2\u0080\u0098Internationals\u00e2\u0080\u0099, het orkest van haar andere broer, bassist en trombonist Jack. Ditmaal leek men haar serieuzer te nemen: \u00e2\u0080\u0098Deze toevoeging van het vrouwelijk element is niet om der wille van de sensatie geschied doch om zuiver artistieke redenen. Clara is thans \u00c3\u00a9\u00c3\u00a9n der twee of drie beste danstrompettisten van ons land. Vooral technisch is zij enorm [\u00e2\u0080\u00a6]. Haar toon is magnifiek\u00e2\u0080\u0099. Dat Clara werkelijk een uitzonderlijk trompettiste moet zijn geweest, blijkt eens te meer uit een opmerking die de grote Louis Armstrong na een bezoek aan Nederland maakte: \u00e2\u0080\u0098That Louis De Vries, he had a sister Clara with a ladies-band. Oh boy, she could play that horn!\u00e2\u0080\u0099Huwelijk en oorlogOp 20 mei 1936 trouwde Clara de Vries met de Limburgse Willy Schobbe(n), eveneens trompettist maar op dat moment nog lang niet zo succesvol als zijn echtgenote. Het huwelijk leidde er bepaald niet toe dat Clara terugtrad van het podium. In de volgende jaren speelde ze met grote regelmaat door heel Nederland, zowel als bandleider als in diverse bestaande (al dan niet dames-)orkesten. Na het begin van de Duitse bezetting werd het voor de joodse Clara echter steeds moeilijker om te spelen. Aanvankelijk trad ze nog veel op, vooral in de provincie Groningen, met een orkest genaamd de Plus Fours. Al snel werd joodse musici echter het artiestenbestaan min of meer onmogelijk gemaakt. Op 9 februari 1941 speelde Clara nog in Amsterdam in het caf\u00c3\u00a9-cabaret Alcazar op het Thorbeckeplein, dat net buiten de joodse buurt lag. Op die avond drongen NSB\u00e2\u0080\u0099ers, bijgestaan door Duitse militairen, het caf\u00c3\u00a9 binnen omdat er nog joodse artiesten optraden. Er ontstond een grote vechtpartij waarbij 23 mensen gewond raakten. De NSB\u00e2\u0080\u0099er Hendrik Koot overleed korte tijd later aan zijn verwondingen (hierop volgden de razzia\u00e2\u0080\u0099s\ndie leidden tot de Februaristaking). In augustus 1942 speelde Clara nog in het Amstel Cabaret in de joodse wijk, maar de situatie verslechterde snel. Clara wilde van onderduiken niet weten en lijkt zich bij haar lot te hebben neergelegd. Op 1 september 1942 schreef ze in een afscheidsbrief aan Annie van \u00e2\u0080\u0099t Zelfde: \u00e2\u0080\u0098uitstel heb ik niet meer gekregen, ze komen je nu gewoon van je bed af [\u00e2\u0080\u00a6] halen. Ik ben er geheel op voorbereid en op geprepareerd. Annie, als ik je soms niet meer mocht zien, vaarwel en leef gelukkig\u00e2\u0080\u0099. Op 15 oktober 1942 werd Clara samen met haar ouders weggevoerd naar kamp Westerbork. Vier dagen later werden ze gedeporteerd naar Auschwitz, waar ze op 22 oktober aankwamen en nog dezelfde dag werden vermoord. In betere tijden werd zij aangekondigd als \u00e2\u0080\u0098bekend van radio en grammofoonplaat\u00e2\u0080\u0099, maar van het trompetspel van Clara de Vries zijn voor zover bekend geen opnames bewaard gebleven. In Rotterdam is een straat naar haar genoemd.NaslagwerkenJoods Monument.ArchivaliaNederlands Jazzarchief (Muziek Informatie Centrum), Amsterdam: knipselmap Louis de Vries, incl. Jack en Clara de Vries.Literatuur\u00e2\u0080\u0098Nieuws van en over de bands\u00e2\u0080\u0099, Jazzwereld (februari 1934) 17; (augustus 1935) 18-20.Bob Schrijver, \u00e2\u0080\u0098Clara de Vries and her Jazzladies\u00e2\u0080\u0099, Jazzwereld (september 1935) 17.\u00e2\u0080\u0098Twee trompettisten vonden elkaar; Clara de Vries trouwt op 20 mei a.s.\u00e2\u0080\u0099, Jazzwereld (mei 1936) 13.H. Langeweg, \u00e2\u0080\u0098Clara de Vries\u00e2\u0080\u0099, Doctor Jazz Magazine (april 1975) 25-29.R.E. Lotz e.a., \u00e2\u0080\u0098Dames-jazzorkesten: nu uit de tijd \u00e2\u0080\u0093 eens aantrekkelijk amusement\u00e2\u0080\u0099, Doctor Jazz Magazine (oktober 1975) 25-29.H. Langeweg, \u00e2\u0080\u0098Jazz in Rotterdam voor 1940: deel 6\u00e2\u0080\u0099, Doctor Jazz Magazine (juni 1978) 16-19.H. Langeweg, \u00e2\u0080\u0098Jazz in Rotterdam voor 1940: deel 7\u00e2\u0080\u0099, Doctor Jazz Magazine (maart 1979) 5-6.Netty ten Hoorn (samenstelling en regie), Sweet & hot music: Nederlandse damesorkesten uit de jaren \u00e2\u0080\u009930 (TV-documentaire NOS 1989).Arie van Breda, \u00e2\u0080\u0098100 jaar\u00e2\u0080\u0099 Jazz in Den Haag, het New Orleans van de Lage Landen (Den Haag 2000).Aldert Toornstra, \u00e2\u0080\u0098De opkomst van de moderne dans- en jazzmuziek in het noorden van het land\u00e2\u0080\u0099, NJA Bulletin (2001) nr. 41, 36-46.Hans Koert, \u00e2\u0080\u0098Hollandse damesorkesten: blue jazzladies\u00e2\u0080\u0099, op: keep (it) swinging (blog).Hans Koert, \u00e2\u0080\u0098Hollandse damesorkesten met Clara de Vries en Annie van \u00e2\u0080\u0099t Zelfde\u00e2\u0080\u0099, op: keep (it) swinging (blog).IllustratieOngedateerde portretfoto.Auteur: Chiel ZwinkelsAldert Toornstra, \u00e2\u0080\u0098De opkomst van de moderne dans- en jazzmuziek in het noorden van het land\u00e2\u0080\u0099, NJA Bulletin (2001) nr. 41, 36-46.Hans Koert, \u00e2\u0080\u0098Hollandse damesorkesten: blue jazzladies\u00e2\u0080\u0099, op: keep (it) swinging (blog).Hans Koert, \u00e2\u0080\u0098Hollandse damesorkesten met Clara de Vries en Annie van \u00e2\u0080\u0099t Zelfde\u00e2\u0080\u0099, op: keep (it) swinging (blog).IllustratieOngedateerde portretfoto.Auteur: Chiel Zwinkels",
     "uri": "/Users/antskez/BNtest/naf_build_set/16954586_02.xml.gz"
    },
@@ -14503,10 +11989,6 @@
    {
     "text": "FRANK, Annelies Marie (geb. Frankfurt am Main, Duitsland 12-6-1929 \u00e2\u0080\u0093 gest. Bergen-Belsen, Duitsland ?-3-1945), dagboekschrijfster. Dochter van Otto Heinrich Frank (1889-1980), bankier en ondernemer, en Edith Holl\u00c3\u00a4nder (1900-1945). Anne Frank groeide samen met haar drie jaar oudere zuster Margot op in een geassimileerd liberaal-joods gezin in Frankfurt. Annes vader, Otto Frank, was daar directeur van de Michael Frank Bank. Nadat Hitler in Duitsland aan de macht was gekomen, vertrok de familie eind 1933 naar Amsterdam. Daar werd Otto Frank oprichter en directeur van de N.V. Nederlandsche Opekta Maatschappij, die zich toelegde op de verkoop van pectine, een natuurlijk geleermiddel dat wordt gebruikt bij de fabricage van jam. Het gezin Frank betrok een bovenwoning in de Rivierenbuurt (Merwedeplein 37), waar zich meer joodse vluchtelingen uit Duitsland zouden vestigen. Anne en Margot gingen naar de nabijgelegen Montessorischool en maakten zich de Nederlandse taal en gewoonten sneller eigen dan hun ouders, die hun vrienden voornamelijk in Duitse kring hadden. Het achterhuisMet de Duitse bezetting (mei 1940) veranderde er aanvankelijk niet veel in het leven van de Franks. Maar toen begin 1941 de eerste anti-joodse maatregelen toenamen, begon Otto Frank het achterhuis van zijn kantoor annex pakhuis aan de Prinsengracht 263 te veranderen in een schuilplaats. De onderduik van de familie Frank begon op 5 juli 1942, de dag dat Margot Frank een oproep ontving zich te melden voor tewerkstelling in Duitsland. Drie weken daarvoor had Anne voor haar dertiende verjaardag een po\u00c3\u00abziealbum gekregen, dat zij als dagboek ging gebruiken. Zij deed dit in de vorm van brieven aan verscheidene imaginaire vriendinnen, maar uiteindelijk alleen aan \u00e2\u0080\u0098Kitty\u00e2\u0080\u0099. Deze naam is hoogstwaarschijnlijk ontleend aan Kitty Francken, een personage uit de meisjesboekenserie Joop ter Heul van Cissy van Marxveldt. Uit verscheidene dagboekaantekeningen blijkt hoe dol Anne op het werk van deze schrijfster was. Voor Anne Frank was haar dagboek haar vrijheid. Zij kon opschrijven wat ze wilde, haar gedachten en idee\u00c3\u00abn, zaken die zij leuk vond en die ze niet leuk vond. Zij schreef uitvoerig over haar onderduikbestaan, haar vriendinnen op school, haar familie en de andere bewoners van het achterhuis, onder wie Peter van Pels, de zestienjarige zoon van een joodse werknemer van de firma Frank. Toen in december 1942 het po\u00c3\u00abziealbum vol was, zette Anne haar dagboek voort in schoolschriften. Ze schreef graag en wilde later journaliste of schrijfster worden. In 1943 begon zij aan korte verhaaltjes, die zich in het achterhuis afspelen, en aan sprookjes. Vanaf begin 1944 raakte ze steeds meer verliefd op Peter. Haar ouders keurden het voortdurend samenzijn met Peter af, maar Anne gaf niet toe. Ze werd heen en weer geslingerd tussen optimisme en pessimisme, en haar dagboekaantekeningen worden in deze periode filosofischer van aard.Een nieuwe stimulans om haar dagboek bij te houden kreeg Anne op 28 maart 1944. Zij en haar huisgenoten luisterden veel naar Radio Oranje, en op die dag kondigde G. Bolkestein, de minister van Onderwijs, Kunsten en Wetenschappen van de Nederlandse regering in ballingschap, daar aan dat er na de bevrijding een inzameling van dagboeken en brieven over de bezettingsperiode zou worden gehouden. Anne Frank schreef hoe interessant het zou zijn wanneer haar dagboek bij wijze van roman zou worden uitgegeven. Zeven weken later voegde zij de daad bij het woord en ging ze haar dagboek herschrijven met het oog op een toekomstige publicatie. Omdat het moeilijk was nog schoolschriften te kopen, maakte Anne voor haar tweede versie gebruik van losse vellen (doorslag)papier. Alle brieven richtte ze nu consequent aan Kitty en ze gaf fictieve namen aan de mensen uit haar directe omgeving \u00e2\u0080\u0093 onderduikers en hun helpers. Intussen bleef zij ook haar reguliere dagboek bijhouden. Anne Frank heeft de tweede versie van haar dagboek niet kunnen voltooien, want op 4 augustus 1944 viel de Gr\u00c3\u00bcne Polizei het achterhuis aan de Prinsengracht binnen, op zoek naar joodse onderduikers \u00e2\u0080\u0093 er moet dus verraad in het spel zijn geweest. Anne had op dat moment meer dan driehonderd vellen volgeschreven; met het bewerken was ze tot 29 maart 1944 gekomen. De acht onderduikers en twee van hun helpers werden eerst overgebracht naar de gevangenis van de Sicherheitsdienst aan de Euterpestraat. Vier dagen later werden de onderduikers op transport gesteld naar het doorgangskamp Westerbork. De twee helpers werden naar kamp Amersfoort overgebracht en zouden de Duitse bezetting overleven. In Westerbork was het leven voor Anne en haar huisgenoten relatief vrijer dan in het achterhuis, maar dit duurde slechts vier weken. Op 3 september 1944 werden zij op transport gezet, met de laatste trein die vanuit dat kamp naar het vernietigingskamp Auschwitz-Birkenau zou gaan. Een kleine twee maanden later werden Anne en Margot Frank per trein naar Bergen-Belsen in Neder-Saksen overgebracht. Uit de schaarse ooggetuigeverslagen valt op te maken dat zij er bij aankomst al slecht aan toe waren, en begin maart 1945 zijn zij kort na elkaar door uitputting en tyfus gestorven.Vader Frank was de enige van de acht onderduikers uit het achterhuis die de oorlog overleefde. Het dagboek na de oorlogOp 3 juni 1945 keerde Annes vader terug in Amsterdam. Toen duidelijk werd dat ook zijn dochters waren gestorven \u00e2\u0080\u0093 hij wist al langer dat zijn vrouw in Auschwitz aan uitputting was bezweken \u00e2\u0080\u0093 kreeg hij de dagboeken van Anne, die zijn secretaresse Miep Gies meteen na de inval in veiligheid had gebracht en zorgvuldig had bewaard. Otto Frank vervaardigde een manuscript, waarbij hij vooral Annes tweede versie gebruikte, aangevuld met delen uit haar eerste versie. Anti-Duitse opmerkingen, die ook op de medeonderduikers sloegen, liet hij weg, evenals passages waarin Anne onaardig was over haar moeder. Het was echter de Nederlandse uitgever \u00e2\u0080\u0093 en niet Otto Frank \u00e2\u0080\u0093 die volstrekt onschuldige seksuele uitlatingen schrapte. Op 25 juni 1947 publiceerde de Amsterdamse uitgeverij Contact Het Achterhuis. Dagboekbrieven, 12 juni 1942-1 augustus 1944 in een oplage van 1500 exemplaren. Het woord vooraf was van de historica Annie Romein-Verschoor. Hoewel goed besproken, was Het Achterhuis niet onmiddellijk een succes. Niettemin verschenen er binnen vijf jaar vertalingen in het Duits, Frans en Engels. In 1955 ging op Broadway in New York The diary of Anne Frank in premi\u00c3\u00a8re, een door Frances Goodrich en Albert Hackett geschreven toneelstuk, dat was gebaseerd op Het Achterhuis. Het werd een daverend succes, en even succesvolle uitvoeringen in tientallen landen volgden. Meteen al werd geklaagd dat de schrijvers de joodse kant hadden weggemoffeld, en veel later werd over \u00e2\u0080\u0098trivialisering\u00e2\u0080\u0099 en \u00e2\u0080\u0098Amerikanisering\u00e2\u0080\u0099 gesproken. Toch is deze bewerking uit de jaren vijftig nog steeds de enige toegestane toneeluitvoering van Annes dagboek, streng bewaakt door de erven Frank. Pas na de toneelopvoeringen werd Het Achterhuis in de gehele wereld een bestseller. De kracht ervan is het ontbreken van een gesloten wereldbeeld, van een politieke overtuiging of geloofsovertuiging; zodoende kunnen miljoenen lezers Anne Franks dagboek naar eigen inzicht invullen. Het werd in meer dan zeventig talen vertaald, en er zijn inmiddels meer dan dertig miljoen exemplaren van verkocht. Naast het toneelstuk zijn er vele bioscoop- en televisieproducties van Het Achterhuis gemaakt. IcoonDe originele dagboeken van Anne Frank worden permanent tentoongesteld in het Achterhuis, waar de door Otto Frank opgerichte Anne Frank Stichting de idealen van Anne Frank uitdraagt, zoals zij die in haar dagboek verwoordde: \u00e2\u0080\u0098dat ook deze hardheid op zal houden, dat er weer rust en vrede in de wereldorde zal komen\u00e2\u0080\u0099. In New York, Londen en Berlijn bevinden zich gelijksoortige stichtingen, terwijl het in Bazel gevestigde Anne Frank Fonds de rechten van de dagboeken beheert. Na de dood van Otto Frank (1980) werd het Nederlands Instituut voor Oorlogsdocumentatie bij testament de eigenaar van de geschriften van Anne Frank. Dit instituut heeft in 1986 voor het eerst alle dagboekaantekeningen van Anne uitgegeven, zowel haar eerste als haar tweede versie. Tevens liet het instituut onderzoek doen door het Gerechtelijk Laboratorium naar de echtheid van de dagboeken, waaraan jarenlang door vooral neonazi\u00e2\u0080\u0099s werd getwijfeld.Tot ver in de twintigste eeuw werd zeker in Nederland Het Achterhuis als een meisjesboek beschouwd en zag men in Nederland het \u00e2\u0080\u0098fenomeen Anne Frank\u00e2\u0080\u0099 als iets voor buitenlandse toeristen. Een serieuze receptie van het werk van Anne kwam pas laat op gang. In het bijzonder Amerikaanse historici namen daarbij het voortouw. Daarbij gaat het niet zozeer om haar teksten, maar bijvoorbeeld om de geschiedenis van de totstandkoming van het toneelstuk, of haar rol als symbool van de Holocaust. Was zij in de jaren vijftig vooral de belichaming van een optimisme tegen alle verdrukking in, een geloof in \u00e2\u0080\u0098de innerlijke goedheid van de mens\u00e2\u0080\u0099, tegenwoordig wordt Anne Frank vooral gebruikt als icoon om racisme en ander onrecht te bestrijden. Naast deze symboolfunctie van Anne Frank is er sinds enige decennia ook meer aandacht voor de literaire aspecten van haar werk. NaslagwerkenBWN; Joden in Nederland.ArchivaliaNederlands Instituut voor Oorlogsdocumentatie, Amsterdam: collectie Anne Frank.Anne Frank Stichting, Amsterdam: collectie Anne Frank.PublicatiesDe dagboeken van Anne Frank, Harry Paape, Gerrold van der Stroom en David Barnouw ed., met samenvatting van het rapport, opgesteld door H.J.J. Hardy, van het Gerechtelijk Laboratorium (Den Haag enz. 1986) [volledige, tekstkritische en becommentarieerde uitgave].Verhaaltjes, en gebeurtenissen uit het Achterhuis, Gerrold van der Stroom ed. (Amsterdam 2001).Mooie-zinnenboek, Gerrold van der Stroom ed. (Amsterdam 2004).LiteratuurMiep Gies en Alison Leslie Gold, Anne Frank remembered. The story of Miep Gies who helped to hide the Frank family (London enz. 1987).Willy Lindwer, De laatste zeven maanden. Vrouwen in het spoor van Anne Frank (Hilversum 1988).David Barnouw, Anne Frank voor beginners en gevorderden (Den Haag 1998).Carol Ann Lee, Roses from the earth. The biography of Anne Frank (Londen 1998).Melissa M\u00c3\u00bcller, Das M\u00c3\u00a4dchen Anne Frank. Die Biographie (M\u00c3\u00bcnchen 1998).Hyman Aaron Enzer en Sandra Solotaroff-Enzer red., Anne Frank. Reflections on her life and legacy (Urbana enz. 2000).Gerrold van der Stroom red., De vele gezichten van Anne Frank. Visies op een fenomeen (Amsterdam enz. 2003).David Barnouw en Gerrold van der Stroom, Wie verraadde Anne Frank? (Amsterdam 2003).Marion Siems, Anne Frank Tagebuch (Erl\u00c3\u00a4uterungen und Dokumente) (Stuttgart 2003).David Barnouw, Het fenomeen Anne Frank (Amsterdam 2012).IllustratieFoto door Otto Frank, omstreeks 1941 (Anne Frank Stichting, Amsterdam).Auteur: David Barnouw",
     "uri": "/Users/antskez/BNtest/naf_build_set/20566910_02.xml.gz"
-   },
-   {
-    "text": "HAAN, Setske de, vooral bekend als Cissy van Marxveldt (geb. Schoterland, Friesland 24-11-1889 \u00e2\u0080\u0093 gest. Bussum 31-10-1948), schrijfster van jeugdboeken. Dochter van Ynze de Haan (1860-1926), hoofdonderwijzer, later leraar geschiedenis, en Froukje de Groot (1863-1935). Setske de Haan trouwde op 3-2-1916 in Amsterdam met Leon Beek (1893-1944), bedrijfsleider. Uit dit huwelijk werden 2 zoons geboren.Al op de lagere school schreef Setske de Haan, enig kind van een vooruitstrevende hoofdonderwijzer in het Friese dorp Oranjewoud, schriften vol met verzinsels, \u00e2\u0080\u0098gestolen uit alle boeken, die ik [...] verslonden had\u00e2\u0080\u0099 (\u00e2\u0080\u0098Wat voorbijging\u00e2\u0080\u0099, 18). Op haar vijftiende, toen ze op de driejarige HBS in het naburige Heerenveen naar eigen zeggen \u00e2\u0080\u0098tamelijk de beest schopte\u00e2\u0080\u0099, verkocht ze aan een plaatselijke krant een romantische novelle die als feuilleton werd gepubliceerd. Door een blindedarmontsteking kwam ze niet toe aan haar eindexamen, maar ze mocht in 1908 naar het buitenland. Als au pair bij een tamelijk streng doktersgezin in het Britse Coventry kreeg ze de roepnaam Cissy. Na een jaar kostschool in Bath keerde Setske de Haan terug naar Oranjewoud en werd ze leerling-verslaggeefster bij de Drachtster Courant. Ze vond het werk weinig uitdagend en vertrok omstreeks 1910 naar Amsterdam, leerde stenografie en typen en werd secretaresse op het Duitse handelskantoor Wolff. Tijdens de mobilisatie correspondeerde ze met de reserveofficier Leo Beek, die ze in haar Amsterdamse kosthuis had leren kennen. Hij vond haar brieven zo levendig en onderhoudend dat hij haar aanspoorde weer voor tijdschriften te schrijven. Vanaf 1915 verschenen haar verhalen in het weekblad Panorama onder namen als \u00e2\u0080\u0098Betty Bierema\u00e2\u0080\u0099, \u00e2\u0080\u0098Ans Woud\u00e2\u0080\u0099 en \u00e2\u0080\u0098Cissy van Marxveldt\u00e2\u0080\u0099. Leonoor Wagenaar suggereert dat \u00e2\u0080\u0098Van Marxveldt\u00e2\u0080\u0099 verwijst naar de \u00e2\u0080\u0098rode gemeente\u00e2\u0080\u0099 Oranjewoud, maar dat is twijfelachtig. Het adelsdorp Oranjewoud (het \u00e2\u0080\u0098Friese Haagje\u00e2\u0080\u0099) was en is geen gemeente en was allesbehalve rood. De naam Bierema lijkt ge\u00c3\u00afnspireerd op de plaatselijke aristocratische familie Bieruma Oosting.SuccessenIn 1916 trouwde De Haan met Beek, die toen in Laren was gelegerd. Bij de uitgever van Panorama verscheen in 1917 haar eerste meisjesroman, die zich afspeelt in een tennismilieu. Een jaar later volgde Het hoogfatsoen van Herr Feuer, gebaseerd op haar ervaringen bij het handelskantoor. Geen van beide boeken werd een succes, maar haar tennisroman leverde een opdracht op voor een vervolgverhaal in een nieuw jongerentijdschrift. Ze koos voor een reeks brieven van een HBS-leerlinge aan haar hartsvriendin. Toen het blad na drie nummers werd opgeheven, bleef ze over deze \u00e2\u0080\u0098Joop ter Heul\u00e2\u0080\u0099 schijven. Ze gaf haar de afkomst die ze zelf graag had willen hebben: een gegoed milieu in een groot huis met veel personeel, de modernste transportmiddelen, een hang naar de tennisbaan en een eindeloze rij potenti\u00c3\u00able verloofdes, over wie honderduit kon worden geroddeld en met wie giechelig kon worden geflirt. De HBS-tijd van Joop ter Heul verscheen in 1919 en was onmiddellijk een bestseller. In drie vervolgromans veranderde de springerige bakvis Joop ter Heul langzaam maar zeker in een serieuze verloofde en vervolgens een aangepaste huisvrouw met een enigszins vaderlijke echtgenoot. In 1927 liet ze in Een zomerzotheid nog eenmaal een groep HBS-bakvissen glori\u00c3\u00abren. Ook dit boek werd een succes. Hoewel De Haan altijd heeft ontkend dat Joop ter Heul een zelfportret was, gaf ze toe \u00e2\u0080\u0098dat de heldin eigenschappen vertoont, die ik in ruime mate zelf bezit\u00e2\u0080\u0099 (Van Gelder). Ze deelde met haar heldin onder meer een frisse tegenzin tegen het huishouden. Door het succes van haar boeken kon ze zich het huispersoneel veroorloven waar ze van gedroomd had. In de jaren 1930 zou ze zo\u00e2\u0080\u0099n vijftigduizend gulden per jaar royalties hebben verdiend. In die tijd kreeg ze gezondheidsproblemen. Ze was na een beroerte in 1929, die achteraf veroorzaakt bleek door een hersentumor, halfzijdig verlamd en typte sindsdien linkshandig. De economische depressie maakte ook de toon van haar boeken ernstiger. De verkoop van deze nieuwe romans bleef achter bij die van de Joop ter Heul-reeks.De Haan en haar man, die inmiddels bedrijfsleider bij het warenhuis De Bijenkorf was, zijn vaak verhuisd. Net zoals het gezin van Joop ter Heul leefden ze liefst met de seizoenen: \u00e2\u0080\u0099s zomers in Bloemendaal of Wijk aan Zee, \u00e2\u0080\u0099s winters in Amsterdam, Hilversum of Bussum. Haar man overleefde de oorlog niet. In 1944 werd hij als verzetsman opgepakt en in de duinen bij Overveen gefusilleerd. \u00e2\u0080\u0098Nadat ik bericht over zijn dood ontving, heb ik niets meer gepresteerd\u00e2\u0080\u0099, zei ze later in een interview (Wagenaar). Na de bevrijding droeg ze niettemin Ook zij maakte het mee (1946) aan hem op. Deze sobere roman over een meisje dat in het verzet werkte, vond weinig aftrek. Ook met haar gezondheid ging het bergafwaarts. In 1948 stierf Setske de Haan, beter bekend als Cissy van Marxveldt, op 58-jarige leeftijd. ReputatieDe Haans boeken uit de jaren 1920 hebben de schrijfster met glans overleefd. Joop ter Heul en Een zomerzotheid worden nog steeds herdrukt en zijn omstreeks 1970 door de KRO voor televisie verfilmd met Trudy Labij in de titelrol. Natuurlijk kwam er in de jaren 1970 kritiek op het rolbevestigende patroon van haar meest gelezen romanreeks. Pattynama heeft er echter in 1996 op gewezen dat ze de \u00e2\u0080\u0098Bildung\u00e2\u0080\u0099 en genderontwikkeling van Joop ter Heul voor haar tijd juist tamelijk genuanceerd heeft beschreven, met veel oog voor de spanning tussen haar spontane levenshouding en de burgerlijke moraal \u00e2\u0080\u0093 waarbij ze zich ten slotte bijna onvermijdelijk neerlegt. Als tijdsbeeld van het leven van de \u00e2\u0080\u0098jeunesse dor\u00c3\u00a9e\u00e2\u0080\u0099 in het interbellum, van nabij beschreven door een relatieve buitenstaander die ook over de grenzen heeft gekeken, blijft haar werk van belang. In 2007 is een in 1975 door een Nederlands-Amerikaanse astronoom ontdekte planeto\u00c3\u00afde (nummer 10667) \u00e2\u0080\u0098Van Marxveldt\u00e2\u0080\u0099 genoemd.NaslagwerkenBWN; International Movie Database; Lexicon Jeugdliteratuur.ArchivaliaLetterkundig Museum, Den Haag: persdocumentatie betreffende Cissy van Marxveldt.Publicaties\u00e2\u0080\u0098Wat voorbijging\u00e2\u0080\u0099, in: C. van Marxveldt en E. Belinfante-Belinfante, Confetti (Amersfoort 1930) 17-30. Voor overige titels zie: Lexicon van de jeugdliteratuur.LiteratuurL. van Ginneken, \u00e2\u0080\u0098Een zomerzotheid, verhalen die onthouden worden\u00e2\u0080\u0099, Algemeen Handelsblad, 2-4-1970.T.W.R. de Haan, \u00e2\u0080\u0098Leven en werk van Cissy van Marxveldt\u00e2\u0080\u0099, in: C. van Marxveldt, Mijn dorp in Friesland (Den Haag 1970) 5-31 [in 1989 herdrukt als: Cissy van Marxveldt (1889-1948). Biografie].E. Reitsma, \u00e2\u0080\u0098Joop ter Heul, van rebelse meid tot opofferende moeder\u00e2\u0080\u0099, Vrij Nederland, 9-8-1975.C. Dresselhuys, \u00e2\u0080\u0098Cissy van Marxveldt: schrijven met \u00c3\u00a9\u00c3\u00a9n hand\u00e2\u0080\u0099, Opzij. Feministisch Maandblad 8 (1980) nr. 7/8, 5-9.H. van Gelder, \u00e2\u0080\u0098Jopopinoloukico\u00e2\u0080\u0099, in: Idem, \u00e2\u0080\u0099t Is \u00e2\u0080\u0099n bijzonder kind, dat is ie. Kinderboekenschrijvers van toen (Bussum 1980) 50-61.L. Wagenaar, \u00e2\u0080\u0098Cissy van Marxveldt gaat nooit verloren\u00e2\u0080\u0099, Het Parool, 22-7-1989.R. Mulder-Radetzky en B. de Vries, Geschiedenis van Oranjewoud (Alphen a/d Rijn 1989).J. van Marxveldt, De zoon van Joop ter Heul (Helmond 1991).P. Pattynama, \u00e2\u0080\u0098Ontheemde vondelingen. Vrouwelijke adolescentie en \u00e2\u0080\u009cBildung\u00e2\u0080\u009d\u00e2\u0080\u0099, in: M. Bosch red., Denken over sekse in cultuur en wetenschap. Lezingen over gender- en vrouwenstudies (Amsterdam 1996) 22-44.IllustratiePortretfoto. Bron: collectie Aletta, instituut voor vrouwengeschiedenis, Amsterdam.Auteur: Henk van Gelder",
-    "uri": "/Users/antskez/BNtest/naf_build_set/25638658_02.xml.gz"
    },
    {
     "text": "GEERLIGS, Reina PRINSEN, ook bekend als Leentje Vandendriesch (geb. Semarang, Nederlands-Indi\u00c3\u0083\u00c2\u00ab 7-10-1922 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Sachsenhausen, Duitsland 24-11-1943), verzetsstrijdster in de Tweede Wereldoorlog. Dochter van Reinier Johan Prinsen Geerligs (1895-1977), chemicus, en Helen Carolina Zon (1892-?). Reina Prinsen Geerligs bleef ongehuwd.Reina Prinsen Geerligs werd geboren als oudste in een gezin met twee kinderen; ze had een twee jaar jongere broer. Kort na haar geboorte verhuisde het gezin naar Amsterdam. Reina was lid van de Jeugdbond voor Natuurstudie en schreef po\u00c3\u0083\u00c2\u00abzie en proza. Op het Barlaeusgymnasium leerde ze de latere schrijver Willem Frederik Hermans kennen en Guido van Suchtelen, met wie ze verkering kreeg. Aan het begin van de oorlog publiceerde ze haar eerste werk: het verhaal \u00c3\u00a2\u00c2\u0080\u00c2\u0098Gerechtigheid\u00c3\u00a2\u00c2\u0080\u00c2\u0099, waarmee ze de opstelwedstrijd van het literaire tijdschrift Contact won. Naarmate de oorlog vorderde, raakten haar literaire aspiraties door haar verzetswerk op de achtergrond. Op school was ze een van de strijdvaardigste leerlingen. Zo probeerde ze tijdens de Februaristaking (1941) met enkele medeleerlingen een staking te bewerkstelligen. Ze was half joods \u00c3\u00a2\u00c2\u0080\u00c2\u0093 haar moeder was van joodse afkomst \u00c3\u00a2\u00c2\u0080\u00c2\u0093 maar in de familie speelde deze achtergrond geen rol. Bovendien had de familie door de jaren in Indi\u00c3\u0083\u00c2\u00ab uiterlijk eerder iets Indonesisch dan joods.In 1941 verhuisden haar ouders naar Laren, maar Reina bleef in Amsterdam wonen. Haar huis (Koninginneweg 121) werd de ontmoetingsplek voor de verzetsgroep CS-6, waarbij zij zich had aangesloten. Tijdens haar verzetswerk gebruikte ze de schuilnaam Leentje Vandendriesch. In het verzet verrichtte ze aanvankelijk koerierswerk. Aangenomen wordt dat Reina Prinsen Geerligs betrokken is geweest bij ten minste twee aanslagen. Op de avond van 2 juli 1943 wilde zij samen met CS-6-lid Louis Boissevain in Enschede de politieagent Pieter Kaay liquideren. Hij was voor het oppakken van de twaalf verzetslieden die betrokken waren geweest bij de aanslag op het Amsterdamse bevolkingsregister in maart 1943, waarbij Reina ook een rol gespeeld zou hebben. Toen zij aanbelden bij Kaays huis en hij in de woonkamer zat met een kind op schoot, zag men van de aanslag af. De dag erna werd Kaay alsnog geliquideerd, naar verluidt door Prinsen Geerligs en Boissevain. De Duitsers wezen Boissevain als schutter aan. Nieuw (nog niet gepubliceerd) onderzoek wijst er echter op dat Geerligs en Boissevain hiermee niets te maken hebben gehad. De aanslag van 3 juli zou door een verzetsgroep uit Enschede gepleegd moeten zijn. Op 23 juli 1943 werd Reina Prinsen Geerligs gearresteerd toen zij een pistool kwam brengen bij een CS-6-pand in de Cornelis Krusemanstraat (nr. 79-1) \u00c3\u00a2\u00c2\u0080\u00c2\u0093 een opgepakt lid van CS-6 moet het adres hebben doorgegeven. Reina werd naar het Huis van Bewaring II op de Amstelveenseweg gebracht en heeft daar waarschijnlijk haar verzetsactiviteiten bekend. Ze schijnt niet lichamelijk mishandeld te zijn. Alleen in haar cel kraste ze op de muur haar devies: \u00c3\u00a2\u00c2\u0080\u00c2\u0098Recht al barste de wereld\u00c3\u00a2\u00c2\u0080\u00c2\u0099. In de gevangenis sprak ze andere gevangenen via de verwarmingsbuizen moed in. Een van deze medegevangenen was Rose Lopes de Leao Laguna, die ook voor CS-6 werkte. Zij kenden elkaar niet, en pas na de oorlog begreep Lopes de Leao Laguna dat het Reina Prinsen Geerligs geweest moest zijn die de anderen moed insprak. Prinsen Geerligs wist nog enkele berichten met het wasgoed de gevangenis uit te smokkelen. Haar laatste bericht aan Van Suchtelen was: \u00c3\u00a2\u00c2\u0080\u00c2\u0098Ik ben trots op wat ik heb gedaan\u00c3\u00a2\u00c2\u0080\u00c2\u0099.Na enkele maanden werd Reina Prinsen Geerligs samen met Nel Hissink-van den Brink en Truus van Lier, beiden ook lid van CS-6, naar Duitsland afgevoerd. Zij kwamen op 23 november 1943 in kamp Sachsenhausen bij het landgoed Oranienburg aan, maar daar zijn zij nooit als gevangenen geregistreerd. Het kamp had bovendien geen vrouwenafdeling. De volgende morgen al zijn zij gedrie\u00c3\u0083\u00c2\u00abn ge\u00c3\u0083\u00c2\u00abxecuteerd. Getuigen verklaarden later dat zij zingend en met opgeheven hoofd het vuurpeloton tegemoet liepen.ReputatieDat Reina Prinsen Geerligs niet in de vergetelheid is geraakt, is vooral te danken aan haar ouders. Zij hebben het geld dat ze apart hadden gezet om Reina te laten studeren, gewijd aan een literaire prijs voor jong schrijverstalent: de Reina Prinsen Geerligsprijs. Op 24 november 1947 werd de prijs voor de eerste maal uitgereikt, aan Gerard (toen nog Simon) van het Reve. Latere winnaars waren Harry Mulisch, Mies Bouhuys en Bernlef. ArchivaliaCentraal Bureau voor Genealogie, Den Haag: familieadvertenties Prinsen Geerligs.Letterkundig Museum, Den Haag: collectie brieven van Reina Prinsen Geerligs, correspondentie met Guido van Suchtelen.NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies, Amsterdam: Archief Reina Prinsen Geerligs, inv. nr. 248-1351A.Publicaties\u00c3\u00a2\u00c2\u0080\u00c2\u0098Gerechtigheid\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Contact. Maandblad voor de Nederlandse Jeugd (1940) sept.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Brugge\u00c3\u00a2\u00c2\u0080\u00c2\u0099, De Jongste Generatie (1940) [kort verhaal].LiteratuurDe Waarheid, 6-10-1945 [familiebericht].Marjan Schwegman, Het stille verzet. Vrouwen in illegale organisaties. Nederland 1940-1945 (Amsterdam 1980).Guido van Suchtelen en Tonnie Luiken, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Reina Prinsen Geerligs\u00c3\u00a2\u00c2\u0080\u00c2\u0099, WFH Verzamelkrant nr. 9 (december 1993) 20-24.Tonnie Luiken, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Herinneringen aan WFH en Bram Kuiper. Interview met Guido van Suchtelen\u00c3\u00a2\u00c2\u0080\u00c2\u0099, WFH Verzamelkrant nr. 12 (augustus 1994) 21-28.Tonnie Luiken, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Personen en locaties in het Boekenweekgeschenk. Het Barlaeus-gymnasium, CS6 en Bram Kuiper\u00c3\u00a2\u00c2\u0080\u00c2\u0099, WFH Verzamelkrant nr. 12 (augustus 1994) 17-20.Rob van Olm, Recht al barste de wereld. Reina Prinsen Geerligs en de ondergang van de verzetsgroep CS-6 (Schoorl 1998).Reina Prinsen Geerligs en CS-6 [AVRO-documentaire\u00c3\u0082\u00c2\u00a0 in de serie Hoge Bomen Pioniers, 10-10-2007].Marjan Schwegman, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Held van de maand: Reina Prinsen Geerligs\u00c3\u00a2\u00c2\u0080\u00c2\u0099, www.historiek.net, 21-1-2012 [geraadpleegd 1-3-2012]. \u00c3\u00a2\u00c2\u0080\u00c2\u0098NIOD ontvangt brieven Reina Prinsen Geerligs\u00c3\u00a2\u00c2\u0080\u00c2\u0099, www.niod.knaw.nl, 6-11-2012 [geraadpleegd 1-3-2012].IllustratiePortret door onbekende fotograaf, circa 1940 (Letterkundig Museum, Den Haag).Auteur: Wouter van Dijk",
@@ -14553,10 +12035,6 @@
     "uri": "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
    },
    {
-    "text": "UDEN, Johanna Helena van (geb. Oss 4-8-1905 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Udenhout 20-12-1949), stond model voor gangstermeisje Johanna van Heesch in de film De bende van Oss (2011). Dochter van Gerardus Lambertus van Uden (1874-1962), metselaar, en Helena van Berkum (1873-1955). Johanna Helena van Uden trouwde (1) op 3-1-1930 in Oss met Johannes Marinus Cornelus van der Pas (1902-1932), brouwersknecht en kroegbaas; (2) op 11-1-1934 in Udenhout met Wilhelmus Johannes van Gestel (1912-1984), steenfabrieksarbeider. Uit huwelijk (1) werd 1 zoon geboren, uit (2) 6 zoons en 3 dochters.Johanna Helena (Jans of Janske) van Uden was het zevende van de vijftien kinderen (zeven dochters en acht zoons) die het echtpaar Van Uden-van Berkum kreeg tussen 1897 en 1919. Op 22 augustus 1927 vertrok Jans naar Rotterdam om daar te gaan werken. Een jaar later keerde ze terug naar het ouderlijk huis in Oss. HuwelijkOp 3 januari 1930 trouwde Johanna, 24 jaar oud, met de 27-jarige Jan van der Pas. Jan was knecht bij de Amstelbrouwerij, en na zijn huwelijk werd hij caf\u00c3\u0083\u00c2\u00a9houder in dienst van de brouwerij. Op 16 april 1931 kregen ze een zoon: Marinus Johannes Gerardus. Het was geen gelukkig huwelijk. Van der Pas heette in de omgang een goedhartig mens, behalve als hij gedronken had; dan werd hij aggressief. Armoede lag op de loer, vooral toen Van der Pas bij de brouwerij werd ontslagen. Caf\u00c3\u0083\u00c2\u00a9bezoekers en familie schoten soms te hulp als hij weer eens gewelddadig was. Wielrenner Jan Ceelen (\u00c3\u00a2\u00c2\u0080\u00c2\u0098de Ceel\u00c3\u00a2\u00c2\u0080\u00c2\u0099), een tien jaar jongere buurjongen en bevriend met Van der Pas, was veel in de buurt en zodoende vaak getuige van de mishandelingen die Johanna moest ondergaan. Later zou hij verklaren dat hij heimelijk met Johanna leefde als man en vrouw, en dat hij toen het plan opvatte haar man uit de weg te ruimen. Ceelen kocht een revolver en regelde een levensverzekering van Van der Pas ten gunste van Johanna. De moord op Jan van der PasToen Jan van der Pas op 8 november 1932 zijn verjaardag vierde, was Johanna ziek en daarom om 8 uur naar bed gegaan. De dag erna zag ze dat Jan niet was thuisgekomen. Ze stuurde het dienstmeisje op pad om hem te zoeken en Ceelen naar de politie om daar te informeren. Al snel werd het levenloze lichaam van Jan gevonden in een weiland in de gemeente Berghem: hij had diverse schotwonden. De marechaussee was ervan overtuigd dat Johanna \u00c3\u00a2\u00c2\u0080\u00c2\u0098zo niet medeplichtig is, dan toch de moord op haar man kan ophelderen\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Ze werd verschillende malen verhoord, maar weer vrijgelaten: er was geen bewijs.Hierna liet Johanna alle huisraad uit het caf\u00c3\u0083\u00c2\u00a9 halen en trok met haar kind in bij haar getrouwde zuster. Op 19 november kreeg ze vijfhonderd gulden uitbetaald van haar mans levensverzekering. Er werd beweerd dat ze daarvan een \u00c3\u00a2\u00c2\u0080\u00c2\u0098fuif\u00c3\u00a2\u00c2\u0080\u00c2\u0099 had gehouden. Op 12 januari 1933 vertrok zij naar Tilburg om daar als \u00c3\u00a2\u00c2\u0080\u00c2\u0098lokvogel\u00c3\u00a2\u00c2\u0080\u00c2\u0099 te gaan werken in caf\u00c3\u0083\u00c2\u00a9 Marijnissen: ze moest meedrinken met de mannelijke bezoekers. De kleine Marinus liet ze achter in Oss. In Tilburg kreeg ze een relatie met marinier Frans Souwen. Ze gaf hem de trouwring van haar overleden man als onderpand van haar trouw, maar toch duurde deze relatie niet lang. Op 4 maart liep Johanna weg uit caf\u00c3\u0083\u00c2\u00a9 Marijnissen, wellicht omdat ze bang was dat ze ooit in een dronken bui te veel had verteld over wat ze had meegemaakt. Ze vond een betrekking bij caf\u00c3\u0083\u00c2\u00a9 De Weijer in Udenhout.UdenhoutOp 22 maart 1933 werd Johanna van Uden ingeschreven in het dienstbodenregister van Udenhout. Daar leerde ze Wilhelmus Johannes van Gestel kennen, een steenfabrieksarbeider met wie ze op 11 januari 1934 trouwde \u00c3\u00a2\u00c2\u0080\u00c2\u0093 op 19 juli werd een zoon geboren. Daarna volgden nog acht kinderen, waarvan \u00c3\u0083\u00c2\u00a9\u00c3\u0083\u00c2\u00a9n zoontje als baby overleed. Intussen was de kwestie van de moord op haar eerste echtgenoot weer opgerakeld. In 1935 was Ceelen aangehouden voor een gewelddadige roofoverval in Deurne en na verloop van tijd kwam hij ook met een bekentenis over die novemberavond in 1932. Hij had Van der Pas voorgesteld om samen in te breken bij een boer in Berghem en zijn revolver op hem leeggeschoten toen ze door de weilanden liepen. Johanna zou van niets hebben geweten. Tien jaar later, op 20 december 1949, stierf Johanna van Uden in een Tilburgs ziekenhuis. Diezelfde dag was zij bevallen van een levenloos kind. Zij was toen 44 jaar oud.ReputatieVan Uden heeft haar betrokkenheid bij de moord op haar eerste man altijd ontkend. Zij zou niets van Ceelens plannen geweten hebben noch hem aangezet hebben tot moord. Ceelen heeft ook altijd volgehouden dat zij niets wist, \u00c3\u00a2\u00c2\u0080\u00c2\u0098al heeft zij mij wel eens gezegd dat zij wel wenste dat haar man kapot geschoten werd. Doch ze heeft mij daartoe nooit aangezet\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Ook hield hij vol geen relatie met haar te hebben gehad: \u00c3\u00a2\u00c2\u0080\u00c2\u0098Ik hield meer van Van der Pas als van zijn vrouw\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Later gaven zowel Ceelen als Van Uden hun relatie toe, maar Jans wilde dit niet in het openbaar voor de rechtbank verklaren \u00c3\u00a2\u00c2\u0080\u00c2\u0098uit schaamte voor het publiek en voor mijn tweede man, Van Gestel\u00c3\u00a2\u00c2\u0080\u00c2\u0099 (F. Ceelen, 11). Volgens een getuigenis van een voormalig dienstmeisje bij caf\u00c3\u0083\u00c2\u00a9 Marijnissen zou Johanna haar verteld hebben dat ze op die bewuste avond met anderen had afgesproken haar man uit de weg te ruimen. In 2011 kwam de Nederlandse speelfilm De bende van Oss (regie Andre van Duren) uit. Het verhaal speelt zich af in het Ossche criminele milieu van de jaren dertig en gaat over de moord op Jan van der Pas door \u00c3\u00a2\u00c2\u0080\u00c2\u0098De Ceel\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Caf\u00c3\u0083\u00c2\u00a9bazin Johanna van Heesch (Sylvia Hoeks) is de centrale figuur in de film. Haar minnaar, de jonge wielrenner Jan Greven, sluit een levensverzekering af op Johanna\u00c3\u00a2\u00c2\u0080\u00c2\u0099s echtgenoot Ties, die haar mishandelt. Vervolgens vermoordt hij hem met haar medeweten. De namen zijn veranderd, maar in grote lijnen komt het filmverhaal overeen met wat er in werkelijkheid is gebeurd.BronnenBrabants Historisch Informatie Centrum, Den Bosch: Archief 524 (Gerechtshof \u00c3\u00a2\u00c2\u0080\u00c2\u0099s-Hertogenbosch), inv. nr. 87 (Kamer van Strafzaken), rol no. 8582 (Johannes Petrus Ceelen, verdacht van moord. Behandeling: woensdag, 22-4-1936, 12 uur. Uitspraak: 4-5-1936). BS en bevolkingsregisters van Oss, Berghem, Udenhout en Tilburg.LiteratuurJos Smeets, De affaire Oss (2001).Martin Schouten, De bende van Oss. Het ware verhaal (2011).Frans Ceelen, De Ossche bende [geraadpleegd 5-4-2012].Auteur: Astrid de Beer",
-    "uri": "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-   },
-   {
     "text": "GROENEWEG, Susanna (geb.\nStrijen, Zuid-Holland 4-3-1875 \u00e2\u0080\u0093 gest. Barendrecht, 19-10-1940), onderwijzeres,\npolitica, eerste vrouw in de Tweede Kamer. Dochter van Arie Groeneweg (1833-1899),\nwinkelier en landarbeider, en Emmigje de Ruiter (1831-1906). Susanna Groeneweg\nbleef ongehuwd.\nSusanna\n(Suze) Groeneweg werd geboren in het Zuid-Hollandse Strijensas (Hoekse Waard),\nals derde kind en oudste meisje in een eenvoudig gezin met vijf kinderen. Bij\nde aangifte van de kinderen noemde haar vader zich winkelier of landarbeider. Dankzij\nde inspanningen van haar moeder, die op latere leeftijd zichzelf had leren\nlezen en schrijven, mocht Suze in 1889 naar de Rijksnormaalschool in Numansdorp\nom door te leren voor onderwijzeres. Groenewegs loopbaan in het onderwijs begon\nin 1893 in haar geboortedorp. Daarna was zij achtereenvolgens onderwijzeres in\nDuivendijke, Krimpen aan de IJssel, Dordrecht en Montfoort, waar zij lesgaf\naan het Rijksopvoedingsgesticht voor meisjes. Uit onvrede over de slechte\nbehandeling van de meisjes sloot ze zich in 1902 aan bij de Bond van\nNederlandsche Onderwijzers (BNO). Ook was ze actief in de Nederlandsche\nVereeniging tot Afschaffing van Alcoholhoudende Dranken, van 1920 tot 1928 als hoofdbestuurslid.\nIn\n1903 werd Suze Groeneweg op een 1-meiviering lid van de Sociaal Democratische\nArbeiders Partij (SDAP). Dat najaar verhuisde ze naar Rotterdam, waar zij als\nonderwijzeres in dienst kwam van de gemeente. Al snel zat ze in het Rotterdamse\nafdelingsbestuur van de SDAP. Ze wist haar aanvankelijke verlegenheid te\noverwinnen en werd een bevlogen spreekster op partijcongressen en betogingen.\nIn 1918 vertelde ze hoeveel last ze had gehad van haar verlegenheid: \u00e2\u0080\u0098voor\npartijgenoten van naam, die ik aan zag komen, schoot ik soms maar een\nzijstraatje in, ik wist eigenlijk niet hoe ik ze groeten moest en in mijn\ntwijfel dacht ik dan maar: \u00e2\u0080\u009claat ik er maar een ommetje voor over hebben!\u00e2\u0080\u009d\u00e2\u0080\u0099(Sumatra\nPost, 9-8-1918).\nNaar\nhet hart\nSuze\nGroeneweg ontwikkelde zich tot een actief SDAP-propagandiste. Daarbij richtte ze\nzich ook op vrouwen: in 1905 richtte zij een vrouwenpropagandaclub op binnen de\nRotterdamse afdeling van de SDAP, met als doel het propageren van de idee\u00c3\u00abn van\nde SDAP onder (arbeiders)vrouwen. Een aparte, zelfstandige vrouwenorganisatie\nwas volgens Groeneweg echter niet nodig, want dat zou aan vrouwen alleen maar\neen stempel van ongelijkwaardigheid geven, en \u00e2\u0080\u0098als men er langs de gewone weg\nkan komen moet men niet een buitengewone kiezen\u00e2\u0080\u0099 (Het Volk, 24-12-1917). Groeneweg was dan ook een fervente tegenstander\nvan de in 1908 onder voorzitterschap van Mathilde Wibaut opgerichte Bond van\nSociaal-Democratische Vrouwenclubs (BSDVC). Ze beschouwde de BSDVC als \u00e2\u0080\u0098een\nlevend verwijt\u00e2\u0080\u0099 aan de SDAP en mede door haar tegenstand duurde het tot 1914\nvoordat de BSDVC landelijk erkend werd binnen de SDAP (Outshoorn, 65).\nDe\nverstandhouding tussen Groeneweg en de BSDVC werd in de loop der jaren wel\nbeter, maar zou nooit echt hartelijk worden. Groeneweg voelde zich niet thuis\nin een vrouwenorganisatie en sprak ook niet graag voor uitsluitend vrouwelijk\npubliek: \u00e2\u0080\u0098\u00e2\u0080\u0099t Allerliefst (\u00e2\u0080\u00a6) spreek ik voor een gemengde zaal, voor mannen en\nvrouwen, dan ben ik in m\u00e2\u0080\u0099n element, dan voel ik me opgestouwd, en ik voel dat\nik de zaal meekrijg. Voor vrouwen alleen spreek ik niet gaarne\u00e2\u0080\u0099 (Sumatra Post, 9-8-1918). Er werd haar\nmeermalen verweten dat zij eerder \u00e2\u0080\u0098de mannen naar het hart sprak\u00e2\u0080\u0099 dan de\nvrouwen (gecit. Jansz, 39).\nIntussen\nmaakte Suze Groeneweg gestaag carri\u00c3\u00a8re in de partij. In 1908 werd ze lid van\nhet Federatiebestuur en in 1914 werd ze gekozen tot lid van het landelijke\nbestuur van de SDAP, een functie die ze tot 1936 behield.\nEerste vrouw in Tweede\nKamer \nNa jaren van kiesrechtstrijd werd in 1917 een\ngrondwetswijziging doorgevoerd: mannen kregen algemeen kiesrecht, vrouwen passief\nkiesrecht, Het betekende dat vrouwen zelf geen stem mochten uitbrengen. Toen\nop 3 juli 1918 de eerste verkiezingen na deze grondwetswijziging plaatsvonden,\nwerd Suze Groeneweg als eerste vrouw in de Tweede Kamer gekozen. Voor de BSDVC\nwas het een tegenvaller dat juist zij, en niet Carry Pothuis, die als derde op\nde Amsterdamse kandidatenlijst van de SDAP stond, was gekozen.Toch zond de\nBSDVC haar een gelukstelegram. Dit telegram was voor Heleen Ankersmit,\nsecretaris van de BSDVC, reden om per direct haar partijlidmaatschap op te\nzeggen.\u00e2\u0080\u0099t Lijkt wel een ruzie tusschen jaloersche buurvrouwen\u00e2\u0080\u0099, aldus De Tijd, \u00e2\u0080\u0098O heerlijke eenheid der SDAP!!!\u00e2\u0080\u0099\n(13-7-1918).\nAls\neerste \u00e2\u0080\u0093 en tot 1921 enige \u00e2\u0080\u0093 vrouw in de Tweede Kamer baarde Groeneweg het\nnodige opzien. De hele vaderlandse pers stond bij haar op de stoep en er moesten\nin het gebouw van de Kamer aanpassingen worden aangebracht, zoals een eigen\nkleedkamer voor Groeneweg. De gang die erheen leidde werd al snel \u00e2\u0080\u0098het\nGroenewegje\u00e2\u0080\u0099 genoemd. Tijdens haar maidenspeech \u00e2\u0080\u0093 op 7 november 1918 \u00e2\u0080\u0093 ging zij\nin op de moeilijke positie van de moeders, vrouwen en verloofdes van de\ngemobiliseerde soldaten. \u00e2\u0080\u0098Een echt vrouwelijke speech\u00e2\u0080\u0099, oordeelde De Tijd (8-11-1918). De ex-onderwijzeres\nGroeneweg toonde als politica een grote werkkracht. Ze bereidde zich altijd gedegen\nvoor, bleef rustig, wist ingewikkelde zaken goed uit te leggen en was een gevat\ndebater. Daarmee wist ze zich op te werken tot een gezaghebbend beroepspolitica:\nvanaf 1919 combineerde ze haar werk in de Kamer met het lidmaatschap van\nProvinciale Staten van Zuid-Holland (1919-1937) en de Rotterdamse gemeenteraad\n(1919-1931).\nGroeneweg\nhield zich vooral bezig met onderwerpen als vrouwenrechten, antimilitarisme,\ndrankbestrijding, onderwijs, ontwapening en zuigelingen- en moederschapszorg. Ze\nbepleitte daarbij zoveel mogelijk gelijkheid tussen mannen en vrouwen. Zo\nageerde zij tegen het feit dat vrouwelijke aspiranten voor de Rijkskweekschool\nverplicht waren een geneeskundige verklaring in te dienen, terwijl mannelijks\naspiranten dat niet hoefden (De Tribune,\n10-2-1922). Ze verdedigde het recht op betaalde arbeid voor vrouwen, al hoopte\nze dat er een tijd zou komen waarin gehuwde vrouwen niet meer buitenshuis\nhoefden te gaan werken. Dit kwam haar op scherpe kritiek van de BSDVC te staan.\nOok bepleitte Groeneweg betaald zwangerschapsverlof voor getrouwde en ongetrouwde\nvrouwen. In 1929 kwam er uiteindelijk een afgezwakte regeling tot stand:\nzwangerschap en bevalling werden als \u00e2\u0080\u0098ziekte\u00e2\u0080\u0099 opgevat, en zo werd de\nverlofregeling via de ziektewet ingevoerd \u00e2\u0080\u0093 onder druk van de confessionele\npartijen gold deze regeling alleen voor getrouwde vrouwen. Het was een\nvoorbeeld van de compromissen die Groeneweg bereid was te sluiten.\nAfscheid\nIn\n1931 werd Groeneweg \u00e2\u0080\u0093 opnieuw als eerste vrouw \u00e2\u0080\u0093 be\u00c3\u00abdigd als onbezoldigd ambtenaar\nvan de Burgerlijke Stand en was daarmee de eerste vrouw in Nederland die een\nhuwelijk voltrok. De laatste jaren van haar Kamerlidmaatschap had zij te kampen\nmet toenemende gezondheidsproblemen. In 1937 verliet zij de Kamer. Ter\ngelegenheid van haar afscheid liet het partijbestuur een gedenkboek\nsamenstellen: Suze Groeneweg. Haar\nbetekenis voor de arbeidersbeweging, met veel lof van vooraanstaande\npartijleden als Vorrink, Vliegen en Albarda. In dat jaar werd ze ook benoemd\ntot Ridder in de Orde van de Nederlandse Leeuw, samen met partijgenoot Vliegen\n\u00e2\u0080\u0093 ze waren de eerste SDAP-Kamerleden die deze onderscheiding kregen. Hierna trok\nze zich terug in haar huis in Barendrecht, waar ze sinds 1933 woonde. Op 19\noktober 1940 stierf Suze Groeneweg, 65 jaar oud. Onder grote belangstelling werd\nzij op 23 oktober begraven op de Algemene Begraafplaats Crooswijk te Rotterdam.\nReputatie\nSuze\nGroeneweg is vooral bekend geworden als de eerste vrouw in de Tweede kamer. Zij\nhad daar een gedegen reputatie. De liberale politicus P.J. Oud noemde haar\n\u00e2\u0080\u0098geen katje om zonder handschoenen aan te pakken\u00e2\u0080\u0099(PDC). Lange tijd heeft zij\nals (bijna) enige vrouw moeten opereren in een mannenwereld, terwijl ze\ntegelijk kritiek kreeg van de meer feministisch gestemde vrouwen in de partij. Groenewegs\nnagedachtenis wordt levend gehouden door de Suze Groenewegschool (het\nopleidingsinstituut van de PvdA) en een tweejaarlijkse Suze Groenewegprijs voor\nroldoorbrekende initiatieven in de opvoeding, uitgereikt op Internationale\nVrouwendag. Verder zijn er verschillende plaatsen in Nederland die een laan\n(Rotterdam, Amstelveen, Vlissingen), straat (Eindhoven, Culemborg, Pijnacker,\nTiel) of erf (Dordrecht en Voorschoten) naar haar hebben vernoemd.\nNaslagwerken\nBWSA;\nPDC.\nPublicaties\nWelk belang heeft de\narbeidersvrouw bij het werken der SDAP? (Rotterdam 1906).Vakbeweging en\ngeheelonthouding (z.p. 1916).Het moederschap in\neere! Een pleidooi voor moederschapszorg (Amsterdam 1918).Het algemeen\nvrouwenkiesrecht een mannenbelang (Amsterdam z.j.).Drankbestrijding als\nmoederschapszorg (Utrecht 1921).Al geesteslicht, al\nwetensmacht!\nAmsterdam 1933)Onze plicht en onze\nvreugde\n(Amsterdam 1927).Een eereschuld aan de\nmoeders: kamerrede gehouden op 14 maart 1929.\u00e2\u0080\u009cDe\nvrouw in het openbare leven\u00e2\u0080\u0099, in: Het\ngeheel en de deelen (Utrecht 1922).\u00e2\u0080\u0098Het\naanvullend onderwijs voor de rijpere jeugd\u00e2\u0080\u0099, De Socialistische Gids (1930) 776-784.\nLiteratuur\nAfgezien\nvan diverse krantenartikelen (zie http://kranten.kb.nl\n):\nD.\nHans, Parlements-film: figuren en\nmomenten uit de Nederlandsche volksvertegenwoordiging (Scheveningen 1923).A.E.J.\nde Vries-Bruins, Suze Groeneweg: haar\nbetekenis voor de moderne arbeidersbeweging (Amsterdam 1937).Joyce\nOutshoorn, Vrouwenemancipatie en\nsocialisme. De SDAP en het \u00e2\u0080\u0098vrouwenvraagstuk\u00e2\u0080\u0099 1894-1919 (Nijmegen 1973).D.\nHillenius, \u00e2\u0080\u0098De aanleg van de vrouw is nu eenmaal anders dan die van de man\u00e2\u0080\u0099, NG- magazine 47 (1993) nr. 3, 18-20.Ulla\nJansz, Vrouwen, ontwaakt! Driekwart eeuw\nsociaal-democratische vrouwenorganisatie tussen solidariteit en verzet (Amsterdam\n1983).P.\nRol, J. Hofman, \u00e2\u0080\u0098Suze Groeneweg: de eerste vrouw op het pluche\u00e2\u0080\u0099, Rooie Vrouw (mei 1988) 15-17.Katja\nMeertens, \u00e2\u0080\u009cIn 1918 zat er maar \u00c3\u00a9\u00c3\u00a9n vrouw in de Tweede Kamer, nu zijn het er\n62!, Margriet (2009), nr. 11, 42-47.Marja\nde Groot, Van koeriersterspad tot\nKlomp\u00c3\u00a9straat (Velserbroek 1992).Jan\nde Roos, Met enige schroom: pioniers in\nhet lokaal bestuur (Amsterdam 2000).Illustratie\nFoto, 1935. Collectie IISG, Amsterdam\nAuteur:\nAstrid de Beer",
     "uri": "/Users/antskez/BNtest/naf_build_set/66465738_02.xml.gz"
    },
@@ -14581,16 +12059,12 @@
     "uri": "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
    },
    {
-    "text": "BAALE, Marie Jeanette (geb.\nGroningen 17-5-1875 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Amsterdam 22-10-1947), eerste vrouwelijke doctor in de klassieke\nletteren van Europa, lerares en feministe. Dochter van Leendert Marinus Baale\n(1835-1909), docent Frans, en Maria Elisabeth Roelfsema (1849-1927). Marie\nBaale bleef ongehuwd.\nMarie Baale groeide op in een intellectueel en liberaal\ngezin. Op haar derde verhuisde ze van Groningen naar Amsterdam. Na haar\nmiddelbare schooltijd op het Stedelijk Gymnasium in Amsterdam (tegenwoordig het\nBarlaeus Gymnasium) ging ze in 1893 klassieke talen studeren aan de\nUniversiteit van Amsterdam, net als haar oudere broer Cornelis Hendrik Baale\n(1871-1944). In 1896 haalde ze haar kandidaats, in 1900 haar doctoraal: beide\ncum laude. Tijdens haar studie gaf ze veel priv\u00c3\u0083\u00c2\u00a9lessen. Ook was ze \u00c3\u00a2\u00c2\u0080\u00c2\u0093 van 1894\ntot 1902 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 voorzitter van de Amsterdamsche Dames-Studentenvereeniging Dicendo\nDiscentes Docemus (DDD): \u00c3\u00a2\u00c2\u0080\u00c2\u0098Al sprekende lerend, onderwijzen wij\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Dit\nlezingendispuut kwam bij de feministe Jeltje de Bosch Kemper thuis bij elkaar.\nIn 1902 nam Baale het initiatief tot de oprichting van de Amsterdamsche\nVrouwelijke Studenten Vereeniging (AVSV).\nOp 3 juli 1903 promoveerde Marie Baale bij professor Koenraad Kuiper op het proefschrift Studia in Anytes poetriae vitam et\ncarminum reliquias, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Studies naar het leven en de overgeleverde gedichten\nvan de dichteres Anyte\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Naast de bekendere Sappho is Anyte (ca. 300 v. Chr.)\neen van de weinige schrijfsters uit de klassieke Oudheid. Met deze promotie \u00c3\u00a2\u00c2\u0080\u00c2\u0093\nopnieuw cum laude \u00c3\u00a2\u00c2\u0080\u00c2\u0093 was Baale de eerste vrouwelijke doctor in de klassieke\nletteren van Europa. Voor de gelegenheid kleedde zij zich helemaal in het\nzwart-wit, want ze wilde zoveel mogelijk lijken op de andere promovendi in hun\nrokkostuums. Ook wilde ze niet te veel afsteken bij haar paranimfen. Een van\nhen was haar broer.\nMarie Baale was een geboren docente. Haar promotor had\nechter gezegd dat zij nooit aangenomen zou worden op een Nederlands gymnasium.\nDaarom vertrok zij naar Duitsland. Van 1903 tot 1906 werkte zij als lerares en\nplaatsvervangend rectrix aan het meisjesgymnasium in Keulen. Van haar salaris\nkon zij toen nog niet rondkomen, maar haar ouders sprongen bij.\nIn 1907 keerde Marie Baale terug naar Nederland. Ondanks\nde voorspelling van haar promotor werd ze aangenomen als docente. Dat ging\noverigens niet zonder slag of stoot. Nu eens maakte de school of de gemeente\nbezwaar tegen de aanstelling van een vrouw, dan weer stuitte zij op weerstand\nbij de inspecteur van het gymnasiaal onderwijs. Tot twee keer toe benaderde\nMarie Baale met succes de minister van onderwijs met het verzoek op te komen\nvoor haar belangen en die van alle vrouwelijke docenten. Aanvankelijk gaf ze\nles op de gymnasia van Doetinchem en Assen, van 1912 tot 1940 aan de school\nwaar ze zelf op had gezeten: het Stedelijk Gymnasium in Amsterdam. In een\ninterview met de schoolkrant Suum Cuique antwoordde\nze op de vraag of er sinds haar schooltijd veel veranderd was: \u00c3\u00a2\u00c2\u0080\u00c2\u0098Neen, alleen is\nhet aantal vrouwelijke leerlingen groter dan vroeger\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Baale was een groot\nvoorstander van co\u00c3\u0083\u00c2\u00abducatie. Dat betekende niet alleen meer meisjes in de klas\nen in de collegebanken, maar ook meer vrouwen voor de klas en op leidinggevende\nposities.\nTussen 1912 en 1913 verzorgde Marie Baale de afdeling\n\u00c3\u00a2\u00c2\u0080\u00c2\u0098hoger onderwijs\u00c3\u00a2\u00c2\u0080\u00c2\u0099 van de tentoonstelling De Vrouw 1813-1913. Naar aanleiding\nvan de expositie werd in 1918 de Vereeniging van Gestudeerde Vrouwen opgericht,\nin 1924 omgedoopt tot Nederlandsche Vereeniging van Vrouwen met Academische\nOpleiding (VVAO). Marie Baale was een van de initiatiefneemsters. Ze zette zich\nin voor gelijke salarissen en loopbaanmogelijkheden voor vrouwen. Zo schreef ze\nhet Rapport inzake ambtelijke\ngelijkstelling van mannelijke en vrouwelijke leerkrachten bij het onderwijs in\nNederland. Hoe ver dat ideaal nog verwijderd was, ondervond ze aan den\nlijve. Toen ze in 1923 solliciteerde naar de functie van rector en conrector\nvan het Stedelijk Gymnasium, werd ze afgewezen.\nFeministe en politica\nMarie Baale was een gedreven feministe. In Doetinchem en\nin Assen richtte ze een plaatselijke afdeling van de Bond voor Vrouwenkiesrecht\nop, in Amsterdam was ze van 1916 tot 1919 voorzitster van de plaatselijke\nafdeling. In de jaren 1917-1918 was zij ondervoorzitster van de Commissie\nHuldeblijk aan de Nagedachtenis van Jonkvrouwe Jeltje de Bosch Kemper.\nMarie Baale was ook politiek actief. Ze zat in het\nhoofdbestuur van de Liberale Unie, die in 1921 opging in De Vrijheidsbond.\nBinnen deze partij vervulde ze verschillende bestuursfuncties, zoals\nbestuurslid van de afdeling Amsterdam, voorzitster van de Vrouwengroep binnen\nde afdeling (1921-1937) en vicevoorzitster van het hoofdbestuur van de\nVrouwengroep. In 1935 was Baale een van de initiatiefneemsters van het Comit\u00c3\u0083\u00c2\u00a9\ntot Verdediging van de Vrijheid van Arbeid voor de Vrouw (CVVAV). Binnen de\nVrijheidsbond gold ze als te radicaal. De verkiesbare plaatsen bestemd voor\nleden van de vrouwengroepen gingen steevast naar meer gematigde feministes.\nVoor de verkiezingen van de Eerste Kamer in 1923 werd Baale ergens onderaan op\nde kieslijsten geplaatst, en bij de Amsterdamse gemeenteraadsverkiezingen stond\nhaar naam helemaal niet op de kieslijst. Niettemin bleef ze actief lid van de\nVrijheidsbond totdat deze in 1941 werd opgeheven.\nEen paar maanden na de Duitse inval \u00c3\u00a2\u00c2\u0080\u00c2\u0093 op 3 juli 1940 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 ging\nMarie Baale met pensioen. Hierna werd ze actief als bestuurslid van de\nAmsterdamsche Schoolwerktuinen, na de Eerste Wereldoorlog gesticht om kinderen\nte interesseren voor de natuur, maar ook vanwege de voedselschaarste. In 1943\noverleed haar broer, met wie zij sinds de dood van haar moeder in 1927\nsamenwoonde in de Palestrinastraat. Begin augustus 1947 werd ze ernstig ziek\nopgenomen in het ziekenhuis. Marie Baale overleed op 22 oktober 1947 en werd\nbegraven op de Nieuwe Oosterbegraafplaats.\nMarie Baale heeft een belangrijke voortrekkersrol gehad\nin het gymnasiale onderwijs. Ze heeft moeten vechten om als eerste vrouwelijke\ndocent klassieke talen geaccepteerd te worden.\nArchivalia\nAletta, Instituut voor Vrouwengeschiedenis, Amsterdam:\nArchief Marie Jeanette Baale 1893-1937.\nPublicaties\n\u00c3\u00a2\u00c2\u0080\u00c2\u0098Iets over vrouwelijke docenten en leerlingen aan\nNederlandsche gymnasi\u00c3\u0083\u00c2\u00abn\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Weekblad voor Gymnasiaal en Middelbaar Onderwijs\n4 (1908) 1144-1146.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Meisjes-gymnasiasten in Holland en in Duitschland\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Weekblad\nvoor Gymnasiaal en Middelbaar Onderwijs 6 (1910) 1059-1064.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Het Hooger Onderwijs op de Tentoonstelling \u00c3\u00a2\u00c2\u0080\u00c2\u009cde Vrouw\n1813-1913\u00c3\u00a2\u00c2\u0080\u00c2\u009d\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Maandblad voor Vrouwenstudie (1-9-1913) 71-77.\u00c3\u00a2\u00c2\u0080\u00c2\u0098De vrouw als docent in de klassieke letteren\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Maandblad\nvoor Vrouwenstudie (1-3-1914) 149-159.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Het Hooger Onderwijs in het \u00c3\u00a2\u00c2\u0080\u00c2\u009cPaviljoen de Vrouw\u00c3\u00a2\u00c2\u0080\u00c2\u009d op de\nkoloniale tentoonstelling te Semarang\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Maandblad voor Vrouwenstudie (1-5-1914)\n17-19.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Vindonissa\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Tijdschrift\nvoor Geschiedenis 38 (1923) 88-109.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Meisjesstudie\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Suum Cuique (8-9-1923) 21-23. \nLiteratuur\nL. Kappeyne van de Copello, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Dr. Marie Baale\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Femina 7 (18-2-1922) 23-25 [interview].POWK, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Interview\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Suum Cuique\n(11-7-1928)1-2.Monique Diederichs, Staat pal: Marie Baale 1875-1947,\ncarri\u00c3\u0083\u00c2\u00a8re en feminisme van de eerste classica in Nederland (Amsterdam 1992)\n[onuitgegeven doctoraalscriptie].Monique Diederichs, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Slippendragers van de partij: de\ngemankeerde carri\u00c3\u0083\u00c2\u00a8re van classica Marie Baale\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Savante 1 (1993) 14-16.Annick Schreuder e.a., Een verbond van gestudeerde\nvrouwen: 75 jaar Nederlandse Vereniging van Vrouwen met een Academische\nOpleiding 1918-1993 (Hilversum 1993) 23, 28-29, 34-35, 58, 61.\nIllustratie\nOngedateerde portretfoto, ca. 1903 (Coll. Aletta) [in bestelling].Auteur: Verena Demoed\n\u00c3\u0082\u00c2\u00a0",
-    "uri": "/Users/antskez/BNtest/naf_build_set/84300507_03.xml.gz"
-   },
-   {
     "text": "BELINFANTE, Emilie Josephine (geb. Den Haag 11-1-1875 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Auschwitz-Birkenau, Polen 7-7-1944), journaliste. Dochter van August Belinfante (1841-1908), uitgever en boekhandelaar, en Emilie Belinfante (1839-1917), regentes van een joods weeshuis. Emilie Belinfante bleef ongehuwd. Emilie (Emmy) Belinfante was de jongste van zeven kinderen in een vooruitstrevend en vrijzinnig joods uitgeversgezin. De van oorsprong Portugese familie Belinfante (in 1526 gevlucht voor de Inquisitie) zette in 1814 in Den Haag de Staatscourant op. Na de Haagse HBS werd Emmy opgeleid tot onderwijzeres. Ze hospiteerde op de school van onderwijsvernieuwer Jan Ligthart, maar bleek voor de klas geen succes. Ze schreef daarover in 1899 een kort verhaal, \u00c3\u00a2\u00c2\u0080\u00c2\u0098De proefles\u00c3\u00a2\u00c2\u0080\u00c2\u0099, in het jongedamesblad De Hollandsche Lelie. Het schrijven beviel zo goed dat ze in 1901 redacteur werd van een door haar oom uitgegeven nieuws- en advertentieblad (Het Familieblad). In haar eigen vrouwenrubriek schreef ze onder het pseudoniem \u00c3\u00a2\u00c2\u0080\u00c2\u0098May\u00c3\u00a2\u00c2\u0080\u00c2\u0099 op luchtige toon over de achterstelling van vrouwen op de arbeidsmarkt. In 1903 publiceerde ze een reeks Europese reisbrieven, onder meer over haar audi\u00c3\u0083\u00c2\u00abntie bij de paus en ontmoetingen met kunstenaars in Rome en Nice.Nadat Belinfante in 1905 als vrouw was afgewezen voor een baan als verslaggeefster voor de Haagse krant Het Vaderland (wat haar naar eigen zeggen \u00c3\u00a2\u00c2\u0080\u00c2\u0098de eerste stoot tot feminisme\u00c3\u00a2\u00c2\u0080\u00c2\u0099 gaf), werd ze aangenomen bij het pas opgerichte dagblad Land en Volk, een vrijzinnig-democratische concurrent van Het Vaderland. Hier zette \u00c3\u00a2\u00c2\u0080\u00c2\u0098May\u00c3\u00a2\u00c2\u0080\u00c2\u0099 haar vrouwenrubriek (de eerste in een Nederlands dagblad) voort, onder meer met berichten over de sociale, economische en politieke ontwikkeling van vrouwen en de vrouwenbeweging in binnen- en buitenland.Na een reorganisatie bij de krant in 1907 ging Belinfante freelance werken. Haar verslag van het congres van de Wereldbond voor Vrouwenkiesrecht in 1908 leverde haar een aanstelling op als redacteur buitenland bij de nachtredactie van de liberale Nieuwe Courant. Bij haar mannelijke collega\u00c3\u00a2\u00c2\u0080\u00c2\u0099s dwong ze ontzag af door haar belezenheid en talenkennis. Om meer vrouwelijke lezers te trekken, kreeg ze een rubriek over de vrouwenbeweging en een column \u00c3\u00a2\u00c2\u0080\u00c2\u0098Spiegel der ijdelheid\u00c3\u00a2\u00c2\u0080\u00c2\u0099, waarin ze haar lezeressen opwekte hun licht niet onder de korenmaat te zetten.In 1910 werd Belinfante lid van de Nationale en Internationale Vrouwenraad, waar ze voortdurend pleitte voor betere samenwerking tussen feministen en journalisten. Van 1921 tot 1940 was ze secretaris van de Haagsche Journalisten Vereeniging. In het vakbondsorgaan van de Nederlandsche Journalisten Kring stelde ze regelmatig ethische problemen ter discussie, zoals de toenemende commercialisering en de daarmee verbonden sensatie- en gemakzucht. Toen de redacties van de Nieuwe Courant en Het Vaderland in 1924 uit commercieel oogmerk werden samengevoegd, was er geen ruimte meer voor haar kritische verslaggeving. In 1928 ging ze weer freelance schrijven over de vrouwenbeweging, vredesvraagstukken en opvoeding, en publiceerde ze de brochure De vrouw als journaliste. Ze stelde daarin dat de vrouwelijke inbreng het morele peil en de kwaliteit van de journalistiek zou verhogen en voorspelde dat vrouwen het op den duur tot hoofdredacteur zouden brengen. Een CAO en een professionele journalistenopleiding moesten vrouwen ook materi\u00c3\u0083\u00c2\u00able gelijkwaardigheid geven. Als eindredacteur van het Maandblad der Nederlandsche Vereeniging van Huisvrouwen kreeg ze in de jaren 1930 weer een basisinkomen. Daarnaast bleef ze haar vrouwenrubriek schrijven en pleitte ze in 1933 in de feministische bundel De triomf van het wanbegrip tegen het \u00c3\u00a2\u00c2\u0080\u00c2\u0098nieuw-feminisme\u00c3\u00a2\u00c2\u0080\u00c2\u0099 dat het huwelijk als hoogste streven van de vrouw wilde voorstellen. Ze had het tij tegen. De meeste dagbladen schrapten haar rubriek ten gunste van recepten en knippatronen. Wel werd ze in 1938 wegens haar werk benoemd tot Ridder in de Orde van Oranje-Nassau.Belinfante, die sinds 1927 samenwoonde met haar zusters Anna en Mies en in datzelfde jaar medeoprichter was van de Haagse soroptomisten, een serviceclub van werkende vrouwen, moest in juni 1940 als joodse het secretariaat van de Haagsche Journalisten Vereeniging neerleggen. Ze bleef werken voor de Vereeniging van Huisvrouwen en schreef tot 1941 voor het maandblad De Vrouw en haar Huis. Om aan deportatie te ontkomen, trachtten de drie zusters Belinfante zich in 1943 als Portugees en zelfs als doopsgezind te laten registreren. Het baatte niet. Op 1 februari 1944 werden ze overgebracht naar Westerbork en vandaar naar\u00c3\u0082\u00c2\u00a0 Theresienstadt en het vernietigingskamp Auschwitz-Birkenau, waar ze in juli zijn vermoord. Op 12 juli 1951 stelde het Nederlandse Ministerie van Justitie officieel haar sterfdatum vast. Emmy Belinfante is enkele malen door vakgenoten herdacht in termen als \u00c3\u00a2\u00c2\u0080\u00c2\u0098een sieraad van de journalistiek'. Ze was, zoals Ro van Oven in 1947 schreef, \u00c3\u00a2\u00c2\u0080\u00c2\u0098fel en strijdvaardig[;] zij streed mee de strijd der vrouw om een staatsburgerschap dat meer is dan de letter der wet\u00c3\u00a2\u00c2\u0080\u00c2\u0099. In 2001 verscheen een uitvoerige biografie over haar.NaslagwerkenAletta; BWN; Joden in Nederland.ArchivaliaFamiliearchief in particulier bezit.PublicatiesDe vrouw als journaliste: wat beteekent de journalistiek voor de vrouw, wat kan de vrouw voor de journalistiek beteekenen (Dordrecht 1928).\u00c3\u00a2\u00c2\u0080\u00c2\u0098De waardigheid van de Nederlandsche pers\u00c3\u00a2\u00c2\u0080\u00c2\u0099, De Journalist, 30-11-1925.Die Frau bei der Niederl\u00c3\u0083\u00c2\u00a4ndischen Presse (ongepubliceerd rapport, Keulen 1928)\u00c3\u00a2\u00c2\u0080\u00c2\u0098Holland, let op uw pers! Degelijke vorming van den journalist: een eisch van den tijd\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Haagsch Maandblad 16 (1931) 266-277.\u00c3\u00a2\u00c2\u0080\u00c2\u0098Vrouwenorganisaties en individualisme der vrouw\u00c3\u00a2\u00c2\u0080\u00c2\u0099, in: S.G.F. Meyboom red., Het Vrouwenjaarboek (Amsterdam 1931) 50-65.\u00c3\u00a2\u00c2\u0080\u00c2\u0098De werkende vrouw\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Schoevers Koerier 5 (1938) nr. 4/5.LiteratuurR. van Ruyven, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Mejuffrouw Emmy Belinfante\u00c3\u00a2\u00c2\u0080\u00c2\u0099, De Hollandsche Lelie, 6-8-1919.Is. Santcroos Dlz., \u00c3\u00a2\u00c2\u0080\u00c2\u0098Joden in de Nederlandsche dagbladjournalistiek II\u00c3\u00a2\u00c2\u0080\u00c2\u0099, De Vrijdagavond. Joodsch Weekblad, 29-4-1927.J.L. Redeke-Hoek, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Hoe Emmy Belinfante in de journalistiek ging\u00c3\u00a2\u00c2\u0080\u00c2\u0099, Utrechts Nieuwsblad, 29-11-1936.R. van Oven, \u00c3\u00a2\u00c2\u0080\u00c2\u0098De positie der vrouw in de Nederlandsche journalistiek\u00c3\u00a2\u00c2\u0080\u00c2\u0099, De Journalist 2 (1947) nr. 2, 1. A. Biegel, \u00c3\u00a2\u00c2\u0080\u00c2\u0098In dienst van de koningin der aarde\u00c3\u00a2\u00c2\u0080\u00c2\u0099, in: M.G. Schenk red., Vrouwen van Nederland, 1898-1948. De vrouw tijdens de regering van koningin Wilhelmina (Amsterdam 1948).J. Divendal en H. Lakmaker, Tussen rook, alcohol en mannen. Emmy J. Belinfante, 1875-1944 (Amsterdam 2001).A. Kloosterman, \u00c3\u00a2\u00c2\u0080\u00c2\u0098Illustre Soroptimisten: journaliste Emmy J. Belinfante (1875-1944)\u00c3\u00a2\u00c2\u0080\u00c2\u0099,\u00c3\u0082\u00c2\u00a0 De Nederlandse Soroptimist 72 (2005) nr. 6, 31.IllustratiePortretfoto uit De vrouw en haar huis okt/nov 1926 (Letterkundig Museum, Den\u00c3\u0082\u00c2\u00a0 Haag).Auteur: Redactie",
     "uri": "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
    }
   ],
   "story_cnt": [
-   28
+   24
   ],
   "text": "Biographical lines",
   "type": "default"
