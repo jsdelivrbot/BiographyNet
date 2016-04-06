@@ -4,7 +4,7 @@
    25
   ],
   "event_cnt": [
-   44
+   37
   ],
   "events": [
    {
@@ -321,90 +321,45 @@
    },
    {
     "actors": {
-     "A0": [
-      "Stephanie_H\u00e9l\u00e8ne_Swarth"
-     ],
-     "A2": [
-      "Stephanie_H\u00e9l\u00e8ne_Swarth"
+     "Arg1-PPT": [
+      "Annelies_Marie_Frank"
      ]
     },
     "climax": 1,
-    "event": "trouwen1894",
-    "group": "100:trouwen",
-    "groupName": "trouwen",
+    "event": "birth1929",
+    "group": "100:birth",
+    "groupName": "birth",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trouwen1894",
+    "instance": "bn:dvn_1900-1949#birth1929",
     "labels": [
-     "trouwen"
+     "birth"
     ],
     "mentions": [
      {
       "char": [
-       "2586",
-       "2593"
+       "0",
+       "0"
       ],
       "sentence": [
-       "26"
+       "-1"
       ],
       "terms": [
-       "t_489"
+       "t-1"
       ],
       "tokens": [
-       "w490"
+       "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
+       "/Users/antskez/BNtest/died_during_war/20566910_02.xml#metadata"
       ]
      }
     ],
     "prefLabel": [
-     "trouwen"
+     "birth"
     ],
-    "sentence": "26",
+    "sentence": "metadata",
     "size": "1",
-    "time": "18940101"
-   },
-   {
-    "actors": {
-     "Arg1": [
-      "Anna_Sophie_Polak"
-     ]
-    },
-    "climax": 1,
-    "event": "overlijden1908",
-    "group": "100:overlijden",
-    "groupName": "overlijden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#overlijden1908",
-    "labels": [
-     "overlijden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3112",
-       "3120"
-      ],
-      "sentence": [
-       "28"
-      ],
-      "terms": [
-       "t_558"
-      ],
-      "tokens": [
-       "w559"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "overlijden"
-    ],
-    "sentence": "28",
-    "size": "1",
-    "time": "19080101"
+    "time": "19290101"
    },
    {
     "actors": {
@@ -456,112 +411,45 @@
    },
    {
     "actors": {
-     "Arg0": [
+     "Arg1-PPT": [
       "Geertruida_R\u00f6melingh"
-     ],
-     "Arg1": [
-      "Helena_Theodora_Rietberg"
-     ],
-     "ArgM-LOC": [
-      "Geertruida_R\u00f6melingh"
-     ]
-    },
-    "climax": 2,
-    "event": "overlijden1944",
-    "group": "100:overlijden",
-    "groupName": "overlijden",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#overlijden1944",
-    "labels": [
-     "overlijden",
-     "overlijden"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5665",
-       "5673"
-      ],
-      "sentence": [
-       "54"
-      ],
-      "terms": [
-       "t_938"
-      ],
-      "tokens": [
-       "w939"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/48660300_02.xml.gz"
-      ]
-     },
-     {
-      "char": [
-       "6330",
-       "6338"
-      ],
-      "sentence": [
-       "54"
-      ],
-      "terms": [
-       "t_1062"
-      ],
-      "tokens": [
-       "w1063"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/70112573_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "overlijden"
-    ],
-    "sentence": "54",
-    "size": "1",
-    "time": "19440101"
-   },
-   {
-    "actors": {
-     "Arg0": [
-      "Johanna_Cornelia_Sophia__Sablairolles"
      ]
     },
     "climax": 1,
-    "event": "overlijden1945",
-    "group": "100:overlijden",
-    "groupName": "overlijden",
+    "event": "birth1850",
+    "group": "100:birth",
+    "groupName": "birth",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#overlijden1945",
+    "instance": "bn:dvn_1900-1949#birth1850",
     "labels": [
-     "overlijden"
+     "birth"
     ],
     "mentions": [
      {
       "char": [
-       "6159",
-       "6167"
+       "0",
+       "0"
       ],
       "sentence": [
-       "53"
+       "-1"
       ],
       "terms": [
-       "t_1128"
+       "t-1"
       ],
       "tokens": [
-       "w1129"
+       "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/40700228_02.xml.gz"
+       "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
       ]
      }
     ],
     "prefLabel": [
-     "overlijden"
+     "birth"
     ],
-    "sentence": "53",
+    "sentence": "metadata",
     "size": "1",
-    "time": "19450101"
+    "time": "18500101"
    },
    {
     "actors": {
@@ -1030,45 +918,48 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Annelies_Marie_Frank"
+     "A0": [
+      "Stephanie_H\u00e9l\u00e8ne_Swarth"
+     ],
+     "A2": [
+      "Stephanie_H\u00e9l\u00e8ne_Swarth"
      ]
     },
     "climax": 1,
-    "event": "birth1929",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "trouwen1894",
+    "group": "100:trouwen",
+    "groupName": "trouwen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1929",
+    "instance": "bn:dvn_1900-1949#trouwen1894",
     "labels": [
-     "birth"
+     "trouwen"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "2586",
+       "2593"
       ],
       "sentence": [
-       "-1"
+       "26"
       ],
       "terms": [
-       "t-1"
+       "t_489"
       ],
       "tokens": [
-       "w-1"
+       "w490"
       ],
       "uri": [
-       "/Users/antskez/BNtest/died_during_war/20566910_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "trouwen"
     ],
-    "sentence": "metadata",
+    "sentence": "26",
     "size": "1",
-    "time": "19290101"
+    "time": "18940101"
    },
    {
     "actors": {
@@ -1198,6 +1089,12 @@
    },
    {
     "actors": {
+     "A1": [
+      "Elisabeth_Margaretha_Rogge"
+     ],
+     "Arg0": [
+      "Johanna_Cornelia_Sophia__Sablairolles"
+     ],
      "Arg1-PPT": [
       "Hermine_Christine_H\u00e9l\u00e8ne_Moquette",
       "Annelies_Marie_Frank",
@@ -1207,13 +1104,15 @@
       "Elisabeth_Margaretha_Rogge"
      ]
     },
-    "climax": 6,
+    "climax": 8,
     "event": "death1945",
     "group": "100:death",
     "groupName": "death",
     "groupScore": "100",
     "instance": "bn:dvn_1900-1949#death1945",
     "labels": [
+     "death",
+     "death",
      "death",
      "death",
      "death",
@@ -1296,6 +1195,24 @@
      },
      {
       "char": [
+       "6159",
+       "6167"
+      ],
+      "sentence": [
+       "53"
+      ],
+      "terms": [
+       "t_1128"
+      ],
+      "tokens": [
+       "w1129"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/40700228_02.xml.gz"
+      ]
+     },
+     {
+      "char": [
        "0",
        "0"
       ],
@@ -1329,6 +1246,24 @@
       "uri": [
        "/Users/antskez/BNtest/died_during_war/84058368_02.xml#metadata"
       ]
+     },
+     {
+      "char": [
+       "4572",
+       "4578"
+      ],
+      "sentence": [
+       "40"
+      ],
+      "terms": [
+       "t_771"
+      ],
+      "tokens": [
+       "w772"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
+      ]
      }
     ],
     "prefLabel": [
@@ -1340,160 +1275,64 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Geertruida_R\u00f6melingh",
-      "Esm\u00e9e_Adrienne_Eeghen",
-      "Helena_Theodora_Rietberg",
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk",
-      "Johanna_Petronella_Catharina_Antoinetta__Koster",
-      "Emilie_Josephine_Belinfante"
+     "Arg1": [
+      "Anna_Sophie_Polak"
      ]
     },
-    "climax": 6,
-    "event": "death1944",
+    "climax": 1,
+    "event": "death1908",
     "group": "100:death",
     "groupName": "death",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#death1944",
+    "instance": "bn:dvn_1900-1949#death1908",
     "labels": [
-     "death",
-     "death",
-     "death",
-     "death",
-     "death",
      "death"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "3112",
+       "3120"
       ],
       "sentence": [
-       "-1"
+       "28"
       ],
       "terms": [
-       "t-1"
+       "t_558"
       ],
       "tokens": [
-       "w-1"
+       "w559"
       ],
       "uri": [
-       "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/died_during_war/56709942_02.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/died_during_war/70112573_02.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/died_during_war/76240048_02.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/died_during_war/83573201_03.xml#metadata"
-      ]
-     },
-     {
-      "char": [
-       "0",
-       "0"
-      ],
-      "sentence": [
-       "-1"
-      ],
-      "terms": [
-       "t-1"
-      ],
-      "tokens": [
-       "w-1"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/died_during_war/99789685_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
      "death"
     ],
-    "sentence": "metadata",
+    "sentence": "28",
     "size": "1",
-    "time": "19440101"
+    "time": "19080101"
    },
    {
     "actors": {
+     "A0": [
+      "Stephanie_H\u00e9l\u00e8ne_Swarth"
+     ],
      "Arg1-PPT": [
       "Johanna_Wilhelmina_Antoinette_Naber",
       "Stephanie_H\u00e9l\u00e8ne_Swarth"
      ]
     },
-    "climax": 2,
+    "climax": 3,
     "event": "death1941",
     "group": "100:death",
     "groupName": "death",
     "groupScore": "100",
     "instance": "bn:dvn_1900-1949#death1941",
     "labels": [
+     "death",
      "death",
      "death"
     ],
@@ -1533,6 +1372,24 @@
       "uri": [
        "/Users/antskez/BNtest/died_during_war/08600534_02.xml#metadata"
       ]
+     },
+     {
+      "char": [
+       "3490",
+       "3496"
+      ],
+      "sentence": [
+       "38"
+      ],
+      "terms": [
+       "t_667"
+      ],
+      "tokens": [
+       "w668"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
+      ]
      }
     ],
     "prefLabel": [
@@ -1544,18 +1401,22 @@
    },
    {
     "actors": {
+     "A1": [
+      "Susanna_Groeneweg"
+     ],
      "Arg1-PPT": [
       "Catharina_van_Rennes",
       "Susanna_Groeneweg"
      ]
     },
-    "climax": 2,
+    "climax": 3,
     "event": "death1940",
     "group": "100:death",
     "groupName": "death",
     "groupScore": "100",
     "instance": "bn:dvn_1900-1949#death1940",
     "labels": [
+     "death",
      "death",
      "death"
     ],
@@ -1594,6 +1455,24 @@
       ],
       "uri": [
        "/Users/antskez/BNtest/died_during_war/66465738_02.xml#metadata"
+      ]
+     },
+     {
+      "char": [
+       "7403",
+       "7409"
+      ],
+      "sentence": [
+       "58"
+      ],
+      "terms": [
+       "t_1329"
+      ],
+      "tokens": [
+       "w1330"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/66465738_02.xml.gz"
       ]
      }
     ],
@@ -1810,17 +1689,21 @@
    },
    {
     "actors": {
+     "A0": [
+      "Johanna_Helena_van_Uden"
+     ],
      "Arg1-PPT": [
       "Johanna_Helena_van_Uden"
      ]
     },
-    "climax": 1,
+    "climax": 2,
     "event": "death1949",
     "group": "100:death",
     "groupName": "death",
     "groupScore": "100",
     "instance": "bn:dvn_1900-1949#death1949",
     "labels": [
+     "death",
      "death"
     ],
     "mentions": [
@@ -1841,6 +1724,24 @@
       "uri": [
        "/Users/antskez/BNtest/died_during_war/60738635_02.xml#metadata"
       ]
+     },
+     {
+      "char": [
+       "4116",
+       "4122"
+      ],
+      "sentence": [
+       "42"
+      ],
+      "terms": [
+       "t_806"
+      ],
+      "tokens": [
+       "w807"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+      ]
      }
     ],
     "prefLabel": [
@@ -1852,18 +1753,43 @@
    },
    {
     "actors": {
+     "A0": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ],
+     "Arg0": [
+      "Geertruida_R\u00f6melingh"
+     ],
+     "Arg1": [
+      "Helena_Theodora_Rietberg"
+     ],
      "Arg1-PPT": [
+      "Geertruida_R\u00f6melingh",
+      "Esm\u00e9e_Adrienne_Eeghen",
+      "Helena_Theodora_Rietberg",
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk",
+      "Johanna_Petronella_Catharina_Antoinetta__Koster",
+      "Emilie_Josephine_Belinfante"
+     ],
+     "ArgM-LOC": [
       "Geertruida_R\u00f6melingh"
      ]
     },
-    "climax": 1,
-    "event": "birth1850",
-    "group": "100:birth",
-    "groupName": "birth",
+    "climax": 9,
+    "event": "death1944",
+    "group": "100:death",
+    "groupName": "death",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1850",
+    "instance": "bn:dvn_1900-1949#death1944",
     "labels": [
-     "birth"
+     "death",
+     "death",
+     "death",
+     "death",
+     "death",
+     "death",
+     "death",
+     "death",
+     "death"
     ],
     "mentions": [
      {
@@ -1883,14 +1809,158 @@
       "uri": [
        "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
       ]
+     },
+     {
+      "char": [
+       "5665",
+       "5673"
+      ],
+      "sentence": [
+       "54"
+      ],
+      "terms": [
+       "t_938"
+      ],
+      "tokens": [
+       "w939"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/48660300_02.xml.gz"
+      ]
+     },
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/56709942_02.xml#metadata"
+      ]
+     },
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/70112573_02.xml#metadata"
+      ]
+     },
+     {
+      "char": [
+       "6330",
+       "6338"
+      ],
+      "sentence": [
+       "54"
+      ],
+      "terms": [
+       "t_1062"
+      ],
+      "tokens": [
+       "w1063"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/70112573_02.xml.gz"
+      ]
+     },
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/76240048_02.xml#metadata"
+      ]
+     },
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/83573201_03.xml#metadata"
+      ]
+     },
+     {
+      "char": [
+       "5844",
+       "5850"
+      ],
+      "sentence": [
+       "60"
+      ],
+      "terms": [
+       "t_1025"
+      ],
+      "tokens": [
+       "w1026"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+      ]
+     },
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/99789685_02.xml#metadata"
+      ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "death"
     ],
     "sentence": "metadata",
     "size": "1",
-    "time": "18500101"
+    "time": "19440101"
    },
    {
     "actors": {
@@ -1936,90 +2006,6 @@
    },
    {
     "actors": {
-     "A1": [
-      "Susanna_Groeneweg"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1940",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1940",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "7403",
-       "7409"
-      ],
-      "sentence": [
-       "58"
-      ],
-      "terms": [
-       "t_1329"
-      ],
-      "tokens": [
-       "w1330"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/66465738_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "58",
-    "size": "1",
-    "time": "19400101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Stephanie_H\u00e9l\u00e8ne_Swarth"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1941",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1941",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "3490",
-       "3496"
-      ],
-      "sentence": [
-       "38"
-      ],
-      "terms": [
-       "t_667"
-      ],
-      "tokens": [
-       "w668"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/08600534_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "38",
-    "size": "1",
-    "time": "19410101"
-   },
-   {
-    "actors": {
      "A0": [
       "Helena_Theodora_Rietberg"
      ]
@@ -2059,48 +2045,6 @@
     "sentence": "5",
     "size": "1",
     "time": "19390101"
-   },
-   {
-    "actors": {
-     "A1": [
-      "Elisabeth_Margaretha_Rogge"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1945",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1945",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4572",
-       "4578"
-      ],
-      "sentence": [
-       "40"
-      ],
-      "terms": [
-       "t_771"
-      ],
-      "tokens": [
-       "w772"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "40",
-    "size": "1",
-    "time": "19450101"
    },
    {
     "actors": {
@@ -2208,90 +2152,6 @@
    },
    {
     "actors": {
-     "A0": [
-      "Johanna_Helena_van_Uden"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1949",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1949",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "4116",
-       "4122"
-      ],
-      "sentence": [
-       "42"
-      ],
-      "terms": [
-       "t_806"
-      ],
-      "tokens": [
-       "w807"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "42",
-    "size": "1",
-    "time": "19490101"
-   },
-   {
-    "actors": {
-     "A0": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
-     ]
-    },
-    "climax": 1,
-    "event": "sterven1944",
-    "group": "100:sterven",
-    "groupName": "sterven",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1944",
-    "labels": [
-     "sterven"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "5844",
-       "5850"
-      ],
-      "sentence": [
-       "60"
-      ],
-      "terms": [
-       "t_1025"
-      ],
-      "tokens": [
-       "w1026"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "sterven"
-    ],
-    "sentence": "60",
-    "size": "1",
-    "time": "19440101"
-   },
-   {
-    "actors": {
      "Arg1-PPT": [
       "Elisabeth_Carolina_van_Dorp"
      ]
@@ -2335,7 +2195,7 @@
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   44
+   37
   ],
   "sources": [
    {
