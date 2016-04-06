@@ -1,10 +1,10 @@
 {
  "timeline": {
   "actor_cnt": [
-   24
+   25
   ],
   "event_cnt": [
-   40
+   44
   ],
   "events": [
    {
@@ -408,6 +408,54 @@
    },
    {
     "actors": {
+     "A0": [
+      "Johanna_Helena_van_Uden"
+     ],
+     "A1": [
+      "Johanna_Helena_van_Uden"
+     ],
+     "AM-DIS": [
+      "Johanna_Helena_van_Uden"
+     ]
+    },
+    "climax": 1,
+    "event": "trouwen1930",
+    "group": "100:trouwen",
+    "groupName": "trouwen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#trouwen1930",
+    "labels": [
+     "trouwen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "283",
+       "290"
+      ],
+      "sentence": [
+       "5"
+      ],
+      "terms": [
+       "t_59"
+      ],
+      "tokens": [
+       "w60"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "trouwen"
+    ],
+    "sentence": "5",
+    "size": "1",
+    "time": "19300101"
+   },
+   {
+    "actors": {
      "Arg0": [
       "Geertruida_R\u00f6melingh"
      ],
@@ -559,51 +607,6 @@
    },
    {
     "actors": {
-     "A0": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ],
-     "A2": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
-     ]
-    },
-    "climax": 1,
-    "event": "trouwen1883",
-    "group": "100:trouwen",
-    "groupName": "trouwen",
-    "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#trouwen1883",
-    "labels": [
-     "trouwen"
-    ],
-    "mentions": [
-     {
-      "char": [
-       "1160",
-       "1167"
-      ],
-      "sentence": [
-       "10"
-      ],
-      "terms": [
-       "t_225"
-      ],
-      "tokens": [
-       "w226"
-      ],
-      "uri": [
-       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
-      ]
-     }
-    ],
-    "prefLabel": [
-     "trouwen"
-    ],
-    "sentence": "10",
-    "size": "1",
-    "time": "18830101"
-   },
-   {
-    "actors": {
      "Arg1-PPT": [
       "Rosa_Manus"
      ]
@@ -643,6 +646,51 @@
     "sentence": "metadata",
     "size": "1",
     "time": "18810101"
+   },
+   {
+    "actors": {
+     "A0": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     ],
+     "A2": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     ]
+    },
+    "climax": 1,
+    "event": "trouwen1931",
+    "group": "100:trouwen",
+    "groupName": "trouwen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#trouwen1931",
+    "labels": [
+     "trouwen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "1160",
+       "1167"
+      ],
+      "sentence": [
+       "10"
+      ],
+      "terms": [
+       "t_225"
+      ],
+      "tokens": [
+       "w226"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "trouwen"
+    ],
+    "sentence": "10",
+    "size": "1",
+    "time": "19310101"
    },
    {
     "actors": {
@@ -1024,45 +1072,45 @@
    },
    {
     "actors": {
-     "A0": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     "Arg1-PPT": [
+      "Johanna_Helena_van_Uden"
      ]
     },
     "climax": 1,
-    "event": "sterven1944",
-    "group": "100:sterven",
-    "groupName": "sterven",
+    "event": "birth1905",
+    "group": "100:birth",
+    "groupName": "birth",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#sterven1944",
+    "instance": "bn:dvn_1900-1949#birth1905",
     "labels": [
-     "sterven"
+     "birth"
     ],
     "mentions": [
      {
       "char": [
-       "5844",
-       "5850"
+       "0",
+       "0"
       ],
       "sentence": [
-       "60"
+       "-1"
       ],
       "terms": [
-       "t_1025"
+       "t-1"
       ],
       "tokens": [
-       "w1026"
+       "w-1"
       ],
       "uri": [
-       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+       "/Users/antskez/BNtest/died_during_war/60738635_02.xml#metadata"
       ]
      }
     ],
     "prefLabel": [
-     "sterven"
+     "birth"
     ],
-    "sentence": "60",
+    "sentence": "metadata",
     "size": "1",
-    "time": "19440101"
+    "time": "19050101"
    },
    {
     "actors": {
@@ -1763,6 +1811,48 @@
    {
     "actors": {
      "Arg1-PPT": [
+      "Johanna_Helena_van_Uden"
+     ]
+    },
+    "climax": 1,
+    "event": "death1949",
+    "group": "100:death",
+    "groupName": "death",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#death1949",
+    "labels": [
+     "death"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/60738635_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "death"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "19490101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
       "Geertruida_R\u00f6melingh"
      ]
     },
@@ -2118,6 +2208,90 @@
    },
    {
     "actors": {
+     "A0": [
+      "Johanna_Helena_van_Uden"
+     ]
+    },
+    "climax": 1,
+    "event": "sterven1949",
+    "group": "100:sterven",
+    "groupName": "sterven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#sterven1949",
+    "labels": [
+     "sterven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "4116",
+       "4122"
+      ],
+      "sentence": [
+       "42"
+      ],
+      "terms": [
+       "t_806"
+      ],
+      "tokens": [
+       "w807"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "sterven"
+    ],
+    "sentence": "42",
+    "size": "1",
+    "time": "19490101"
+   },
+   {
+    "actors": {
+     "A0": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ]
+    },
+    "climax": 1,
+    "event": "sterven1944",
+    "group": "100:sterven",
+    "groupName": "sterven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#sterven1944",
+    "labels": [
+     "sterven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "5844",
+       "5850"
+      ],
+      "sentence": [
+       "60"
+      ],
+      "terms": [
+       "t_1025"
+      ],
+      "tokens": [
+       "w1026"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "sterven"
+    ],
+    "sentence": "60",
+    "size": "1",
+    "time": "19440101"
+   },
+   {
+    "actors": {
      "Arg1-PPT": [
       "Elisabeth_Carolina_van_Dorp"
      ]
@@ -2161,7 +2335,7 @@
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   40
+   44
   ],
   "sources": [
    {
@@ -2233,6 +2407,10 @@
     "uri": "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
    },
    {
+    "text": "UDEN, Johanna Helena van (geb. Oss 4-8-1905 \u00c3\u00a2\u00c2\u0080\u00c2\u0093 gest. Udenhout 20-12-1949), stond model voor gangstermeisje Johanna van Heesch in de film De bende van Oss (2011). Dochter van Gerardus Lambertus van Uden (1874-1962), metselaar, en Helena van Berkum (1873-1955). Johanna Helena van Uden trouwde (1) op 3-1-1930 in Oss met Johannes Marinus Cornelus van der Pas (1902-1932), brouwersknecht en kroegbaas; (2) op 11-1-1934 in Udenhout met Wilhelmus Johannes van Gestel (1912-1984), steenfabrieksarbeider. Uit huwelijk (1) werd 1 zoon geboren, uit (2) 6 zoons en 3 dochters.Johanna Helena (Jans of Janske) van Uden was het zevende van de vijftien kinderen (zeven dochters en acht zoons) die het echtpaar Van Uden-van Berkum kreeg tussen 1897 en 1919. Op 22 augustus 1927 vertrok Jans naar Rotterdam om daar te gaan werken. Een jaar later keerde ze terug naar het ouderlijk huis in Oss. HuwelijkOp 3 januari 1930 trouwde Johanna, 24 jaar oud, met de 27-jarige Jan van der Pas. Jan was knecht bij de Amstelbrouwerij, en na zijn huwelijk werd hij caf\u00c3\u0083\u00c2\u00a9houder in dienst van de brouwerij. Op 16 april 1931 kregen ze een zoon: Marinus Johannes Gerardus. Het was geen gelukkig huwelijk. Van der Pas heette in de omgang een goedhartig mens, behalve als hij gedronken had; dan werd hij aggressief. Armoede lag op de loer, vooral toen Van der Pas bij de brouwerij werd ontslagen. Caf\u00c3\u0083\u00c2\u00a9bezoekers en familie schoten soms te hulp als hij weer eens gewelddadig was. Wielrenner Jan Ceelen (\u00c3\u00a2\u00c2\u0080\u00c2\u0098de Ceel\u00c3\u00a2\u00c2\u0080\u00c2\u0099), een tien jaar jongere buurjongen en bevriend met Van der Pas, was veel in de buurt en zodoende vaak getuige van de mishandelingen die Johanna moest ondergaan. Later zou hij verklaren dat hij heimelijk met Johanna leefde als man en vrouw, en dat hij toen het plan opvatte haar man uit de weg te ruimen. Ceelen kocht een revolver en regelde een levensverzekering van Van der Pas ten gunste van Johanna. De moord op Jan van der PasToen Jan van der Pas op 8 november 1932 zijn verjaardag vierde, was Johanna ziek en daarom om 8 uur naar bed gegaan. De dag erna zag ze dat Jan niet was thuisgekomen. Ze stuurde het dienstmeisje op pad om hem te zoeken en Ceelen naar de politie om daar te informeren. Al snel werd het levenloze lichaam van Jan gevonden in een weiland in de gemeente Berghem: hij had diverse schotwonden. De marechaussee was ervan overtuigd dat Johanna \u00c3\u00a2\u00c2\u0080\u00c2\u0098zo niet medeplichtig is, dan toch de moord op haar man kan ophelderen\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Ze werd verschillende malen verhoord, maar weer vrijgelaten: er was geen bewijs.Hierna liet Johanna alle huisraad uit het caf\u00c3\u0083\u00c2\u00a9 halen en trok met haar kind in bij haar getrouwde zuster. Op 19 november kreeg ze vijfhonderd gulden uitbetaald van haar mans levensverzekering. Er werd beweerd dat ze daarvan een \u00c3\u00a2\u00c2\u0080\u00c2\u0098fuif\u00c3\u00a2\u00c2\u0080\u00c2\u0099 had gehouden. Op 12 januari 1933 vertrok zij naar Tilburg om daar als \u00c3\u00a2\u00c2\u0080\u00c2\u0098lokvogel\u00c3\u00a2\u00c2\u0080\u00c2\u0099 te gaan werken in caf\u00c3\u0083\u00c2\u00a9 Marijnissen: ze moest meedrinken met de mannelijke bezoekers. De kleine Marinus liet ze achter in Oss. In Tilburg kreeg ze een relatie met marinier Frans Souwen. Ze gaf hem de trouwring van haar overleden man als onderpand van haar trouw, maar toch duurde deze relatie niet lang. Op 4 maart liep Johanna weg uit caf\u00c3\u0083\u00c2\u00a9 Marijnissen, wellicht omdat ze bang was dat ze ooit in een dronken bui te veel had verteld over wat ze had meegemaakt. Ze vond een betrekking bij caf\u00c3\u0083\u00c2\u00a9 De Weijer in Udenhout.UdenhoutOp 22 maart 1933 werd Johanna van Uden ingeschreven in het dienstbodenregister van Udenhout. Daar leerde ze Wilhelmus Johannes van Gestel kennen, een steenfabrieksarbeider met wie ze op 11 januari 1934 trouwde \u00c3\u00a2\u00c2\u0080\u00c2\u0093 op 19 juli werd een zoon geboren. Daarna volgden nog acht kinderen, waarvan \u00c3\u0083\u00c2\u00a9\u00c3\u0083\u00c2\u00a9n zoontje als baby overleed. Intussen was de kwestie van de moord op haar eerste echtgenoot weer opgerakeld. In 1935 was Ceelen aangehouden voor een gewelddadige roofoverval in Deurne en na verloop van tijd kwam hij ook met een bekentenis over die novemberavond in 1932. Hij had Van der Pas voorgesteld om samen in te breken bij een boer in Berghem en zijn revolver op hem leeggeschoten toen ze door de weilanden liepen. Johanna zou van niets hebben geweten. Tien jaar later, op 20 december 1949, stierf Johanna van Uden in een Tilburgs ziekenhuis. Diezelfde dag was zij bevallen van een levenloos kind. Zij was toen 44 jaar oud.ReputatieVan Uden heeft haar betrokkenheid bij de moord op haar eerste man altijd ontkend. Zij zou niets van Ceelens plannen geweten hebben noch hem aangezet hebben tot moord. Ceelen heeft ook altijd volgehouden dat zij niets wist, \u00c3\u00a2\u00c2\u0080\u00c2\u0098al heeft zij mij wel eens gezegd dat zij wel wenste dat haar man kapot geschoten werd. Doch ze heeft mij daartoe nooit aangezet\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Ook hield hij vol geen relatie met haar te hebben gehad: \u00c3\u00a2\u00c2\u0080\u00c2\u0098Ik hield meer van Van der Pas als van zijn vrouw\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Later gaven zowel Ceelen als Van Uden hun relatie toe, maar Jans wilde dit niet in het openbaar voor de rechtbank verklaren \u00c3\u00a2\u00c2\u0080\u00c2\u0098uit schaamte voor het publiek en voor mijn tweede man, Van Gestel\u00c3\u00a2\u00c2\u0080\u00c2\u0099 (F. Ceelen, 11). Volgens een getuigenis van een voormalig dienstmeisje bij caf\u00c3\u0083\u00c2\u00a9 Marijnissen zou Johanna haar verteld hebben dat ze op die bewuste avond met anderen had afgesproken haar man uit de weg te ruimen. In 2011 kwam de Nederlandse speelfilm De bende van Oss (regie Andre van Duren) uit. Het verhaal speelt zich af in het Ossche criminele milieu van de jaren dertig en gaat over de moord op Jan van der Pas door \u00c3\u00a2\u00c2\u0080\u00c2\u0098De Ceel\u00c3\u00a2\u00c2\u0080\u00c2\u0099. Caf\u00c3\u0083\u00c2\u00a9bazin Johanna van Heesch (Sylvia Hoeks) is de centrale figuur in de film. Haar minnaar, de jonge wielrenner Jan Greven, sluit een levensverzekering af op Johanna\u00c3\u00a2\u00c2\u0080\u00c2\u0099s echtgenoot Ties, die haar mishandelt. Vervolgens vermoordt hij hem met haar medeweten. De namen zijn veranderd, maar in grote lijnen komt het filmverhaal overeen met wat er in werkelijkheid is gebeurd.BronnenBrabants Historisch Informatie Centrum, Den Bosch: Archief 524 (Gerechtshof \u00c3\u00a2\u00c2\u0080\u00c2\u0099s-Hertogenbosch), inv. nr. 87 (Kamer van Strafzaken), rol no. 8582 (Johannes Petrus Ceelen, verdacht van moord. Behandeling: woensdag, 22-4-1936, 12 uur. Uitspraak: 4-5-1936). BS en bevolkingsregisters van Oss, Berghem, Udenhout en Tilburg.LiteratuurJos Smeets, De affaire Oss (2001).Martin Schouten, De bende van Oss. Het ware verhaal (2011).Frans Ceelen, De Ossche bende [geraadpleegd 5-4-2012].Auteur: Astrid de Beer",
+    "uri": "/Users/antskez/BNtest/naf_build_set/60738635_02.xml.gz"
+   },
+   {
     "text": "GROENEWEG, Susanna (geb.\nStrijen, Zuid-Holland 4-3-1875 \u00e2\u0080\u0093 gest. Barendrecht, 19-10-1940), onderwijzeres,\npolitica, eerste vrouw in de Tweede Kamer. Dochter van Arie Groeneweg (1833-1899),\nwinkelier en landarbeider, en Emmigje de Ruiter (1831-1906). Susanna Groeneweg\nbleef ongehuwd.\nSusanna\n(Suze) Groeneweg werd geboren in het Zuid-Hollandse Strijensas (Hoekse Waard),\nals derde kind en oudste meisje in een eenvoudig gezin met vijf kinderen. Bij\nde aangifte van de kinderen noemde haar vader zich winkelier of landarbeider. Dankzij\nde inspanningen van haar moeder, die op latere leeftijd zichzelf had leren\nlezen en schrijven, mocht Suze in 1889 naar de Rijksnormaalschool in Numansdorp\nom door te leren voor onderwijzeres. Groenewegs loopbaan in het onderwijs begon\nin 1893 in haar geboortedorp. Daarna was zij achtereenvolgens onderwijzeres in\nDuivendijke, Krimpen aan de IJssel, Dordrecht en Montfoort, waar zij lesgaf\naan het Rijksopvoedingsgesticht voor meisjes. Uit onvrede over de slechte\nbehandeling van de meisjes sloot ze zich in 1902 aan bij de Bond van\nNederlandsche Onderwijzers (BNO). Ook was ze actief in de Nederlandsche\nVereeniging tot Afschaffing van Alcoholhoudende Dranken, van 1920 tot 1928 als hoofdbestuurslid.\nIn\n1903 werd Suze Groeneweg op een 1-meiviering lid van de Sociaal Democratische\nArbeiders Partij (SDAP). Dat najaar verhuisde ze naar Rotterdam, waar zij als\nonderwijzeres in dienst kwam van de gemeente. Al snel zat ze in het Rotterdamse\nafdelingsbestuur van de SDAP. Ze wist haar aanvankelijke verlegenheid te\noverwinnen en werd een bevlogen spreekster op partijcongressen en betogingen.\nIn 1918 vertelde ze hoeveel last ze had gehad van haar verlegenheid: \u00e2\u0080\u0098voor\npartijgenoten van naam, die ik aan zag komen, schoot ik soms maar een\nzijstraatje in, ik wist eigenlijk niet hoe ik ze groeten moest en in mijn\ntwijfel dacht ik dan maar: \u00e2\u0080\u009claat ik er maar een ommetje voor over hebben!\u00e2\u0080\u009d\u00e2\u0080\u0099(Sumatra\nPost, 9-8-1918).\nNaar\nhet hart\nSuze\nGroeneweg ontwikkelde zich tot een actief SDAP-propagandiste. Daarbij richtte ze\nzich ook op vrouwen: in 1905 richtte zij een vrouwenpropagandaclub op binnen de\nRotterdamse afdeling van de SDAP, met als doel het propageren van de idee\u00c3\u00abn van\nde SDAP onder (arbeiders)vrouwen. Een aparte, zelfstandige vrouwenorganisatie\nwas volgens Groeneweg echter niet nodig, want dat zou aan vrouwen alleen maar\neen stempel van ongelijkwaardigheid geven, en \u00e2\u0080\u0098als men er langs de gewone weg\nkan komen moet men niet een buitengewone kiezen\u00e2\u0080\u0099 (Het Volk, 24-12-1917). Groeneweg was dan ook een fervente tegenstander\nvan de in 1908 onder voorzitterschap van Mathilde Wibaut opgerichte Bond van\nSociaal-Democratische Vrouwenclubs (BSDVC). Ze beschouwde de BSDVC als \u00e2\u0080\u0098een\nlevend verwijt\u00e2\u0080\u0099 aan de SDAP en mede door haar tegenstand duurde het tot 1914\nvoordat de BSDVC landelijk erkend werd binnen de SDAP (Outshoorn, 65).\nDe\nverstandhouding tussen Groeneweg en de BSDVC werd in de loop der jaren wel\nbeter, maar zou nooit echt hartelijk worden. Groeneweg voelde zich niet thuis\nin een vrouwenorganisatie en sprak ook niet graag voor uitsluitend vrouwelijk\npubliek: \u00e2\u0080\u0098\u00e2\u0080\u0099t Allerliefst (\u00e2\u0080\u00a6) spreek ik voor een gemengde zaal, voor mannen en\nvrouwen, dan ben ik in m\u00e2\u0080\u0099n element, dan voel ik me opgestouwd, en ik voel dat\nik de zaal meekrijg. Voor vrouwen alleen spreek ik niet gaarne\u00e2\u0080\u0099 (Sumatra Post, 9-8-1918). Er werd haar\nmeermalen verweten dat zij eerder \u00e2\u0080\u0098de mannen naar het hart sprak\u00e2\u0080\u0099 dan de\nvrouwen (gecit. Jansz, 39).\nIntussen\nmaakte Suze Groeneweg gestaag carri\u00c3\u00a8re in de partij. In 1908 werd ze lid van\nhet Federatiebestuur en in 1914 werd ze gekozen tot lid van het landelijke\nbestuur van de SDAP, een functie die ze tot 1936 behield.\nEerste vrouw in Tweede\nKamer \nNa jaren van kiesrechtstrijd werd in 1917 een\ngrondwetswijziging doorgevoerd: mannen kregen algemeen kiesrecht, vrouwen passief\nkiesrecht, Het betekende dat vrouwen zelf geen stem mochten uitbrengen. Toen\nop 3 juli 1918 de eerste verkiezingen na deze grondwetswijziging plaatsvonden,\nwerd Suze Groeneweg als eerste vrouw in de Tweede Kamer gekozen. Voor de BSDVC\nwas het een tegenvaller dat juist zij, en niet Carry Pothuis, die als derde op\nde Amsterdamse kandidatenlijst van de SDAP stond, was gekozen.Toch zond de\nBSDVC haar een gelukstelegram. Dit telegram was voor Heleen Ankersmit,\nsecretaris van de BSDVC, reden om per direct haar partijlidmaatschap op te\nzeggen.\u00e2\u0080\u0099t Lijkt wel een ruzie tusschen jaloersche buurvrouwen\u00e2\u0080\u0099, aldus De Tijd, \u00e2\u0080\u0098O heerlijke eenheid der SDAP!!!\u00e2\u0080\u0099\n(13-7-1918).\nAls\neerste \u00e2\u0080\u0093 en tot 1921 enige \u00e2\u0080\u0093 vrouw in de Tweede Kamer baarde Groeneweg het\nnodige opzien. De hele vaderlandse pers stond bij haar op de stoep en er moesten\nin het gebouw van de Kamer aanpassingen worden aangebracht, zoals een eigen\nkleedkamer voor Groeneweg. De gang die erheen leidde werd al snel \u00e2\u0080\u0098het\nGroenewegje\u00e2\u0080\u0099 genoemd. Tijdens haar maidenspeech \u00e2\u0080\u0093 op 7 november 1918 \u00e2\u0080\u0093 ging zij\nin op de moeilijke positie van de moeders, vrouwen en verloofdes van de\ngemobiliseerde soldaten. \u00e2\u0080\u0098Een echt vrouwelijke speech\u00e2\u0080\u0099, oordeelde De Tijd (8-11-1918). De ex-onderwijzeres\nGroeneweg toonde als politica een grote werkkracht. Ze bereidde zich altijd gedegen\nvoor, bleef rustig, wist ingewikkelde zaken goed uit te leggen en was een gevat\ndebater. Daarmee wist ze zich op te werken tot een gezaghebbend beroepspolitica:\nvanaf 1919 combineerde ze haar werk in de Kamer met het lidmaatschap van\nProvinciale Staten van Zuid-Holland (1919-1937) en de Rotterdamse gemeenteraad\n(1919-1931).\nGroeneweg\nhield zich vooral bezig met onderwerpen als vrouwenrechten, antimilitarisme,\ndrankbestrijding, onderwijs, ontwapening en zuigelingen- en moederschapszorg. Ze\nbepleitte daarbij zoveel mogelijk gelijkheid tussen mannen en vrouwen. Zo\nageerde zij tegen het feit dat vrouwelijke aspiranten voor de Rijkskweekschool\nverplicht waren een geneeskundige verklaring in te dienen, terwijl mannelijks\naspiranten dat niet hoefden (De Tribune,\n10-2-1922). Ze verdedigde het recht op betaalde arbeid voor vrouwen, al hoopte\nze dat er een tijd zou komen waarin gehuwde vrouwen niet meer buitenshuis\nhoefden te gaan werken. Dit kwam haar op scherpe kritiek van de BSDVC te staan.\nOok bepleitte Groeneweg betaald zwangerschapsverlof voor getrouwde en ongetrouwde\nvrouwen. In 1929 kwam er uiteindelijk een afgezwakte regeling tot stand:\nzwangerschap en bevalling werden als \u00e2\u0080\u0098ziekte\u00e2\u0080\u0099 opgevat, en zo werd de\nverlofregeling via de ziektewet ingevoerd \u00e2\u0080\u0093 onder druk van de confessionele\npartijen gold deze regeling alleen voor getrouwde vrouwen. Het was een\nvoorbeeld van de compromissen die Groeneweg bereid was te sluiten.\nAfscheid\nIn\n1931 werd Groeneweg \u00e2\u0080\u0093 opnieuw als eerste vrouw \u00e2\u0080\u0093 be\u00c3\u00abdigd als onbezoldigd ambtenaar\nvan de Burgerlijke Stand en was daarmee de eerste vrouw in Nederland die een\nhuwelijk voltrok. De laatste jaren van haar Kamerlidmaatschap had zij te kampen\nmet toenemende gezondheidsproblemen. In 1937 verliet zij de Kamer. Ter\ngelegenheid van haar afscheid liet het partijbestuur een gedenkboek\nsamenstellen: Suze Groeneweg. Haar\nbetekenis voor de arbeidersbeweging, met veel lof van vooraanstaande\npartijleden als Vorrink, Vliegen en Albarda. In dat jaar werd ze ook benoemd\ntot Ridder in de Orde van de Nederlandse Leeuw, samen met partijgenoot Vliegen\n\u00e2\u0080\u0093 ze waren de eerste SDAP-Kamerleden die deze onderscheiding kregen. Hierna trok\nze zich terug in haar huis in Barendrecht, waar ze sinds 1933 woonde. Op 19\noktober 1940 stierf Suze Groeneweg, 65 jaar oud. Onder grote belangstelling werd\nzij op 23 oktober begraven op de Algemene Begraafplaats Crooswijk te Rotterdam.\nReputatie\nSuze\nGroeneweg is vooral bekend geworden als de eerste vrouw in de Tweede kamer. Zij\nhad daar een gedegen reputatie. De liberale politicus P.J. Oud noemde haar\n\u00e2\u0080\u0098geen katje om zonder handschoenen aan te pakken\u00e2\u0080\u0099(PDC). Lange tijd heeft zij\nals (bijna) enige vrouw moeten opereren in een mannenwereld, terwijl ze\ntegelijk kritiek kreeg van de meer feministisch gestemde vrouwen in de partij. Groenewegs\nnagedachtenis wordt levend gehouden door de Suze Groenewegschool (het\nopleidingsinstituut van de PvdA) en een tweejaarlijkse Suze Groenewegprijs voor\nroldoorbrekende initiatieven in de opvoeding, uitgereikt op Internationale\nVrouwendag. Verder zijn er verschillende plaatsen in Nederland die een laan\n(Rotterdam, Amstelveen, Vlissingen), straat (Eindhoven, Culemborg, Pijnacker,\nTiel) of erf (Dordrecht en Voorschoten) naar haar hebben vernoemd.\nNaslagwerken\nBWSA;\nPDC.\nPublicaties\nWelk belang heeft de\narbeidersvrouw bij het werken der SDAP? (Rotterdam 1906).Vakbeweging en\ngeheelonthouding (z.p. 1916).Het moederschap in\neere! Een pleidooi voor moederschapszorg (Amsterdam 1918).Het algemeen\nvrouwenkiesrecht een mannenbelang (Amsterdam z.j.).Drankbestrijding als\nmoederschapszorg (Utrecht 1921).Al geesteslicht, al\nwetensmacht!\nAmsterdam 1933)Onze plicht en onze\nvreugde\n(Amsterdam 1927).Een eereschuld aan de\nmoeders: kamerrede gehouden op 14 maart 1929.\u00e2\u0080\u009cDe\nvrouw in het openbare leven\u00e2\u0080\u0099, in: Het\ngeheel en de deelen (Utrecht 1922).\u00e2\u0080\u0098Het\naanvullend onderwijs voor de rijpere jeugd\u00e2\u0080\u0099, De Socialistische Gids (1930) 776-784.\nLiteratuur\nAfgezien\nvan diverse krantenartikelen (zie http://kranten.kb.nl\n):\nD.\nHans, Parlements-film: figuren en\nmomenten uit de Nederlandsche volksvertegenwoordiging (Scheveningen 1923).A.E.J.\nde Vries-Bruins, Suze Groeneweg: haar\nbetekenis voor de moderne arbeidersbeweging (Amsterdam 1937).Joyce\nOutshoorn, Vrouwenemancipatie en\nsocialisme. De SDAP en het \u00e2\u0080\u0098vrouwenvraagstuk\u00e2\u0080\u0099 1894-1919 (Nijmegen 1973).D.\nHillenius, \u00e2\u0080\u0098De aanleg van de vrouw is nu eenmaal anders dan die van de man\u00e2\u0080\u0099, NG- magazine 47 (1993) nr. 3, 18-20.Ulla\nJansz, Vrouwen, ontwaakt! Driekwart eeuw\nsociaal-democratische vrouwenorganisatie tussen solidariteit en verzet (Amsterdam\n1983).P.\nRol, J. Hofman, \u00e2\u0080\u0098Suze Groeneweg: de eerste vrouw op het pluche\u00e2\u0080\u0099, Rooie Vrouw (mei 1988) 15-17.Katja\nMeertens, \u00e2\u0080\u009cIn 1918 zat er maar \u00c3\u00a9\u00c3\u00a9n vrouw in de Tweede Kamer, nu zijn het er\n62!, Margriet (2009), nr. 11, 42-47.Marja\nde Groot, Van koeriersterspad tot\nKlomp\u00c3\u00a9straat (Velserbroek 1992).Jan\nde Roos, Met enige schroom: pioniers in\nhet lokaal bestuur (Amsterdam 2000).Illustratie\nFoto, 1935. Collectie IISG, Amsterdam\nAuteur:\nAstrid de Beer",
     "uri": "/Users/antskez/BNtest/naf_build_set/66465738_02.xml.gz"
    },
@@ -2262,7 +2440,7 @@
    }
   ],
   "story_cnt": [
-   24
+   25
   ],
   "text": "Biographical lines",
   "type": "default"
