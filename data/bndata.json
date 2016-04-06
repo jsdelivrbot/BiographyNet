@@ -4,9 +4,135 @@
    25
   ],
   "event_cnt": [
-   38
+   62
   ],
   "events": [
+   {
+    "actors": {
+     "A0": [
+      "Emilie_Josephine_Belinfante"
+     ]
+    },
+    "climax": 1,
+    "event": "schrijven1928",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#schrijven1928",
+    "labels": [
+     "schrijven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2943",
+       "2952"
+      ],
+      "sentence": [
+       "24"
+      ],
+      "terms": [
+       "t_507"
+      ],
+      "tokens": [
+       "w508"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "schrijven"
+    ],
+    "sentence": "24",
+    "size": "1",
+    "time": "19280101"
+   },
+   {
+    "actors": {
+     "A0": [
+      "Elisabeth_Margaretha_Rogge"
+     ]
+    },
+    "climax": 1,
+    "event": "schrijven1903",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#schrijven1903",
+    "labels": [
+     "schrijven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2460",
+       "2467"
+      ],
+      "sentence": [
+       "23"
+      ],
+      "terms": [
+       "t_411"
+      ],
+      "tokens": [
+       "w412"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "schrijven"
+    ],
+    "sentence": "23",
+    "size": "1",
+    "time": "19030101"
+   },
+   {
+    "actors": {
+     "Arg2": [
+      "Catharina_van_Rennes"
+     ]
+    },
+    "climax": 1,
+    "event": "leiden1909",
+    "group": "100:leiden",
+    "groupName": "leiden",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#leiden1909",
+    "labels": [
+     "leiden"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "3598",
+       "3604"
+      ],
+      "sentence": [
+       "31"
+      ],
+      "terms": [
+       "t_633"
+      ],
+      "tokens": [
+       "w634"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/45236379_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "leiden"
+    ],
+    "sentence": "31",
+    "size": "1",
+    "time": "19090101"
+   },
    {
     "actors": {
      "A0": [
@@ -405,6 +531,90 @@
    },
    {
     "actors": {
+     "ArgM-PNC": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     ]
+    },
+    "climax": 1,
+    "event": "organiseren1898",
+    "group": "100:organiseren",
+    "groupName": "organiseren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#organiseren1898",
+    "labels": [
+     "organiseren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2106",
+       "2117"
+      ],
+      "sentence": [
+       "16"
+      ],
+      "terms": [
+       "t_376"
+      ],
+      "tokens": [
+       "w377"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/76240048_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "organiseren"
+    ],
+    "sentence": "16",
+    "size": "1",
+    "time": "18980101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Rosa_Manus"
+     ]
+    },
+    "climax": 1,
+    "event": "organiseren1893",
+    "group": "100:organiseren",
+    "groupName": "organiseren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#organiseren1893",
+    "labels": [
+     "organiseren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "3047",
+       "3059"
+      ],
+      "sentence": [
+       "20"
+      ],
+      "terms": [
+       "t_520"
+      ],
+      "tokens": [
+       "w521"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/46544846_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "organiseren"
+    ],
+    "sentence": "20",
+    "size": "1",
+    "time": "18930101"
+   },
+   {
+    "actors": {
      "A0": [
       "Johanna_Helena_van_Uden"
      ],
@@ -453,45 +663,45 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Geertruida_R\u00f6melingh"
+     "Arg0": [
+      "Johanna_Wilhelmina_Antoinette_Naber"
      ]
     },
     "climax": 1,
-    "event": "birth1850",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "publiceren1890",
+    "group": "100:publiceren",
+    "groupName": "publiceren",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1850",
+    "instance": "bn:dvn_1900-1949#publiceren1890",
     "labels": [
-     "birth"
+     "publiceren"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "2838",
+       "2849"
       ],
       "sentence": [
-       "-1"
+       "31"
       ],
       "terms": [
-       "t-1"
+       "t_498"
       ],
       "tokens": [
-       "w-1"
+       "w499"
       ],
       "uri": [
-       "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/06656337_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "publiceren"
     ],
-    "sentence": "metadata",
+    "sentence": "31",
     "size": "1",
-    "time": "18500101"
+    "time": "18900101"
    },
    {
     "actors": {
@@ -534,6 +744,90 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19030101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Elisabeth_Margaretha_Rogge"
+     ]
+    },
+    "climax": 1,
+    "event": "publiceren1906",
+    "group": "100:publiceren",
+    "groupName": "publiceren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#publiceren1906",
+    "labels": [
+     "publiceren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2859",
+       "2870"
+      ],
+      "sentence": [
+       "26"
+      ],
+      "terms": [
+       "t_477"
+      ],
+      "tokens": [
+       "w478"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/84058368_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "publiceren"
+    ],
+    "sentence": "26",
+    "size": "1",
+    "time": "19060101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Emilie_Josephine_Belinfante"
+     ]
+    },
+    "climax": 1,
+    "event": "werken1907",
+    "group": "100:werken",
+    "groupName": "werken",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#werken1907",
+    "labels": [
+     "werken"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "1814",
+       "1820"
+      ],
+      "sentence": [
+       "16"
+      ],
+      "terms": [
+       "t_324"
+      ],
+      "tokens": [
+       "w325"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "werken"
+    ],
+    "sentence": "16",
+    "size": "1",
+    "time": "19070101"
    },
    {
     "actors": {
@@ -666,45 +960,45 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     "Arg1": [
+      "Anna_Sophie_Polak"
      ]
     },
     "climax": 1,
-    "event": "birth1868",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "benoemen1926",
+    "group": "100:benoemen",
+    "groupName": "benoemen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1868",
+    "instance": "bn:dvn_1900-1949#benoemen1926",
     "labels": [
-     "birth"
+     "benoemen"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "4763",
+       "4770"
       ],
       "sentence": [
-       "-1"
+       "39"
       ],
       "terms": [
-       "t-1"
+       "t_830"
       ],
       "tokens": [
-       "w-1"
+       "w831"
       ],
       "uri": [
-       "/Users/antskez/BNtest/died_during_war/83573201_03.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/33536988_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "benoemen"
     ],
-    "sentence": "metadata",
+    "sentence": "39",
     "size": "1",
-    "time": "18680101"
+    "time": "19260101"
    },
    {
     "actors": {
@@ -876,45 +1170,129 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     "A0": [
+      "Johanna_Wilhelmina_Antoinette_Naber"
      ]
     },
     "climax": 1,
-    "event": "birth1866",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "schrijven1923",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1866",
+    "instance": "bn:dvn_1900-1949#schrijven1923",
     "labels": [
-     "birth"
+     "schrijven"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "8079",
+       "8086"
       ],
       "sentence": [
-       "-1"
+       "70"
       ],
       "terms": [
-       "t-1"
+       "t_1361"
       ],
       "tokens": [
-       "w-1"
+       "w1362"
       ],
       "uri": [
-       "/Users/antskez/BNtest/died_during_war/76240048_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/06656337_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "schrijven"
     ],
-    "sentence": "metadata",
+    "sentence": "70",
     "size": "1",
-    "time": "18660101"
+    "time": "19230101"
+   },
+   {
+    "actors": {
+     "Arg1": [
+      "Frederika_Sophia_Cohen"
+     ]
+    },
+    "climax": 1,
+    "event": "werken1928",
+    "group": "100:werken",
+    "groupName": "werken",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#werken1928",
+    "labels": [
+     "werken"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "929",
+       "935"
+      ],
+      "sentence": [
+       "13"
+      ],
+      "terms": [
+       "t_177"
+      ],
+      "tokens": [
+       "w178"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/70226875_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "werken"
+    ],
+    "sentence": "13",
+    "size": "1",
+    "time": "19280101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Hermine_Christine_H\u00e9l\u00e8ne_Moquette"
+     ]
+    },
+    "climax": 1,
+    "event": "publiceren1917",
+    "group": "100:publiceren",
+    "groupName": "publiceren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#publiceren1917",
+    "labels": [
+     "publiceren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "7351",
+       "7362"
+      ],
+      "sentence": [
+       "64"
+      ],
+      "terms": [
+       "t_1302"
+      ],
+      "tokens": [
+       "w1303"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/13719860_03.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "publiceren"
+    ],
+    "sentence": "64",
+    "size": "1",
+    "time": "19170101"
    },
    {
     "actors": {
@@ -1047,6 +1425,51 @@
    },
    {
     "actors": {
+     "A0": [
+      "Elisabeth_Carolina_van_Dorp"
+     ],
+     "A1": [
+      "Elisabeth_Carolina_van_Dorp"
+     ]
+    },
+    "climax": 1,
+    "event": "schrijven1916",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#schrijven1916",
+    "labels": [
+     "schrijven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "3316",
+       "3323"
+      ],
+      "sentence": [
+       "29"
+      ],
+      "terms": [
+       "t_580"
+      ],
+      "tokens": [
+       "w581"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "schrijven"
+    ],
+    "sentence": "29",
+    "size": "1",
+    "time": "19160101"
+   },
+   {
+    "actors": {
      "Arg1-PPT": [
       "Reina__Prinsen_Geerligs"
      ]
@@ -1086,6 +1509,48 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19220101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1868",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1868",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/83573201_03.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18680101"
    },
    {
     "actors": {
@@ -1731,6 +2196,48 @@
    },
    {
     "actors": {
+     "Arg0": [
+      "Emilie_Josephine_Belinfante"
+     ]
+    },
+    "climax": 1,
+    "event": "publiceren1928",
+    "group": "100:publiceren",
+    "groupName": "publiceren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#publiceren1928",
+    "labels": [
+     "publiceren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "3014",
+       "3025"
+      ],
+      "sentence": [
+       "24"
+      ],
+      "terms": [
+       "t_517"
+      ],
+      "tokens": [
+       "w518"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "publiceren"
+    ],
+    "sentence": "24",
+    "size": "1",
+    "time": "19280101"
+   },
+   {
+    "actors": {
      "A0": [
       "Johanna_Helena_van_Uden"
      ],
@@ -1792,6 +2299,222 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19490101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "C\u00e9cile_Wilhelmina_Elisabeth_Jeanne_Petronella_de_Jong_van_Beek_en_Donk"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1866",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1866",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/76240048_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18660101"
+   },
+   {
+    "actors": {
+     "Arg1": [
+      "Alida_de_Jong"
+     ],
+     "ArgM-LOC": [
+      "Alida_de_Jong"
+     ]
+    },
+    "climax": 1,
+    "event": "vermoorden1943",
+    "group": "100:vermoorden",
+    "groupName": "vermoorden",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#vermoorden1943",
+    "labels": [
+     "vermoorden"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "6549",
+       "6557"
+      ],
+      "sentence": [
+       "54"
+      ],
+      "terms": [
+       "t_1171"
+      ],
+      "tokens": [
+       "w1172"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/47512603_05.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "vermoorden"
+    ],
+    "sentence": "54",
+    "size": "1",
+    "time": "19430101"
+   },
+   {
+    "actors": {
+     "#": [
+      "Cornelia_Hubertina_Doff"
+     ],
+     "Arg1": [
+      "Cornelia_Hubertina_Doff"
+     ]
+    },
+    "climax": 1,
+    "event": "werken1918",
+    "group": "100:werken",
+    "groupName": "werken",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#werken1918",
+    "labels": [
+     "werken"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "4189",
+       "4195"
+      ],
+      "sentence": [
+       "44"
+      ],
+      "terms": [
+       "t_787"
+      ],
+      "tokens": [
+       "w788"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/20511412_04.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "werken"
+    ],
+    "sentence": "44",
+    "size": "1",
+    "time": "19180101"
+   },
+   {
+    "actors": {
+     "A0": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ]
+    },
+    "climax": 1,
+    "event": "schilderen1920",
+    "group": "100:schilderen",
+    "groupName": "schilderen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#schilderen1920",
+    "labels": [
+     "schilderen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "5137",
+       "5147"
+      ],
+      "sentence": [
+       "53"
+      ],
+      "terms": [
+       "t_905"
+      ],
+      "tokens": [
+       "w906"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "schilderen"
+    ],
+    "sentence": "53",
+    "size": "1",
+    "time": "19200101"
+   },
+   {
+    "actors": {
+     "Arg1": [
+      "Johanna_Petronella_Catharina_Antoinetta__Koster"
+     ]
+    },
+    "climax": 1,
+    "event": "werken1916",
+    "group": "100:werken",
+    "groupName": "werken",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#werken1916",
+    "labels": [
+     "werken"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2974",
+       "2980"
+      ],
+      "sentence": [
+       "33"
+      ],
+      "terms": [
+       "t_526"
+      ],
+      "tokens": [
+       "w527"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/83573201_03.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "werken"
+    ],
+    "sentence": "33",
+    "size": "1",
+    "time": "19160101"
    },
    {
     "actors": {
@@ -2007,6 +2730,90 @@
    {
     "actors": {
      "Arg1-PPT": [
+      "Geertruida_R\u00f6melingh"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1850",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1850",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/48660300_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18500101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Johanna_Wilhelmina_Antoinette_Naber"
+     ]
+    },
+    "climax": 1,
+    "event": "organiseren1903",
+    "group": "100:organiseren",
+    "groupName": "organiseren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#organiseren1903",
+    "labels": [
+     "organiseren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "2345",
+       "2357"
+      ],
+      "sentence": [
+       "23"
+      ],
+      "terms": [
+       "t_415"
+      ],
+      "tokens": [
+       "w416"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/06656337_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "organiseren"
+    ],
+    "sentence": "23",
+    "size": "1",
+    "time": "19030101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
       "Helena_Theodora_Rietberg"
      ]
     },
@@ -2045,6 +2852,132 @@
     "sentence": "metadata",
     "size": "1",
     "time": "18930101"
+   },
+   {
+    "actors": {
+     "Arg1": [
+      "Emilie_Josephine_Belinfante"
+     ]
+    },
+    "climax": 1,
+    "event": "benoemen1938",
+    "group": "100:benoemen",
+    "groupName": "benoemen",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#benoemen1938",
+    "labels": [
+     "benoemen"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "3857",
+       "3864"
+      ],
+      "sentence": [
+       "31"
+      ],
+      "terms": [
+       "t_654"
+      ],
+      "tokens": [
+       "w655"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/99789685_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "benoemen"
+    ],
+    "sentence": "31",
+    "size": "1",
+    "time": "19380101"
+   },
+   {
+    "actors": {
+     "A0": [
+      "Esther_Hillesum"
+     ]
+    },
+    "climax": 1,
+    "event": "schrijven1942",
+    "group": "100:schrijven",
+    "groupName": "schrijven",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#schrijven1942",
+    "labels": [
+     "schrijven"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "5182",
+       "5189"
+      ],
+      "sentence": [
+       "43"
+      ],
+      "terms": [
+       "t_935"
+      ],
+      "tokens": [
+       "w936"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/51861341_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "schrijven"
+    ],
+    "sentence": "43",
+    "size": "1",
+    "time": "19420101"
+   },
+   {
+    "actors": {
+     "Arg1-PPT": [
+      "Elisabeth_Carolina_van_Dorp"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1872",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1872",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "0",
+       "0"
+      ],
+      "sentence": [
+       "-1"
+      ],
+      "terms": [
+       "t-1"
+      ],
+      "tokens": [
+       "w-1"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/died_during_war/59484302_02.xml#metadata"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "metadata",
+    "size": "1",
+    "time": "18720101"
    },
    {
     "actors": {
@@ -2194,50 +3127,140 @@
    },
    {
     "actors": {
-     "Arg1-PPT": [
-      "Elisabeth_Carolina_van_Dorp"
+     "Arg1": [
+      "Rosa_Manus"
      ]
     },
     "climax": 1,
-    "event": "birth1872",
-    "group": "100:birth",
-    "groupName": "birth",
+    "event": "benoemen1936",
+    "group": "100:benoemen",
+    "groupName": "benoemen",
     "groupScore": "100",
-    "instance": "bn:dvn_1900-1949#birth1872",
+    "instance": "bn:dvn_1900-1949#benoemen1936",
     "labels": [
-     "birth"
+     "benoemen"
     ],
     "mentions": [
      {
       "char": [
-       "0",
-       "0"
+       "6511",
+       "6518"
       ],
       "sentence": [
-       "-1"
+       "37"
       ],
       "terms": [
-       "t-1"
+       "t_1088"
       ],
       "tokens": [
-       "w-1"
+       "w1089"
       ],
       "uri": [
-       "/Users/antskez/BNtest/died_during_war/59484302_02.xml#metadata"
+       "/Users/antskez/BNtest/naf_build_set/46544846_02.xml.gz"
       ]
      }
     ],
     "prefLabel": [
-     "birth"
+     "benoemen"
     ],
-    "sentence": "metadata",
+    "sentence": "37",
     "size": "1",
-    "time": "18720101"
+    "time": "19360101"
+   },
+   {
+    "actors": {
+     "#": [
+      "Elisabeth_Carolina_van_Dorp"
+     ],
+     "Arg0": [
+      "Elisabeth_Carolina_van_Dorp"
+     ],
+     "Arg1": [
+      "Elisabeth_Carolina_van_Dorp"
+     ]
+    },
+    "climax": 1,
+    "event": "publiceren1920",
+    "group": "100:publiceren",
+    "groupName": "publiceren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#publiceren1920",
+    "labels": [
+     "publiceren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "4813",
+       "4824"
+      ],
+      "sentence": [
+       "39"
+      ],
+      "terms": [
+       "t_830"
+      ],
+      "tokens": [
+       "w831"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/59484302_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "publiceren"
+    ],
+    "sentence": "39",
+    "size": "1",
+    "time": "19200101"
+   },
+   {
+    "actors": {
+     "Arg0": [
+      "Cornelia_Hubertina_Doff"
+     ]
+    },
+    "climax": 1,
+    "event": "publiceren1923",
+    "group": "100:publiceren",
+    "groupName": "publiceren",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#publiceren1923",
+    "labels": [
+     "publiceren"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "4425",
+       "4435"
+      ],
+      "sentence": [
+       "46"
+      ],
+      "terms": [
+       "t_834"
+      ],
+      "tokens": [
+       "w835"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/20511412_04.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "publiceren"
+    ],
+    "sentence": "46",
+    "size": "1",
+    "time": "19230101"
    }
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   38
+   62
   ],
   "sources": [
    {
