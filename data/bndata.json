@@ -4,7 +4,7 @@
    25
   ],
   "event_cnt": [
-   37
+   38
   ],
   "events": [
    {
@@ -90,6 +90,48 @@
     "sentence": "metadata",
     "size": "1",
     "time": "19180101"
+   },
+   {
+    "actors": {
+     "Arg1": [
+      "Rosa_Manus"
+     ]
+    },
+    "climax": 1,
+    "event": "birth1930",
+    "group": "100:birth",
+    "groupName": "birth",
+    "groupScore": "100",
+    "instance": "bn:dvn_1900-1949#birth1930",
+    "labels": [
+     "birth"
+    ],
+    "mentions": [
+     {
+      "char": [
+       "375",
+       "382"
+      ],
+      "sentence": [
+       "6"
+      ],
+      "terms": [
+       "t_71"
+      ],
+      "tokens": [
+       "w72"
+      ],
+      "uri": [
+       "/Users/antskez/BNtest/naf_build_set/46544846_02.xml.gz"
+      ]
+     }
+    ],
+    "prefLabel": [
+     "birth"
+    ],
+    "sentence": "6",
+    "size": "1",
+    "time": "19300101"
    },
    {
     "actors": {
@@ -2195,7 +2237,7 @@
   ],
   "headline": "Digitaal Vrouwenlexicon van Nederland (gestroven 1900-1950)",
   "mention_cnt": [
-   37
+   38
   ],
   "sources": [
    {
